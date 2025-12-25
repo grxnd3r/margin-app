@@ -33,11 +33,48 @@ function writeLocalState(next) {
   }
 }
 
+function normalizeImport(payload) {
+  const meta = payload?.meta && typeof payload.meta === "object" ? payload.meta : { version: 1 };
+  const clients = Array.isArray(payload?.clients) ? payload.clients : [];
+  const projects = Array.isArray(payload?.projects) ? payload.projects : [];
+
+  const cleanClients = clients
+    .filter((c) => c && typeof c === "object")
+    .map((c) => ({
+      id: typeof c.id === "string" && c.id ? c.id : nanoid(),
+      name: String(c.name || "").trim() || "Unnamed Client",
+      image: typeof c.image === "string" ? c.image : null,
+      createdAt: typeof c.createdAt === "string" ? c.createdAt : nowIso(),
+      updatedAt: nowIso(),
+    }));
+
+  const cleanProjects = projects
+    .filter((p) => p && typeof p === "object")
+    .map((p) => ({
+      id: typeof p.id === "string" && p.id ? p.id : nanoid(),
+      title: String(p.title || "").trim() || "Untitled Project",
+      clientId: p.clientId || null,
+      status: p.status || "Draft",
+      date: typeof p.date === "string" ? p.date : nowIso(),
+      createdAt: typeof p.createdAt === "string" ? p.createdAt : nowIso(),
+      updatedAt: nowIso(),
+      products: Array.isArray(p.products) ? p.products : [],
+      image: typeof p.image === "string" ? p.image : null,
+    }));
+
+  return { meta: { ...meta, version: 1 }, clients: cleanClients, projects: cleanProjects };
+}
+
 function api() {
   if (window.mm) return window.mm;
   // Dev fallback (browser preview): in Electron, preload injects window.mm
   return {
     getState: async () => readLocalState(),
+    replaceState: async (next) => {
+      const clean = normalizeImport(next);
+      writeLocalState(clean);
+      return { ok: true };
+    },
     upsertClient: async (payload) => {
       const data = readLocalState();
       const name = String(payload?.name || "").trim();
@@ -227,6 +264,63 @@ export function DbProvider({ children }) {
     return saved;
   }
 
+  async function replaceState(next) {
+    const clean = normalizeImport(next);
+    try {
+      await api().replaceState(clean);
+      await refresh();
+      notifications.show({
+        color: "teal",
+        title: "Import réussi",
+        message: `${clean.clients.length} clients · ${clean.projects.length} projets`,
+      });
+      return { ok: true };
+    } catch (e) {
+      notifications.show({
+        color: "red",
+        title: "Import échoué",
+        message: e?.message || "Impossible d'importer le fichier.",
+      });
+      throw e;
+    }
+  }
+
+  async function mergeState(next) {
+    const clean = normalizeImport(next);
+    const a = api();
+    try {
+      await Promise.allSettled([
+        ...(clean.clients || []).map((c) => a.upsertClient(c)),
+        ...(clean.projects || []).map((p) => a.upsertProject(p)),
+      ]);
+      await refresh();
+      notifications.show({
+        color: "teal",
+        title: "Import (fusion) réussi",
+        message: `${clean.clients.length} clients · ${clean.projects.length} projets`,
+      });
+      return { ok: true };
+    } catch (e) {
+      notifications.show({
+        color: "red",
+        title: "Import échoué",
+        message: e?.message || "Impossible d'importer le fichier.",
+      });
+      throw e;
+    }
+  }
+
+  function exportState() {
+    const clean = normalizeImport(state);
+    return {
+      ...clean,
+      meta: {
+        ...(clean.meta || { version: 1 }),
+        exportedAt: nowIso(),
+      },
+    };
+  }
+
   const value = useMemo(
     () => ({
       state,
@@ -235,6 +329,9 @@ export function DbProvider({ children }) {
       upsertProject,
       deleteProject,
       upsertClient,
+      replaceState,
+      mergeState,
+      exportState,
     }),
     [state, loading]
   );

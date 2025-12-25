@@ -183,6 +183,7 @@ function ProjectsListView() {
                   radius="lg"
                   p="lg"
                   onClick={() => navigate(`/projects/edit/${p.id}`)}
+                  className="mm-clickCard"
                   style={{
                     cursor: "pointer",
                     background: "rgba(255,255,255,0.04)",
@@ -422,6 +423,7 @@ function ClientsListView() {
                   radius="lg"
                   p="lg"
                   onClick={() => navigate(`/projects/clients/${c.id}`)}
+                  className="mm-clickCard"
                   style={{
                     cursor: "pointer",
                     background: "rgba(255,255,255,0.04)",
@@ -653,6 +655,7 @@ function ClientDetailView() {
                   radius="lg"
                   p="lg"
                   onClick={() => navigate(`/projects/edit/${p.id}`)}
+                  className="mm-clickCard"
                   style={{
                     cursor: "pointer",
                     background: "rgba(255,255,255,0.04)",

@@ -289,6 +289,7 @@ export function Dashboard() {
                   border: "1px solid rgba(255,255,255,0.10)",
                   borderRadius: 12,
                 }}
+                cursor={false}
                 formatter={(value, name, item) => {
                   if (name === "revenue") return [EUR.format(value), "Revenue"];
                   if (name === "profit") return [EUR.format(value), "Profit"];
@@ -301,12 +302,14 @@ export function Dashboard() {
                 dataKey="revenue"
                 fill="rgba(99, 102, 241, 0.78)"
                 radius={[8, 8, 0, 0]}
+                activeBar={false}
               />
               <Bar
                 yAxisId={marginMode === "percent" ? "right" : "left"}
                 dataKey={marginMode === "percent" ? "marginPct" : "profit"}
                 fill="rgba(16, 185, 129, 0.76)"
                 radius={[8, 8, 0, 0]}
+                activeBar={false}
               />
             </BarChart>
           </ResponsiveContainer>

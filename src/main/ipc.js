@@ -11,6 +11,38 @@ function upsertById(list, entity) {
   else list[idx] = entity;
 }
 
+function normalizeIncomingDb(payload) {
+  const meta = payload?.meta && typeof payload.meta === "object" ? payload.meta : { version: 1 };
+  const clients = Array.isArray(payload?.clients) ? payload.clients : [];
+  const projects = Array.isArray(payload?.projects) ? payload.projects : [];
+
+  const cleanClients = clients
+    .filter((c) => c && typeof c === "object")
+    .map((c) => ({
+      id: typeof c.id === "string" ? c.id : nanoid(),
+      name: String(c.name || "").trim() || "Unnamed Client",
+      image: typeof c.image === "string" ? c.image : null,
+      createdAt: typeof c.createdAt === "string" ? c.createdAt : nowIso(),
+      updatedAt: nowIso(),
+    }));
+
+  const cleanProjects = projects
+    .filter((p) => p && typeof p === "object")
+    .map((p) => ({
+      id: typeof p.id === "string" ? p.id : nanoid(),
+      title: String(p.title || "").trim() || "Untitled Project",
+      clientId: p.clientId || null,
+      status: p.status || "Draft",
+      date: typeof p.date === "string" ? p.date : nowIso(),
+      createdAt: typeof p.createdAt === "string" ? p.createdAt : nowIso(),
+      updatedAt: nowIso(),
+      products: Array.isArray(p.products) ? p.products : [],
+      image: typeof p.image === "string" ? p.image : null,
+    }));
+
+  return { meta: { ...meta, version: 1 }, clients: cleanClients, projects: cleanProjects };
+}
+
 export function registerIpc(db) {
   ipcMain.handle("app:info", async () => {
     return { ok: true };
@@ -19,6 +51,14 @@ export function registerIpc(db) {
   ipcMain.handle("db:get", async () => {
     await db.read();
     return db.data;
+  });
+
+  ipcMain.handle("db:replace", async (_evt, payload) => {
+    await db.read();
+    const next = normalizeIncomingDb(payload);
+    db.data = next;
+    await db.write();
+    return { ok: true };
   });
 
   ipcMain.handle("db:upsertClient", async (_evt, payload) => {
