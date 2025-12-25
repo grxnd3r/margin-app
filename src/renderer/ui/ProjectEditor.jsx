@@ -302,7 +302,6 @@ export function ProjectEditor() {
         <Table
           verticalSpacing="sm"
           horizontalSpacing="sm"
-          highlightOnHover
           withRowBorders
           styles={{
             table: {

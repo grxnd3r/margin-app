@@ -1,0 +1,6209 @@
+{
+  "meta": {
+    "version": 1,
+    "exportedAt": "2025-12-25T22:15:57.077Z"
+  },
+  "clients": [
+    {
+      "id": "XVuaihXggZrGJ0ucQYTDS",
+      "name": "Nordic Café",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.050Z"
+    },
+    {
+      "id": "L6RPanHEcyvKIBpldwEqB",
+      "name": "BluePeak Studio",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "KuR-iZNX9-v0kIijic8ck",
+      "name": "Gore Tex",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "PbVCcFEO9PQp901b4eK4R",
+      "name": "Horizon Architecture",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "jDXcVkdF6mEKPOAuDoFd0",
+      "name": "TechFlow Solutions",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "u1-AXJ3Lgm3V4WWt3BPvz",
+      "name": "Urban Garden Co.",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "Rp4fy5VNzNSs2iSuaaM1B",
+      "name": "Apex Logistics",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "660z2WHqhASPxvmIq05G4",
+      "name": "Starlight Events",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "-L5wF1YXYvErkhB4RIZqO",
+      "name": "Velocity Motors",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "YIcffCxPxyPYONmHa7Awj",
+      "name": "Creative Minds Agency",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "RtGyso2yYSpKyHe0Ulysi",
+      "name": "EcoStruct Builders",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "twq182MxhANz0vQ6j4a_h",
+      "name": "Redwood Legal",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "_slWnOQdVhF28xtb0j98B",
+      "name": "Summit Financial",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.051Z"
+    },
+    {
+      "id": "Jd_5uxRG-vFqmyUI1p-_n",
+      "name": "Oceanic Shipping",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.054Z"
+    },
+    {
+      "id": "trWHwLK8oEHmBdLOYdKGS",
+      "name": "Quantum Labs",
+      "image": null,
+      "createdAt": "2024-12-31T23:00:00.000Z",
+      "updatedAt": "2025-12-25T22:15:57.054Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "5V-c95VtYm_qv3gQV-OjN",
+      "title": "BluePeak Studio - Spring Campaign",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-01-26T13:46:57.000Z",
+      "createdAt": "2025-01-26T13:46:57.000Z",
+      "updatedAt": "2025-01-26T13:46:57.000Z",
+      "products": [
+        {
+          "id": "0Ez3AyiWQfaST3tB-hBm7",
+          "title": "Main d'oeuvre",
+          "costPrice": 3238,
+          "sellingPrice": 3821,
+          "date": "2025-01-26T13:46:57.000Z"
+        },
+        {
+          "id": "t0pF4demfa72G37JcNLsd",
+          "title": "Consulting Fee",
+          "costPrice": 3695,
+          "sellingPrice": 5247,
+          "date": "2025-01-26T13:46:57.000Z"
+        },
+        {
+          "id": "yx0zVsrAMeQ_0350u33HJ",
+          "title": "Equipment Rental",
+          "costPrice": 891,
+          "sellingPrice": 1114,
+          "date": "2025-01-26T13:46:57.000Z"
+        },
+        {
+          "id": "xi50SgFVpXPGBVih8q9tR",
+          "title": "Transport",
+          "costPrice": 439,
+          "sellingPrice": 637,
+          "date": "2025-01-26T13:46:57.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "8Yo9OOlSqIzh1fgxmlxlQ",
+      "title": "Oceanic Shipping - Q1 Logistics",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Completed",
+      "date": "2025-01-03T08:32:43.000Z",
+      "createdAt": "2025-01-03T08:32:43.000Z",
+      "updatedAt": "2025-01-03T08:32:43.000Z",
+      "products": [
+        {
+          "id": "LF-ObHubrx6KA3Z_fZJQ5",
+          "title": "Transport",
+          "costPrice": 705,
+          "sellingPrice": 888,
+          "date": "2025-01-03T08:32:43.000Z"
+        },
+        {
+          "id": "K98NmBBpSAwhFEfMmxYYD",
+          "title": "Consulting Fee",
+          "costPrice": 1463,
+          "sellingPrice": 2077,
+          "date": "2025-01-03T08:32:43.000Z"
+        },
+        {
+          "id": "1Fgw6T5T8l8SfDWWQCRyS",
+          "title": "Software License",
+          "costPrice": 227,
+          "sellingPrice": 275,
+          "date": "2025-01-03T08:32:43.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "bsBDB0r7KuIUfjJgx36YG",
+      "title": "Oceanic Shipping - Spring Campaign",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Completed",
+      "date": "2025-01-28T13:22:14.000Z",
+      "createdAt": "2025-01-28T13:22:14.000Z",
+      "updatedAt": "2025-01-28T13:22:14.000Z",
+      "products": [
+        {
+          "id": "kdsW5D4qToreM0VRW9_3F",
+          "title": "Consulting Fee",
+          "costPrice": 3716,
+          "sellingPrice": 4273,
+          "date": "2025-01-28T13:22:14.000Z"
+        },
+        {
+          "id": "5nCZr7SVTvWVPhTKk_vdt",
+          "title": "Transport",
+          "costPrice": 1043,
+          "sellingPrice": 1231,
+          "date": "2025-01-28T13:22:14.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "z3Fn6o0pdDJpf1S20a_e_",
+      "title": "Velocity Motors - Security Audit",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-01-02T08:06:11.000Z",
+      "createdAt": "2025-01-02T08:06:11.000Z",
+      "updatedAt": "2025-01-02T08:06:11.000Z",
+      "products": [
+        {
+          "id": "xtCAvxgExAr-JSyUI7-T7",
+          "title": "Permits & Fees",
+          "costPrice": 122,
+          "sellingPrice": 161,
+          "date": "2025-01-02T08:06:11.000Z"
+        },
+        {
+          "id": "1kZBSVKuNOZfT3xoaVtOd",
+          "title": "Consulting Fee",
+          "costPrice": 2272,
+          "sellingPrice": 2885,
+          "date": "2025-01-02T08:06:11.000Z"
+        },
+        {
+          "id": "MaKZDY5qYQ86nfN4avX0i",
+          "title": "Main d'oeuvre",
+          "costPrice": 3251,
+          "sellingPrice": 3804,
+          "date": "2025-01-02T08:06:11.000Z"
+        },
+        {
+          "id": "3bXLHyd-0GmfYlitF_SRq",
+          "title": "Equipment Rental",
+          "costPrice": 1142,
+          "sellingPrice": 1473,
+          "date": "2025-01-02T08:06:11.000Z"
+        },
+        {
+          "id": "u2Z7ihDBB2YLFToDbWvYn",
+          "title": "Main d'oeuvre",
+          "costPrice": 1543,
+          "sellingPrice": 1774,
+          "date": "2025-01-02T08:06:11.000Z"
+        },
+        {
+          "id": "wzxgYGkBdtqb1OumzMnTw",
+          "title": "Permits & Fees",
+          "costPrice": 156,
+          "sellingPrice": 197,
+          "date": "2025-01-02T08:06:11.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "aul0i7-0GgPDzKinXHdlW",
+      "title": "Summit Financial - Brand Overhaul",
+      "clientId": "_slWnOQdVhF28xtb0j98B",
+      "status": "Completed",
+      "date": "2025-01-20T16:59:32.000Z",
+      "createdAt": "2025-01-20T16:59:32.000Z",
+      "updatedAt": "2025-01-20T16:59:32.000Z",
+      "products": [
+        {
+          "id": "WQ7Nq6f7ldnfsFYyRSk0u",
+          "title": "Main d'oeuvre",
+          "costPrice": 3330,
+          "sellingPrice": 3929,
+          "date": "2025-01-20T16:59:32.000Z"
+        },
+        {
+          "id": "sL2EdwY_EoEIJ16vGq2p-",
+          "title": "Software License",
+          "costPrice": 174,
+          "sellingPrice": 204,
+          "date": "2025-01-20T16:59:32.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "RRdMfLUmfvKuKMNL-vMz7",
+      "title": "Urban Garden Co. - Security Audit",
+      "clientId": "u1-AXJ3Lgm3V4WWt3BPvz",
+      "status": "Completed",
+      "date": "2025-01-03T07:40:21.000Z",
+      "createdAt": "2025-01-03T07:40:21.000Z",
+      "updatedAt": "2025-01-03T07:40:21.000Z",
+      "products": [
+        {
+          "id": "29SE-ovZJs035R6ohxsAN",
+          "title": "Raw Materials",
+          "costPrice": 2212,
+          "sellingPrice": 2588,
+          "date": "2025-01-03T07:40:21.000Z"
+        },
+        {
+          "id": "L-wVZlU9hhypoIDGbCcbl",
+          "title": "Equipment Rental",
+          "costPrice": 643,
+          "sellingPrice": 862,
+          "date": "2025-01-03T07:40:21.000Z"
+        },
+        {
+          "id": "LUlyyGL9iypZxIJ1dFa5J",
+          "title": "Consulting Fee",
+          "costPrice": 3738,
+          "sellingPrice": 4747,
+          "date": "2025-01-03T07:40:21.000Z"
+        },
+        {
+          "id": "O_IKsgsqxETF-schrtnkY",
+          "title": "Permits & Fees",
+          "costPrice": 221,
+          "sellingPrice": 278,
+          "date": "2025-01-03T07:40:21.000Z"
+        },
+        {
+          "id": "DHMROoMdRNOdBVgmJqr9Z",
+          "title": "Transport",
+          "costPrice": 774,
+          "sellingPrice": 1084,
+          "date": "2025-01-03T07:40:21.000Z"
+        },
+        {
+          "id": "C8l_9mxBogQ7pvtSQhqgs",
+          "title": "Main d'oeuvre",
+          "costPrice": 4504,
+          "sellingPrice": 6351,
+          "date": "2025-01-03T07:40:21.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "zj4P77LanPOVeaw4g95rv",
+      "title": "Gore Tex - Expansion",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-01-27T09:27:25.000Z",
+      "createdAt": "2025-01-27T09:27:25.000Z",
+      "updatedAt": "2025-01-27T09:27:25.000Z",
+      "products": [
+        {
+          "id": "jhwA2U28dmZlYBaaqM1jR",
+          "title": "Raw Materials",
+          "costPrice": 2196,
+          "sellingPrice": 2899,
+          "date": "2025-01-27T09:27:25.000Z"
+        },
+        {
+          "id": "HTYbP_cktAN-t1BhbdDFn",
+          "title": "Consulting Fee",
+          "costPrice": 1172,
+          "sellingPrice": 1629,
+          "date": "2025-01-27T09:27:25.000Z"
+        },
+        {
+          "id": "sGpCYwqGauUZOHRIvS0Ya",
+          "title": "Equipment Rental",
+          "costPrice": 378,
+          "sellingPrice": 476,
+          "date": "2025-01-27T09:27:25.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "s9pwxWowmOEcUAt5ArkdZ",
+      "title": "BluePeak Studio - Brand Overhaul",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-01-16T16:53:31.000Z",
+      "createdAt": "2025-01-16T16:53:31.000Z",
+      "updatedAt": "2025-01-16T16:53:31.000Z",
+      "products": [
+        {
+          "id": "XgOBE-Xkc7GpQoOK7WbrC",
+          "title": "Consulting Fee",
+          "costPrice": 3550,
+          "sellingPrice": 4438,
+          "date": "2025-01-16T16:53:31.000Z"
+        },
+        {
+          "id": "UZg4BZdAc25pVhAzYUKS9",
+          "title": "Transport",
+          "costPrice": 628,
+          "sellingPrice": 804,
+          "date": "2025-01-16T16:53:31.000Z"
+        },
+        {
+          "id": "P8eXxrwbhX6Ego-Tgx4RK",
+          "title": "Equipment Rental",
+          "costPrice": 631,
+          "sellingPrice": 770,
+          "date": "2025-01-16T16:53:31.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "znLj76enFUOyALnotJggd",
+      "title": "BluePeak Studio - Security Audit",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-01-27T10:26:55.000Z",
+      "createdAt": "2025-01-27T10:26:55.000Z",
+      "updatedAt": "2025-01-27T10:26:55.000Z",
+      "products": [
+        {
+          "id": "tWi7ozAsVEvaj00R85QG3",
+          "title": "Equipment Rental",
+          "costPrice": 1023,
+          "sellingPrice": 1412,
+          "date": "2025-01-27T10:26:55.000Z"
+        },
+        {
+          "id": "opjJxxduSanaAeF9dsYFA",
+          "title": "Permits & Fees",
+          "costPrice": 101,
+          "sellingPrice": 126,
+          "date": "2025-01-27T10:26:55.000Z"
+        },
+        {
+          "id": "ir8GQrHVOBEU3GGHro4Qs",
+          "title": "Permits & Fees",
+          "costPrice": 219,
+          "sellingPrice": 307,
+          "date": "2025-01-27T10:26:55.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "oLcdSpLGnbTEPRL0BDgI9",
+      "title": "Creative Minds Agency - Security Audit",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Completed",
+      "date": "2025-01-26T16:58:38.000Z",
+      "createdAt": "2025-01-26T16:58:38.000Z",
+      "updatedAt": "2025-01-26T16:58:38.000Z",
+      "products": [
+        {
+          "id": "_fAPYbyQI8v6wX3K169TK",
+          "title": "Equipment Rental",
+          "costPrice": 770,
+          "sellingPrice": 885,
+          "date": "2025-01-26T16:58:38.000Z"
+        },
+        {
+          "id": "lTwSeuzRaCL0xHtN3Fl5Z",
+          "title": "Equipment Rental",
+          "costPrice": 803,
+          "sellingPrice": 1060,
+          "date": "2025-01-26T16:58:38.000Z"
+        },
+        {
+          "id": "fKi87hZjcrIAe7rnyUE_Q",
+          "title": "Permits & Fees",
+          "costPrice": 299,
+          "sellingPrice": 386,
+          "date": "2025-01-26T16:58:38.000Z"
+        },
+        {
+          "id": "UBqFR3YCSvSembuZ_Slas",
+          "title": "Main d'oeuvre",
+          "costPrice": 1140,
+          "sellingPrice": 1379,
+          "date": "2025-01-26T16:58:38.000Z"
+        },
+        {
+          "id": "0uKjx0wVjmGUpKwDLD_BF",
+          "title": "Raw Materials",
+          "costPrice": 1652,
+          "sellingPrice": 2395,
+          "date": "2025-01-26T16:58:38.000Z"
+        },
+        {
+          "id": "OZ1P__-x91-9XMJk0Vqt1",
+          "title": "Main d'oeuvre",
+          "costPrice": 1690,
+          "sellingPrice": 1943,
+          "date": "2025-01-26T16:58:38.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "bxKjYIFCaBOGLfVzo3NEh",
+      "title": "Apex Logistics - Server Upgrade",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-02-14T08:09:04.000Z",
+      "createdAt": "2025-02-14T08:09:04.000Z",
+      "updatedAt": "2025-02-14T08:09:04.000Z",
+      "products": [
+        {
+          "id": "r8nMdVJvHwA-kTFoT_9Xr",
+          "title": "Raw Materials",
+          "costPrice": 526,
+          "sellingPrice": 705,
+          "date": "2025-02-14T08:09:04.000Z"
+        },
+        {
+          "id": "AcJwJaaflp5WTd4-o1USM",
+          "title": "Transport",
+          "costPrice": 1348,
+          "sellingPrice": 1860,
+          "date": "2025-02-14T08:09:04.000Z"
+        },
+        {
+          "id": "fKyLEgrfTN4fQcE5jzsCr",
+          "title": "Software License",
+          "costPrice": 423,
+          "sellingPrice": 529,
+          "date": "2025-02-14T08:09:04.000Z"
+        },
+        {
+          "id": "dHAbcrFh-JhULQUCufjmg",
+          "title": "Equipment Rental",
+          "costPrice": 755,
+          "sellingPrice": 989,
+          "date": "2025-02-14T08:09:04.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "GUos7BYFoukcDVa7DTGFZ",
+      "title": "Nordic Café - Spring Campaign",
+      "clientId": "XVuaihXggZrGJ0ucQYTDS",
+      "status": "Completed",
+      "date": "2025-02-21T09:06:01.000Z",
+      "createdAt": "2025-02-21T09:06:01.000Z",
+      "updatedAt": "2025-02-21T09:06:01.000Z",
+      "products": [
+        {
+          "id": "fQBpUDspHtn6HrrPE4Rm5",
+          "title": "Main d'oeuvre",
+          "costPrice": 2026,
+          "sellingPrice": 2391,
+          "date": "2025-02-21T09:06:01.000Z"
+        },
+        {
+          "id": "rXwPkKTTz9S0-lh-fdhBF",
+          "title": "Transport",
+          "costPrice": 1393,
+          "sellingPrice": 1992,
+          "date": "2025-02-21T09:06:01.000Z"
+        },
+        {
+          "id": "NRq_F0aMkVIT6Uem_P1_9",
+          "title": "Raw Materials",
+          "costPrice": 2681,
+          "sellingPrice": 3539,
+          "date": "2025-02-21T09:06:01.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "8-ATXjHTg9Sr6XARMHNde",
+      "title": "Gore Tex - Q1 Logistics",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-02-25T09:24:53.000Z",
+      "createdAt": "2025-02-25T09:24:53.000Z",
+      "updatedAt": "2025-02-25T09:24:53.000Z",
+      "products": [
+        {
+          "id": "xLkI11byjH2AufpVKAb37",
+          "title": "Consulting Fee",
+          "costPrice": 2739,
+          "sellingPrice": 3835,
+          "date": "2025-02-25T09:24:53.000Z"
+        },
+        {
+          "id": "pdci8NmlFO3v_xbBEVjvd",
+          "title": "Raw Materials",
+          "costPrice": 2527,
+          "sellingPrice": 3159,
+          "date": "2025-02-25T09:24:53.000Z"
+        },
+        {
+          "id": "-3VJykoFkeBuZFtq6fxGg",
+          "title": "Consulting Fee",
+          "costPrice": 2950,
+          "sellingPrice": 3511,
+          "date": "2025-02-25T09:24:53.000Z"
+        },
+        {
+          "id": "9Wr2-V8KNKIEr8TCJk9hL",
+          "title": "Transport",
+          "costPrice": 125,
+          "sellingPrice": 168,
+          "date": "2025-02-25T09:24:53.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "t8glBawd3DEhxlpDggvpp",
+      "title": "BluePeak Studio - Q1 Logistics",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-02-13T10:31:26.000Z",
+      "createdAt": "2025-02-13T10:31:26.000Z",
+      "updatedAt": "2025-02-13T10:31:26.000Z",
+      "products": [
+        {
+          "id": "8TUYnfKFZ4yJRtjkK3WGi",
+          "title": "Raw Materials",
+          "costPrice": 1785,
+          "sellingPrice": 2196,
+          "date": "2025-02-13T10:31:26.000Z"
+        },
+        {
+          "id": "HCK9Z8mby5fLX0p4B6K-d",
+          "title": "Software License",
+          "costPrice": 284,
+          "sellingPrice": 332,
+          "date": "2025-02-13T10:31:26.000Z"
+        },
+        {
+          "id": "pOJEOgWWVJiLPf08ZdoH9",
+          "title": "Permits & Fees",
+          "costPrice": 367,
+          "sellingPrice": 455,
+          "date": "2025-02-13T10:31:26.000Z"
+        },
+        {
+          "id": "t5Newne2-ZhF5j1dkKSEc",
+          "title": "Raw Materials",
+          "costPrice": 1455,
+          "sellingPrice": 1761,
+          "date": "2025-02-13T10:31:26.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "Vmtf3tPPbreaAJNHSt4SA",
+      "title": "BluePeak Studio - Annual Maintenance",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-02-03T07:44:50.000Z",
+      "createdAt": "2025-02-03T07:44:50.000Z",
+      "updatedAt": "2025-02-03T07:44:50.000Z",
+      "products": [
+        {
+          "id": "eR6UErA8nRQCk0EFiI-uj",
+          "title": "Main d'oeuvre",
+          "costPrice": 3814,
+          "sellingPrice": 4920,
+          "date": "2025-02-03T07:44:50.000Z"
+        },
+        {
+          "id": "riaevKcybWZiIBHBP5PPE",
+          "title": "Software License",
+          "costPrice": 136,
+          "sellingPrice": 185,
+          "date": "2025-02-03T07:44:50.000Z"
+        },
+        {
+          "id": "AXSSb71advikK9MyU98GP",
+          "title": "Consulting Fee",
+          "costPrice": 1915,
+          "sellingPrice": 2241,
+          "date": "2025-02-03T07:44:50.000Z"
+        },
+        {
+          "id": "QLi-jDL-E9em6ErIbh727",
+          "title": "Main d'oeuvre",
+          "costPrice": 1838,
+          "sellingPrice": 2610,
+          "date": "2025-02-03T07:44:50.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "wVCJ42Uwm-jUKf7GQf8qQ",
+      "title": "Nordic Café - Brand Overhaul",
+      "clientId": "XVuaihXggZrGJ0ucQYTDS",
+      "status": "Completed",
+      "date": "2025-02-09T07:18:53.000Z",
+      "createdAt": "2025-02-09T07:18:53.000Z",
+      "updatedAt": "2025-02-09T07:18:53.000Z",
+      "products": [
+        {
+          "id": "d7VT5Wgo1tTXUWm4HpXe5",
+          "title": "Consulting Fee",
+          "costPrice": 2634,
+          "sellingPrice": 3134,
+          "date": "2025-02-09T07:18:53.000Z"
+        },
+        {
+          "id": "lQJXuFTmI3E2iqVym8V3z",
+          "title": "Consulting Fee",
+          "costPrice": 2404,
+          "sellingPrice": 2813,
+          "date": "2025-02-09T07:18:53.000Z"
+        },
+        {
+          "id": "UNzcBN0qs4cC51VKx4jX8",
+          "title": "Main d'oeuvre",
+          "costPrice": 4255,
+          "sellingPrice": 6085,
+          "date": "2025-02-09T07:18:53.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "g86-yi7blRsykWCCfjx1F",
+      "title": "Apex Logistics - Annual Maintenance",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-02-02T14:38:10.000Z",
+      "createdAt": "2025-02-02T14:38:10.000Z",
+      "updatedAt": "2025-02-02T14:38:10.000Z",
+      "products": [
+        {
+          "id": "9eUTmvpaO8qid4VPfpebp",
+          "title": "Software License",
+          "costPrice": 94,
+          "sellingPrice": 118,
+          "date": "2025-02-02T14:38:10.000Z"
+        },
+        {
+          "id": "RT0n0-2JTRgf5LLDPh2PM",
+          "title": "Software License",
+          "costPrice": 393,
+          "sellingPrice": 546,
+          "date": "2025-02-02T14:38:10.000Z"
+        },
+        {
+          "id": "T6iIuhL4i5ib9asADQWMx",
+          "title": "Consulting Fee",
+          "costPrice": 2876,
+          "sellingPrice": 3509,
+          "date": "2025-02-02T14:38:10.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "19BaioSuiU7c8oo0G9XhQ",
+      "title": "Starlight Events - Brand Overhaul",
+      "clientId": "660z2WHqhASPxvmIq05G4",
+      "status": "Completed",
+      "date": "2025-02-10T16:16:51.000Z",
+      "createdAt": "2025-02-10T16:16:51.000Z",
+      "updatedAt": "2025-02-10T16:16:51.000Z",
+      "products": [
+        {
+          "id": "7k5otty8Q0PcLmG1UdAS3",
+          "title": "Main d'oeuvre",
+          "costPrice": 3061,
+          "sellingPrice": 3734,
+          "date": "2025-02-10T16:16:51.000Z"
+        },
+        {
+          "id": "KnM8pxqJUZDw-0he9YH3g",
+          "title": "Software License",
+          "costPrice": 112,
+          "sellingPrice": 141,
+          "date": "2025-02-10T16:16:51.000Z"
+        },
+        {
+          "id": "TSE6hXatrelPKEkbsNu_Q",
+          "title": "Main d'oeuvre",
+          "costPrice": 1125,
+          "sellingPrice": 1575,
+          "date": "2025-02-10T16:16:51.000Z"
+        },
+        {
+          "id": "v2KfcPIdph_mYLO2WNucU",
+          "title": "Permits & Fees",
+          "costPrice": 185,
+          "sellingPrice": 228,
+          "date": "2025-02-10T16:16:51.000Z"
+        },
+        {
+          "id": "gkActZEdst9ujq_AKS7TK",
+          "title": "Software License",
+          "costPrice": 379,
+          "sellingPrice": 500,
+          "date": "2025-02-10T16:16:51.000Z"
+        },
+        {
+          "id": "QIWJoTbCgUI5jOL05ynDA",
+          "title": "Equipment Rental",
+          "costPrice": 511,
+          "sellingPrice": 598,
+          "date": "2025-02-10T16:16:51.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "xyElCSJEAbC8KhJHb5pTy",
+      "title": "Velocity Motors - Consulting Phase",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-02-15T09:29:43.000Z",
+      "createdAt": "2025-02-15T09:29:43.000Z",
+      "updatedAt": "2025-02-15T09:29:43.000Z",
+      "products": [
+        {
+          "id": "oqs4wrFfgv7306sSHvXTB",
+          "title": "Consulting Fee",
+          "costPrice": 1143,
+          "sellingPrice": 1463,
+          "date": "2025-02-15T09:29:43.000Z"
+        },
+        {
+          "id": "4SylKcbWeB8JJq1Wn2gY-",
+          "title": "Raw Materials",
+          "costPrice": 2506,
+          "sellingPrice": 2982,
+          "date": "2025-02-15T09:29:43.000Z"
+        },
+        {
+          "id": "ojJk64MJgnmVXyBBDgsze",
+          "title": "Raw Materials",
+          "costPrice": 2763,
+          "sellingPrice": 3730,
+          "date": "2025-02-15T09:29:43.000Z"
+        },
+        {
+          "id": "mYqfh4DywtoaoAhxieZOX",
+          "title": "Software License",
+          "costPrice": 86,
+          "sellingPrice": 120,
+          "date": "2025-02-15T09:29:43.000Z"
+        },
+        {
+          "id": "vz_ACi4-PJuwFPjzpK29h",
+          "title": "Permits & Fees",
+          "costPrice": 232,
+          "sellingPrice": 316,
+          "date": "2025-02-15T09:29:43.000Z"
+        },
+        {
+          "id": "3n71KtnKm98YkOVlCqJfE",
+          "title": "Main d'oeuvre",
+          "costPrice": 1905,
+          "sellingPrice": 2610,
+          "date": "2025-02-15T09:29:43.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "-3UV6nDjMwMJiyV1fzj0u",
+      "title": "Horizon Architecture - Security Audit",
+      "clientId": "PbVCcFEO9PQp901b4eK4R",
+      "status": "Completed",
+      "date": "2025-02-05T16:49:38.000Z",
+      "createdAt": "2025-02-05T16:49:38.000Z",
+      "updatedAt": "2025-02-05T16:49:38.000Z",
+      "products": [
+        {
+          "id": "NZORziFO0OT9Bzu3AZy44",
+          "title": "Permits & Fees",
+          "costPrice": 357,
+          "sellingPrice": 457,
+          "date": "2025-02-05T16:49:38.000Z"
+        },
+        {
+          "id": "BZnbdGq9t59yXoKUwA3Qd",
+          "title": "Raw Materials",
+          "costPrice": 2979,
+          "sellingPrice": 3634,
+          "date": "2025-02-05T16:49:38.000Z"
+        },
+        {
+          "id": "sSlJ_saP57Hogd9j2jXRX",
+          "title": "Software License",
+          "costPrice": 267,
+          "sellingPrice": 387,
+          "date": "2025-02-05T16:49:38.000Z"
+        },
+        {
+          "id": "HvJRKtqeGlIbrH6yDiDtz",
+          "title": "Consulting Fee",
+          "costPrice": 1046,
+          "sellingPrice": 1443,
+          "date": "2025-02-05T16:49:38.000Z"
+        },
+        {
+          "id": "4R1LVD0rW4pjtzJLdMPVL",
+          "title": "Equipment Rental",
+          "costPrice": 318,
+          "sellingPrice": 388,
+          "date": "2025-02-05T16:49:38.000Z"
+        },
+        {
+          "id": "bpb7oP2sjLvX5_LujZchY",
+          "title": "Raw Materials",
+          "costPrice": 2714,
+          "sellingPrice": 3718,
+          "date": "2025-02-05T16:49:38.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "Bu4VHMwkgJG6ITBbnblNN",
+      "title": "Horizon Architecture - Lobby Redesign",
+      "clientId": "PbVCcFEO9PQp901b4eK4R",
+      "status": "Completed",
+      "date": "2025-02-26T13:03:19.000Z",
+      "createdAt": "2025-02-26T13:03:19.000Z",
+      "updatedAt": "2025-02-26T13:03:19.000Z",
+      "products": [
+        {
+          "id": "h2RCQarZBqKGV2v1lY1P3",
+          "title": "Consulting Fee",
+          "costPrice": 3429,
+          "sellingPrice": 4561,
+          "date": "2025-02-26T13:03:19.000Z"
+        },
+        {
+          "id": "YISQCOLpYczxx1fVc1cwR",
+          "title": "Consulting Fee",
+          "costPrice": 3743,
+          "sellingPrice": 4454,
+          "date": "2025-02-26T13:03:19.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "TJ5lrCCAqzvW5m1lO6-7T",
+      "title": "Apex Logistics - Spring Campaign",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-02-14T07:26:14.000Z",
+      "createdAt": "2025-02-14T07:26:14.000Z",
+      "updatedAt": "2025-02-14T07:26:14.000Z",
+      "products": [
+        {
+          "id": "E0fjMmGuJ9XRxdOkD1RAF",
+          "title": "Software License",
+          "costPrice": 170,
+          "sellingPrice": 223,
+          "date": "2025-02-14T07:26:14.000Z"
+        },
+        {
+          "id": "ARYdfqoYpT6_sUalEaO5P",
+          "title": "Raw Materials",
+          "costPrice": 1199,
+          "sellingPrice": 1415,
+          "date": "2025-02-14T07:26:14.000Z"
+        },
+        {
+          "id": "mw_zrGJamtp2RUgTva5FW",
+          "title": "Transport",
+          "costPrice": 1423,
+          "sellingPrice": 1793,
+          "date": "2025-02-14T07:26:14.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "9djxkwrVgy8nn6E3goUf8",
+      "title": "BluePeak Studio - Brand Overhaul",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-02-27T17:44:11.000Z",
+      "createdAt": "2025-02-27T17:44:11.000Z",
+      "updatedAt": "2025-02-27T17:44:11.000Z",
+      "products": [
+        {
+          "id": "P0s2TMCk15NJvBM5EB1Si",
+          "title": "Transport",
+          "costPrice": 327,
+          "sellingPrice": 458,
+          "date": "2025-02-27T17:44:11.000Z"
+        },
+        {
+          "id": "KIIu2lVzRfj76b8212x7C",
+          "title": "Main d'oeuvre",
+          "costPrice": 4899,
+          "sellingPrice": 6075,
+          "date": "2025-02-27T17:44:11.000Z"
+        },
+        {
+          "id": "3G0Itpt3Mn-6pb1XliqAb",
+          "title": "Main d'oeuvre",
+          "costPrice": 4262,
+          "sellingPrice": 5754,
+          "date": "2025-02-27T17:44:11.000Z"
+        },
+        {
+          "id": "hAJ0urekQ-3DQ6QevNqUq",
+          "title": "Consulting Fee",
+          "costPrice": 3927,
+          "sellingPrice": 5537,
+          "date": "2025-02-27T17:44:11.000Z"
+        },
+        {
+          "id": "4cJmtx37TyBNJNa8xMr_9",
+          "title": "Equipment Rental",
+          "costPrice": 319,
+          "sellingPrice": 376,
+          "date": "2025-02-27T17:44:11.000Z"
+        },
+        {
+          "id": "l4PT67myEGkYJZxn84BEA",
+          "title": "Consulting Fee",
+          "costPrice": 3490,
+          "sellingPrice": 4118,
+          "date": "2025-02-27T17:44:11.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "5OyI0I-yMTg26kdGhR3zo",
+      "title": "TechFlow Solutions - Renovation",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Completed",
+      "date": "2025-03-19T11:04:29.000Z",
+      "createdAt": "2025-03-19T11:04:29.000Z",
+      "updatedAt": "2025-03-19T11:04:29.000Z",
+      "products": [
+        {
+          "id": "EbDblCiOr2USSXy9KMhaL",
+          "title": "Transport",
+          "costPrice": 1217,
+          "sellingPrice": 1448,
+          "date": "2025-03-19T11:04:29.000Z"
+        },
+        {
+          "id": "WIVj5DQN7YjujFP68_EFW",
+          "title": "Software License",
+          "costPrice": 286,
+          "sellingPrice": 358,
+          "date": "2025-03-19T11:04:29.000Z"
+        },
+        {
+          "id": "PJWP7fRGOtM7FfOYCxY6o",
+          "title": "Raw Materials",
+          "costPrice": 2620,
+          "sellingPrice": 3563,
+          "date": "2025-03-19T11:04:29.000Z"
+        },
+        {
+          "id": "rCuwXB3U1hX5PlIMe-Gnp",
+          "title": "Raw Materials",
+          "costPrice": 965,
+          "sellingPrice": 1226,
+          "date": "2025-03-19T11:04:29.000Z"
+        },
+        {
+          "id": "iBUi-upvF7FXAA7MEQqP0",
+          "title": "Permits & Fees",
+          "costPrice": 341,
+          "sellingPrice": 484,
+          "date": "2025-03-19T11:04:29.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "1uM9BDoseU9NOVoU9LfoQ",
+      "title": "Velocity Motors - Q1 Logistics",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-03-06T08:15:25.000Z",
+      "createdAt": "2025-03-06T08:15:25.000Z",
+      "updatedAt": "2025-03-06T08:15:25.000Z",
+      "products": [
+        {
+          "id": "uPuxlxPfvl9eEIKHzTYRv",
+          "title": "Raw Materials",
+          "costPrice": 351,
+          "sellingPrice": 446,
+          "date": "2025-03-06T08:15:25.000Z"
+        },
+        {
+          "id": "40sjczzQv-cdZOFSX_1SQ",
+          "title": "Raw Materials",
+          "costPrice": 2611,
+          "sellingPrice": 3473,
+          "date": "2025-03-06T08:15:25.000Z"
+        },
+        {
+          "id": "cCLYIEP8Xx49eSoMbrrTP",
+          "title": "Main d'oeuvre",
+          "costPrice": 2263,
+          "sellingPrice": 3146,
+          "date": "2025-03-06T08:15:25.000Z"
+        },
+        {
+          "id": "1YDqN7GhMdGZZkz9xOQLP",
+          "title": "Raw Materials",
+          "costPrice": 2515,
+          "sellingPrice": 3270,
+          "date": "2025-03-06T08:15:25.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "W1HUI2q8hqjHBOXeaSfig",
+      "title": "TechFlow Solutions - Annual Maintenance",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Completed",
+      "date": "2025-03-08T17:44:52.000Z",
+      "createdAt": "2025-03-08T17:44:52.000Z",
+      "updatedAt": "2025-03-08T17:44:52.000Z",
+      "products": [
+        {
+          "id": "t_FYwFyOG2Yns9w5RfWKK",
+          "title": "Transport",
+          "costPrice": 1411,
+          "sellingPrice": 1736,
+          "date": "2025-03-08T17:44:52.000Z"
+        },
+        {
+          "id": "Ltqa6S0c8jYA1LJ1QakQO",
+          "title": "Transport",
+          "costPrice": 368,
+          "sellingPrice": 438,
+          "date": "2025-03-08T17:44:52.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "5uWi5DCSXEQLEiK3ehU6b",
+      "title": "Gore Tex - Security Audit",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-03-15T10:07:59.000Z",
+      "createdAt": "2025-03-15T10:07:59.000Z",
+      "updatedAt": "2025-03-15T10:07:59.000Z",
+      "products": [
+        {
+          "id": "22QjPaMSUFFQp7F0ahfA5",
+          "title": "Consulting Fee",
+          "costPrice": 2046,
+          "sellingPrice": 2558,
+          "date": "2025-03-15T10:07:59.000Z"
+        },
+        {
+          "id": "sE9sZH20adfxtcHFFAuAv",
+          "title": "Raw Materials",
+          "costPrice": 641,
+          "sellingPrice": 929,
+          "date": "2025-03-15T10:07:59.000Z"
+        },
+        {
+          "id": "qnJaAzyko8eOzGpaeIuiN",
+          "title": "Transport",
+          "costPrice": 1272,
+          "sellingPrice": 1463,
+          "date": "2025-03-15T10:07:59.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "lVqkjZu8gXxzeD4shX-9o",
+      "title": "Nordic Café - Consulting Phase",
+      "clientId": "XVuaihXggZrGJ0ucQYTDS",
+      "status": "Completed",
+      "date": "2025-03-11T10:42:26.000Z",
+      "createdAt": "2025-03-11T10:42:26.000Z",
+      "updatedAt": "2025-03-11T10:42:26.000Z",
+      "products": [
+        {
+          "id": "AdTbFJFWQuxF_mCnLXinS",
+          "title": "Software License",
+          "costPrice": 239,
+          "sellingPrice": 325,
+          "date": "2025-03-11T10:42:26.000Z"
+        },
+        {
+          "id": "qR0HfMxm9iOBmbHPzW-0Q",
+          "title": "Software License",
+          "costPrice": 352,
+          "sellingPrice": 447,
+          "date": "2025-03-11T10:42:26.000Z"
+        },
+        {
+          "id": "fCoe3j4OIhJAc_3931D2B",
+          "title": "Main d'oeuvre",
+          "costPrice": 2506,
+          "sellingPrice": 3483,
+          "date": "2025-03-11T10:42:26.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "1ucxQP0E2NUu8lex3ty5n",
+      "title": "Apex Logistics - Lobby Redesign",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-03-20T16:49:12.000Z",
+      "createdAt": "2025-03-20T16:49:12.000Z",
+      "updatedAt": "2025-03-20T16:49:12.000Z",
+      "products": [
+        {
+          "id": "fcEvNWnRNGScXcZW3DTCq",
+          "title": "Permits & Fees",
+          "costPrice": 211,
+          "sellingPrice": 293,
+          "date": "2025-03-20T16:49:12.000Z"
+        },
+        {
+          "id": "6Z0zDvsl0h2kah9ZpQsKz",
+          "title": "Permits & Fees",
+          "costPrice": 122,
+          "sellingPrice": 148,
+          "date": "2025-03-20T16:49:12.000Z"
+        },
+        {
+          "id": "LmPeOo7Jgl1VfmOBiA0g_",
+          "title": "Raw Materials",
+          "costPrice": 2363,
+          "sellingPrice": 2930,
+          "date": "2025-03-20T16:49:12.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "AWFN7wqnwXo-b_VYgnle6",
+      "title": "BluePeak Studio - Brand Overhaul",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-03-23T12:52:12.000Z",
+      "createdAt": "2025-03-23T12:52:12.000Z",
+      "updatedAt": "2025-03-23T12:52:12.000Z",
+      "products": [
+        {
+          "id": "DqUsan_4XanTOPKIv269E",
+          "title": "Raw Materials",
+          "costPrice": 2792,
+          "sellingPrice": 4020,
+          "date": "2025-03-23T12:52:12.000Z"
+        },
+        {
+          "id": "ifMlwctVfkp_ALLgpp2Vv",
+          "title": "Main d'oeuvre",
+          "costPrice": 3077,
+          "sellingPrice": 4123,
+          "date": "2025-03-23T12:52:12.000Z"
+        },
+        {
+          "id": "Vj8A-aR5RplglUxIJ3VNe",
+          "title": "Software License",
+          "costPrice": 472,
+          "sellingPrice": 647,
+          "date": "2025-03-23T12:52:12.000Z"
+        },
+        {
+          "id": "IaZ_eVQeQeVYkU7LSEyQL",
+          "title": "Permits & Fees",
+          "costPrice": 228,
+          "sellingPrice": 280,
+          "date": "2025-03-23T12:52:12.000Z"
+        },
+        {
+          "id": "nRP5KErq2icK0fumE8EUM",
+          "title": "Raw Materials",
+          "costPrice": 2792,
+          "sellingPrice": 3909,
+          "date": "2025-03-23T12:52:12.000Z"
+        },
+        {
+          "id": "xyZX5fXhGnF-jSOnjpfLd",
+          "title": "Raw Materials",
+          "costPrice": 2939,
+          "sellingPrice": 4262,
+          "date": "2025-03-23T12:52:12.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "EDVEvkXphxonqeink-vDT",
+      "title": "Starlight Events - Server Upgrade",
+      "clientId": "660z2WHqhASPxvmIq05G4",
+      "status": "Completed",
+      "date": "2025-03-23T12:17:35.000Z",
+      "createdAt": "2025-03-23T12:17:35.000Z",
+      "updatedAt": "2025-03-23T12:17:35.000Z",
+      "products": [
+        {
+          "id": "7GQs3LT9ZLbK0iHBr5Klv",
+          "title": "Permits & Fees",
+          "costPrice": 185,
+          "sellingPrice": 241,
+          "date": "2025-03-23T12:17:35.000Z"
+        },
+        {
+          "id": "t4GCwYNNRKSe7wb2HZ3IH",
+          "title": "Permits & Fees",
+          "costPrice": 172,
+          "sellingPrice": 244,
+          "date": "2025-03-23T12:17:35.000Z"
+        },
+        {
+          "id": "uAAeh3SvGsZp0NNDMVNj-",
+          "title": "Raw Materials",
+          "costPrice": 1089,
+          "sellingPrice": 1427,
+          "date": "2025-03-23T12:17:35.000Z"
+        },
+        {
+          "id": "5t6NT8JTo8xuung_wx1KL",
+          "title": "Main d'oeuvre",
+          "costPrice": 1374,
+          "sellingPrice": 1663,
+          "date": "2025-03-23T12:17:35.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "FUG-9Q_1o7AJUayoB9wXN",
+      "title": "TechFlow Solutions - Lobby Redesign",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Completed",
+      "date": "2025-03-01T08:15:43.000Z",
+      "createdAt": "2025-03-01T08:15:43.000Z",
+      "updatedAt": "2025-03-01T08:15:43.000Z",
+      "products": [
+        {
+          "id": "4fCsiDjdHRjXLujOe31Lf",
+          "title": "Main d'oeuvre",
+          "costPrice": 4817,
+          "sellingPrice": 6647,
+          "date": "2025-03-01T08:15:43.000Z"
+        },
+        {
+          "id": "9lQ2cv-bgYF8SeMtztg1j",
+          "title": "Permits & Fees",
+          "costPrice": 169,
+          "sellingPrice": 243,
+          "date": "2025-03-01T08:15:43.000Z"
+        },
+        {
+          "id": "zv9TOyQYnkIelHXLR0U7N",
+          "title": "Raw Materials",
+          "costPrice": 1150,
+          "sellingPrice": 1449,
+          "date": "2025-03-01T08:15:43.000Z"
+        },
+        {
+          "id": "RLVDBcatcV0WIURcRwi1i",
+          "title": "Consulting Fee",
+          "costPrice": 3191,
+          "sellingPrice": 3989,
+          "date": "2025-03-01T08:15:43.000Z"
+        },
+        {
+          "id": "WfC1f1Eo-GxyCGU3rwnNN",
+          "title": "Transport",
+          "costPrice": 934,
+          "sellingPrice": 1354,
+          "date": "2025-03-01T08:15:43.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "DQWEZcUC4GDz7V9JRPPK0",
+      "title": "EcoStruct Builders - Annual Maintenance",
+      "clientId": "RtGyso2yYSpKyHe0Ulysi",
+      "status": "Completed",
+      "date": "2025-03-23T17:25:37.000Z",
+      "createdAt": "2025-03-23T17:25:37.000Z",
+      "updatedAt": "2025-03-23T17:25:37.000Z",
+      "products": [
+        {
+          "id": "WpVI-4iiaHF66LZBystCC",
+          "title": "Consulting Fee",
+          "costPrice": 2409,
+          "sellingPrice": 3011,
+          "date": "2025-03-23T17:25:37.000Z"
+        },
+        {
+          "id": "3ESgVNc73CT4yEoXzHKqs",
+          "title": "Consulting Fee",
+          "costPrice": 3183,
+          "sellingPrice": 4456,
+          "date": "2025-03-23T17:25:37.000Z"
+        },
+        {
+          "id": "j8YJivtMkqJl1aEGiTpVI",
+          "title": "Permits & Fees",
+          "costPrice": 283,
+          "sellingPrice": 328,
+          "date": "2025-03-23T17:25:37.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "C0PS39JhjakO0noDna7Wm",
+      "title": "Starlight Events - Security Audit",
+      "clientId": "660z2WHqhASPxvmIq05G4",
+      "status": "Completed",
+      "date": "2025-03-18T07:19:08.000Z",
+      "createdAt": "2025-03-18T07:19:08.000Z",
+      "updatedAt": "2025-03-18T07:19:08.000Z",
+      "products": [
+        {
+          "id": "kH6dfm8gvzpjMwVuHhnD1",
+          "title": "Equipment Rental",
+          "costPrice": 421,
+          "sellingPrice": 543,
+          "date": "2025-03-18T07:19:08.000Z"
+        },
+        {
+          "id": "a1QtJJ-59BOH3SgvPnpV0",
+          "title": "Consulting Fee",
+          "costPrice": 2965,
+          "sellingPrice": 4270,
+          "date": "2025-03-18T07:19:08.000Z"
+        },
+        {
+          "id": "GUr3IXNh7IgczJK_HMr84",
+          "title": "Raw Materials",
+          "costPrice": 2091,
+          "sellingPrice": 2886,
+          "date": "2025-03-18T07:19:08.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "h71vLN91DrwlzMNmUzZSH",
+      "title": "Velocity Motors - Lobby Redesign",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-03-20T11:17:06.000Z",
+      "createdAt": "2025-03-20T11:17:06.000Z",
+      "updatedAt": "2025-03-20T11:17:06.000Z",
+      "products": [
+        {
+          "id": "lYgYx-XDhAbpvbGHLpCOq",
+          "title": "Transport",
+          "costPrice": 924,
+          "sellingPrice": 1238,
+          "date": "2025-03-20T11:17:06.000Z"
+        },
+        {
+          "id": "P8OJ4Eh0gZgox5Wd7H5mV",
+          "title": "Equipment Rental",
+          "costPrice": 890,
+          "sellingPrice": 1130,
+          "date": "2025-03-20T11:17:06.000Z"
+        },
+        {
+          "id": "Hdcf0ktSWmA2XEf9Ymkq6",
+          "title": "Main d'oeuvre",
+          "costPrice": 1485,
+          "sellingPrice": 2153,
+          "date": "2025-03-20T11:17:06.000Z"
+        },
+        {
+          "id": "TF_b3qDoRZcxa8BE-3ATB",
+          "title": "Equipment Rental",
+          "costPrice": 383,
+          "sellingPrice": 513,
+          "date": "2025-03-20T11:17:06.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "-xb7lasuQinn-m-d5DgO8",
+      "title": "EcoStruct Builders - Server Upgrade",
+      "clientId": "RtGyso2yYSpKyHe0Ulysi",
+      "status": "Completed",
+      "date": "2025-03-14T16:35:02.000Z",
+      "createdAt": "2025-03-14T16:35:02.000Z",
+      "updatedAt": "2025-03-14T16:35:02.000Z",
+      "products": [
+        {
+          "id": "_forO6P4MaxXDbVAWhUxk",
+          "title": "Main d'oeuvre",
+          "costPrice": 2921,
+          "sellingPrice": 3593,
+          "date": "2025-03-14T16:35:02.000Z"
+        },
+        {
+          "id": "a6RAjkoeXv373r_VDperM",
+          "title": "Consulting Fee",
+          "costPrice": 3776,
+          "sellingPrice": 4720,
+          "date": "2025-03-14T16:35:02.000Z"
+        },
+        {
+          "id": "sa2_Lll2t8ll7jMaYgTR4",
+          "title": "Raw Materials",
+          "costPrice": 559,
+          "sellingPrice": 693,
+          "date": "2025-03-14T16:35:02.000Z"
+        },
+        {
+          "id": "g9jW1MwWtr__ZvFxp3Ddj",
+          "title": "Software License",
+          "costPrice": 284,
+          "sellingPrice": 383,
+          "date": "2025-03-14T16:35:02.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "rFj_-CVwfF_mr0E2bV5tu",
+      "title": "EcoStruct Builders - Security Audit",
+      "clientId": "RtGyso2yYSpKyHe0Ulysi",
+      "status": "Completed",
+      "date": "2025-03-23T13:08:14.000Z",
+      "createdAt": "2025-03-23T13:08:14.000Z",
+      "updatedAt": "2025-03-23T13:08:14.000Z",
+      "products": [
+        {
+          "id": "3U3gNedVg70t0ehSAZA3c",
+          "title": "Main d'oeuvre",
+          "costPrice": 3087,
+          "sellingPrice": 4198,
+          "date": "2025-03-23T13:08:14.000Z"
+        },
+        {
+          "id": "j5a8lZP58Mo_dUbuxTz0e",
+          "title": "Transport",
+          "costPrice": 1004,
+          "sellingPrice": 1345,
+          "date": "2025-03-23T13:08:14.000Z"
+        },
+        {
+          "id": "xzu16-aSu0n34kH9E-76V",
+          "title": "Equipment Rental",
+          "costPrice": 573,
+          "sellingPrice": 796,
+          "date": "2025-03-23T13:08:14.000Z"
+        },
+        {
+          "id": "qiT8JW9ktrfblrXYM4JlC",
+          "title": "Main d'oeuvre",
+          "costPrice": 2539,
+          "sellingPrice": 3402,
+          "date": "2025-03-23T13:08:14.000Z"
+        },
+        {
+          "id": "emCDhEq3ZBjZM2yC6LxTe",
+          "title": "Transport",
+          "costPrice": 1383,
+          "sellingPrice": 1784,
+          "date": "2025-03-23T13:08:14.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "5zwj6dHKn-OoXVAIQM6Nw",
+      "title": "Summit Financial - Q1 Logistics",
+      "clientId": "_slWnOQdVhF28xtb0j98B",
+      "status": "Completed",
+      "date": "2025-03-05T14:41:59.000Z",
+      "createdAt": "2025-03-05T14:41:59.000Z",
+      "updatedAt": "2025-03-05T14:41:59.000Z",
+      "products": [
+        {
+          "id": "LwWtXsMTvrnpFykJzO80y",
+          "title": "Main d'oeuvre",
+          "costPrice": 2526,
+          "sellingPrice": 2905,
+          "date": "2025-03-05T14:41:59.000Z"
+        },
+        {
+          "id": "sgx69aD09T6x7s-Q0Q5dE",
+          "title": "Software License",
+          "costPrice": 173,
+          "sellingPrice": 251,
+          "date": "2025-03-05T14:41:59.000Z"
+        },
+        {
+          "id": "NBwpPPrJkNeJMNGlKlGn-",
+          "title": "Permits & Fees",
+          "costPrice": 148,
+          "sellingPrice": 188,
+          "date": "2025-03-05T14:41:59.000Z"
+        },
+        {
+          "id": "pcv-VzkVbnaCd22fRORZK",
+          "title": "Raw Materials",
+          "costPrice": 600,
+          "sellingPrice": 870,
+          "date": "2025-03-05T14:41:59.000Z"
+        },
+        {
+          "id": "oXK6VJmenmhplm-nEwmUd",
+          "title": "Software License",
+          "costPrice": 102,
+          "sellingPrice": 130,
+          "date": "2025-03-05T14:41:59.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "qYaT3xde7BQeR0O1DQSvw",
+      "title": "Apex Logistics - Security Audit",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-03-07T14:42:42.000Z",
+      "createdAt": "2025-03-07T14:42:42.000Z",
+      "updatedAt": "2025-03-07T14:42:42.000Z",
+      "products": [
+        {
+          "id": "aFsQW5HYLdwMSzc2uhgGZ",
+          "title": "Equipment Rental",
+          "costPrice": 665,
+          "sellingPrice": 771,
+          "date": "2025-03-07T14:42:42.000Z"
+        },
+        {
+          "id": "bsl4V3f2tD3briFa1DQzL",
+          "title": "Main d'oeuvre",
+          "costPrice": 1811,
+          "sellingPrice": 2119,
+          "date": "2025-03-07T14:42:42.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "7D59jLrwpqvO8CueYsHls",
+      "title": "Creative Minds Agency - Spring Campaign",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Completed",
+      "date": "2025-03-19T15:54:40.000Z",
+      "createdAt": "2025-03-19T15:54:40.000Z",
+      "updatedAt": "2025-03-19T15:54:40.000Z",
+      "products": [
+        {
+          "id": "zxWVszjMCdENUiRtPGyzA",
+          "title": "Software License",
+          "costPrice": 315,
+          "sellingPrice": 400,
+          "date": "2025-03-19T15:54:40.000Z"
+        },
+        {
+          "id": "iaJUGXUxdvOlrjwyOWp3-",
+          "title": "Main d'oeuvre",
+          "costPrice": 1715,
+          "sellingPrice": 2041,
+          "date": "2025-03-19T15:54:40.000Z"
+        },
+        {
+          "id": "Zv0HJIqpwFn2Bt_4e6gae",
+          "title": "Main d'oeuvre",
+          "costPrice": 3626,
+          "sellingPrice": 4641,
+          "date": "2025-03-19T15:54:40.000Z"
+        },
+        {
+          "id": "ADjszuQzzKIOokI0lhi9c",
+          "title": "Consulting Fee",
+          "costPrice": 3913,
+          "sellingPrice": 5361,
+          "date": "2025-03-19T15:54:40.000Z"
+        },
+        {
+          "id": "sdqgkOYZ5skXky1-_1RHC",
+          "title": "Equipment Rental",
+          "costPrice": 1173,
+          "sellingPrice": 1501,
+          "date": "2025-03-19T15:54:40.000Z"
+        },
+        {
+          "id": "rtE6dYpMi3YkDVGKnydF-",
+          "title": "Transport",
+          "costPrice": 632,
+          "sellingPrice": 834,
+          "date": "2025-03-19T15:54:40.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "DPr9UBOt91tcScaAubiev",
+      "title": "Velocity Motors - Annual Maintenance",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-03-01T07:22:03.000Z",
+      "createdAt": "2025-03-01T07:22:03.000Z",
+      "updatedAt": "2025-03-01T07:22:03.000Z",
+      "products": [
+        {
+          "id": "OrHuVvjZQCyx3C7AYJOTU",
+          "title": "Raw Materials",
+          "costPrice": 1810,
+          "sellingPrice": 2335,
+          "date": "2025-03-01T07:22:03.000Z"
+        },
+        {
+          "id": "K7oyvlaKklZ3WfMPBFclV",
+          "title": "Transport",
+          "costPrice": 790,
+          "sellingPrice": 964,
+          "date": "2025-03-01T07:22:03.000Z"
+        },
+        {
+          "id": "RsbuOIFcpmUedn5BLQneh",
+          "title": "Equipment Rental",
+          "costPrice": 788,
+          "sellingPrice": 914,
+          "date": "2025-03-01T07:22:03.000Z"
+        },
+        {
+          "id": "RcuP_Mcq1rBEdS5gvBseK",
+          "title": "Equipment Rental",
+          "costPrice": 362,
+          "sellingPrice": 471,
+          "date": "2025-03-01T07:22:03.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "4DfyJVADypFSP2o8Hdt9i",
+      "title": "TechFlow Solutions - Expansion",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Completed",
+      "date": "2025-04-06T07:47:03.000Z",
+      "createdAt": "2025-04-06T07:47:03.000Z",
+      "updatedAt": "2025-04-06T07:47:03.000Z",
+      "products": [
+        {
+          "id": "sgOWegkwEkRNNyl10tUz4",
+          "title": "Main d'oeuvre",
+          "costPrice": 3084,
+          "sellingPrice": 4348,
+          "date": "2025-04-06T07:47:03.000Z"
+        },
+        {
+          "id": "0FQNWRh4T8c7I55QvEWWL",
+          "title": "Main d'oeuvre",
+          "costPrice": 1752,
+          "sellingPrice": 2313,
+          "date": "2025-04-06T07:47:03.000Z"
+        },
+        {
+          "id": "G4jw_AJz0uNLJIMOEIg86",
+          "title": "Raw Materials",
+          "costPrice": 2700,
+          "sellingPrice": 3348,
+          "date": "2025-04-06T07:47:03.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "itmq3QM1WHK8CVAqwj88g",
+      "title": "Oceanic Shipping - Security Audit",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Completed",
+      "date": "2025-04-13T11:18:08.000Z",
+      "createdAt": "2025-04-13T11:18:08.000Z",
+      "updatedAt": "2025-04-13T11:18:08.000Z",
+      "products": [
+        {
+          "id": "9oy-ohq758prtbEY3klv-",
+          "title": "Transport",
+          "costPrice": 1397,
+          "sellingPrice": 1718,
+          "date": "2025-04-13T11:18:08.000Z"
+        },
+        {
+          "id": "dl0Kex-1tALod7CviYBGk",
+          "title": "Raw Materials",
+          "costPrice": 2760,
+          "sellingPrice": 3560,
+          "date": "2025-04-13T11:18:08.000Z"
+        },
+        {
+          "id": "mFxA5KmTO4s8oFRHCXYJD",
+          "title": "Transport",
+          "costPrice": 423,
+          "sellingPrice": 584,
+          "date": "2025-04-13T11:18:08.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "ZjV1u3IMWD31XkZxtrxQG",
+      "title": "Redwood Legal - Renovation",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Completed",
+      "date": "2025-04-17T14:56:22.000Z",
+      "createdAt": "2025-04-17T14:56:22.000Z",
+      "updatedAt": "2025-04-17T14:56:22.000Z",
+      "products": [
+        {
+          "id": "ZAScyc-ewhIaG0BmKlWoQ",
+          "title": "Raw Materials",
+          "costPrice": 2756,
+          "sellingPrice": 3886,
+          "date": "2025-04-17T14:56:22.000Z"
+        },
+        {
+          "id": "otDlV5QsDJ1Fu187gkSLR",
+          "title": "Permits & Fees",
+          "costPrice": 322,
+          "sellingPrice": 448,
+          "date": "2025-04-17T14:56:22.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "_fxmPRNg_n9eiXQ3n0w-B",
+      "title": "Apex Logistics - Q1 Logistics",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-04-13T14:33:59.000Z",
+      "createdAt": "2025-04-13T14:33:59.000Z",
+      "updatedAt": "2025-04-13T14:33:59.000Z",
+      "products": [
+        {
+          "id": "ARb6Gl7L_bLUbb0yV2Xws",
+          "title": "Consulting Fee",
+          "costPrice": 3037,
+          "sellingPrice": 3766,
+          "date": "2025-04-13T14:33:59.000Z"
+        },
+        {
+          "id": "fIPj7euZoo_GWV2ZDCh9q",
+          "title": "Permits & Fees",
+          "costPrice": 345,
+          "sellingPrice": 466,
+          "date": "2025-04-13T14:33:59.000Z"
+        },
+        {
+          "id": "Bosrk8c2r50Ig36cRw89z",
+          "title": "Transport",
+          "costPrice": 1100,
+          "sellingPrice": 1397,
+          "date": "2025-04-13T14:33:59.000Z"
+        },
+        {
+          "id": "CTh_jKieSRlRJkJTO6UaB",
+          "title": "Permits & Fees",
+          "costPrice": 316,
+          "sellingPrice": 376,
+          "date": "2025-04-13T14:33:59.000Z"
+        },
+        {
+          "id": "UlAp8Dnmfy0R3J-R_lbVP",
+          "title": "Equipment Rental",
+          "costPrice": 427,
+          "sellingPrice": 517,
+          "date": "2025-04-13T14:33:59.000Z"
+        },
+        {
+          "id": "ysYEUawGTbzGwXqbdCeXw",
+          "title": "Permits & Fees",
+          "costPrice": 386,
+          "sellingPrice": 506,
+          "date": "2025-04-13T14:33:59.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "gLSWimMQOrWR7P-82CgVH",
+      "title": "Nordic Café - Spring Campaign",
+      "clientId": "XVuaihXggZrGJ0ucQYTDS",
+      "status": "Completed",
+      "date": "2025-04-17T15:30:27.000Z",
+      "createdAt": "2025-04-17T15:30:27.000Z",
+      "updatedAt": "2025-04-17T15:30:27.000Z",
+      "products": [
+        {
+          "id": "Cb4DFK73PHhTE4U3OgN_9",
+          "title": "Consulting Fee",
+          "costPrice": 2450,
+          "sellingPrice": 3112,
+          "date": "2025-04-17T15:30:27.000Z"
+        },
+        {
+          "id": "010cM-UFIrFg9hVJ16cQ0",
+          "title": "Main d'oeuvre",
+          "costPrice": 3196,
+          "sellingPrice": 4251,
+          "date": "2025-04-17T15:30:27.000Z"
+        },
+        {
+          "id": "Og7ke5ymLO-qfTOj2Qw1-",
+          "title": "Software License",
+          "costPrice": 297,
+          "sellingPrice": 425,
+          "date": "2025-04-17T15:30:27.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "dwWyZNiabH5ZdDZKfl5I9",
+      "title": "Redwood Legal - Consulting Phase",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Completed",
+      "date": "2025-04-23T08:06:09.000Z",
+      "createdAt": "2025-04-23T08:06:09.000Z",
+      "updatedAt": "2025-04-23T08:06:09.000Z",
+      "products": [
+        {
+          "id": "_UXEWN94XoO5KuKBTElZ1",
+          "title": "Software License",
+          "costPrice": 142,
+          "sellingPrice": 175,
+          "date": "2025-04-23T08:06:09.000Z"
+        },
+        {
+          "id": "RRhtm382jlgWE_yUwJ5Ak",
+          "title": "Transport",
+          "costPrice": 831,
+          "sellingPrice": 1155,
+          "date": "2025-04-23T08:06:09.000Z"
+        },
+        {
+          "id": "hEnbeBRps-vteUZQvxol-",
+          "title": "Software License",
+          "costPrice": 420,
+          "sellingPrice": 588,
+          "date": "2025-04-23T08:06:09.000Z"
+        },
+        {
+          "id": "Ds_9dRWBnejqQfCHtGMTx",
+          "title": "Software License",
+          "costPrice": 123,
+          "sellingPrice": 149,
+          "date": "2025-04-23T08:06:09.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "xAvMRFIKPU20iRXm_l1gj",
+      "title": "Redwood Legal - Expansion",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Completed",
+      "date": "2025-04-10T14:08:29.000Z",
+      "createdAt": "2025-04-10T14:08:29.000Z",
+      "updatedAt": "2025-04-10T14:08:29.000Z",
+      "products": [
+        {
+          "id": "rXbCJTWRv85eZO9y8lYVQ",
+          "title": "Raw Materials",
+          "costPrice": 842,
+          "sellingPrice": 1212,
+          "date": "2025-04-10T14:08:29.000Z"
+        },
+        {
+          "id": "8WSgn3Sn2SgmfLnwOFNc-",
+          "title": "Consulting Fee",
+          "costPrice": 1000,
+          "sellingPrice": 1340,
+          "date": "2025-04-10T14:08:29.000Z"
+        },
+        {
+          "id": "D3e7XBBX6IwPr6gdW4SUw",
+          "title": "Consulting Fee",
+          "costPrice": 2571,
+          "sellingPrice": 3599,
+          "date": "2025-04-10T14:08:29.000Z"
+        },
+        {
+          "id": "k1BGxKJxx_xdMCcHRv8o4",
+          "title": "Consulting Fee",
+          "costPrice": 2490,
+          "sellingPrice": 3237,
+          "date": "2025-04-10T14:08:29.000Z"
+        },
+        {
+          "id": "rn3BxbuzqNq34gmuj6ykb",
+          "title": "Consulting Fee",
+          "costPrice": 2771,
+          "sellingPrice": 3907,
+          "date": "2025-04-10T14:08:29.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "Da934BK1hBMtwyieruQGc",
+      "title": "Apex Logistics - Consulting Phase",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-04-01T15:57:15.000Z",
+      "createdAt": "2025-04-01T15:57:15.000Z",
+      "updatedAt": "2025-04-01T15:57:15.000Z",
+      "products": [
+        {
+          "id": "znlI0hRJynw6nLSloGUsZ",
+          "title": "Equipment Rental",
+          "costPrice": 491,
+          "sellingPrice": 668,
+          "date": "2025-04-01T15:57:15.000Z"
+        },
+        {
+          "id": "wEfZPnZJ9nhBnmm00F_nu",
+          "title": "Consulting Fee",
+          "costPrice": 1847,
+          "sellingPrice": 2438,
+          "date": "2025-04-01T15:57:15.000Z"
+        },
+        {
+          "id": "Ujr7xedaOxYAp3kJfTGKM",
+          "title": "Raw Materials",
+          "costPrice": 2882,
+          "sellingPrice": 3977,
+          "date": "2025-04-01T15:57:15.000Z"
+        },
+        {
+          "id": "A4Jy8qsqeD3okkUvJyVPt",
+          "title": "Equipment Rental",
+          "costPrice": 1060,
+          "sellingPrice": 1442,
+          "date": "2025-04-01T15:57:15.000Z"
+        },
+        {
+          "id": "djQg1sSUPnur5wTRzH34w",
+          "title": "Raw Materials",
+          "costPrice": 1375,
+          "sellingPrice": 1691,
+          "date": "2025-04-01T15:57:15.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "W8cWL65zXr9ZEAc7rMJTa",
+      "title": "Gore Tex - Brand Overhaul",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-04-10T07:37:52.000Z",
+      "createdAt": "2025-04-10T07:37:52.000Z",
+      "updatedAt": "2025-04-10T07:37:52.000Z",
+      "products": [
+        {
+          "id": "SQBIyw-JnDqrHpI-89YcI",
+          "title": "Transport",
+          "costPrice": 1165,
+          "sellingPrice": 1503,
+          "date": "2025-04-10T07:37:52.000Z"
+        },
+        {
+          "id": "lQoL0hw1i_oquusT_XZFK",
+          "title": "Raw Materials",
+          "costPrice": 1511,
+          "sellingPrice": 1813,
+          "date": "2025-04-10T07:37:52.000Z"
+        },
+        {
+          "id": "fCrsI0M5HgNFBDoEuH72k",
+          "title": "Permits & Fees",
+          "costPrice": 151,
+          "sellingPrice": 216,
+          "date": "2025-04-10T07:37:52.000Z"
+        },
+        {
+          "id": "yVK22yK5ZrtzI7wXzvGzV",
+          "title": "Raw Materials",
+          "costPrice": 923,
+          "sellingPrice": 1098,
+          "date": "2025-04-10T07:37:52.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "aWVu44T9h4hsDTLAsLy4o",
+      "title": "Gore Tex - Security Audit",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-04-15T12:32:39.000Z",
+      "createdAt": "2025-04-15T12:32:39.000Z",
+      "updatedAt": "2025-04-15T12:32:39.000Z",
+      "products": [
+        {
+          "id": "S3ezrh9smLrvemiAs1VR1",
+          "title": "Consulting Fee",
+          "costPrice": 3263,
+          "sellingPrice": 4405,
+          "date": "2025-04-15T12:32:39.000Z"
+        },
+        {
+          "id": "kyP2RKXIUfAm87msd4rRv",
+          "title": "Main d'oeuvre",
+          "costPrice": 4555,
+          "sellingPrice": 5694,
+          "date": "2025-04-15T12:32:39.000Z"
+        },
+        {
+          "id": "cKW8hYXghBwkslWgB8urt",
+          "title": "Transport",
+          "costPrice": 998,
+          "sellingPrice": 1238,
+          "date": "2025-04-15T12:32:39.000Z"
+        },
+        {
+          "id": "ZleUwqdQnLf6h_JMR76eU",
+          "title": "Permits & Fees",
+          "costPrice": 216,
+          "sellingPrice": 261,
+          "date": "2025-04-15T12:32:39.000Z"
+        },
+        {
+          "id": "23KwiNBl93ckv9v7gJtrv",
+          "title": "Software License",
+          "costPrice": 458,
+          "sellingPrice": 540,
+          "date": "2025-04-15T12:32:39.000Z"
+        },
+        {
+          "id": "uIWuQl3vPTzdr9S3EgnNR",
+          "title": "Main d'oeuvre",
+          "costPrice": 4386,
+          "sellingPrice": 6272,
+          "date": "2025-04-15T12:32:39.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "3_zVxXmKrHI-iy268QUd4",
+      "title": "Creative Minds Agency - Annual Maintenance",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Completed",
+      "date": "2025-04-22T14:19:34.000Z",
+      "createdAt": "2025-04-22T14:19:34.000Z",
+      "updatedAt": "2025-04-22T14:19:34.000Z",
+      "products": [
+        {
+          "id": "_MefVtbgEa9_-cWgLBE8U",
+          "title": "Equipment Rental",
+          "costPrice": 862,
+          "sellingPrice": 1069,
+          "date": "2025-04-22T14:19:34.000Z"
+        },
+        {
+          "id": "sL9AKEmQH7H8RQlQkQmry",
+          "title": "Permits & Fees",
+          "costPrice": 359,
+          "sellingPrice": 445,
+          "date": "2025-04-22T14:19:34.000Z"
+        },
+        {
+          "id": "7f-xsnAaYYEAUvqx4gY8U",
+          "title": "Equipment Rental",
+          "costPrice": 949,
+          "sellingPrice": 1110,
+          "date": "2025-04-22T14:19:34.000Z"
+        },
+        {
+          "id": "N0seUG94_3y-BmTeUp8CM",
+          "title": "Equipment Rental",
+          "costPrice": 906,
+          "sellingPrice": 1114,
+          "date": "2025-04-22T14:19:34.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "SO9Q53ijYVnTXnuOereXB",
+      "title": "Redwood Legal - Server Upgrade",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Completed",
+      "date": "2025-04-04T12:13:15.000Z",
+      "createdAt": "2025-04-04T12:13:15.000Z",
+      "updatedAt": "2025-04-04T12:13:15.000Z",
+      "products": [
+        {
+          "id": "2KNgUvTBOMoGISKCu-Pn8",
+          "title": "Software License",
+          "costPrice": 268,
+          "sellingPrice": 362,
+          "date": "2025-04-04T12:13:15.000Z"
+        },
+        {
+          "id": "R4p7qLfkxg-EgEYdxmPUv",
+          "title": "Main d'oeuvre",
+          "costPrice": 3543,
+          "sellingPrice": 4606,
+          "date": "2025-04-04T12:13:15.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "9fGET2xNa_PZtxt4d9tgu",
+      "title": "Gore Tex - Renovation",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-04-04T11:25:24.000Z",
+      "createdAt": "2025-04-04T11:25:24.000Z",
+      "updatedAt": "2025-04-04T11:25:24.000Z",
+      "products": [
+        {
+          "id": "PdCrJzTYuYek87ST0U8MH",
+          "title": "Equipment Rental",
+          "costPrice": 1052,
+          "sellingPrice": 1336,
+          "date": "2025-04-04T11:25:24.000Z"
+        },
+        {
+          "id": "emKZ8r56gLvaOX523voxc",
+          "title": "Permits & Fees",
+          "costPrice": 201,
+          "sellingPrice": 235,
+          "date": "2025-04-04T11:25:24.000Z"
+        },
+        {
+          "id": "jaYzxzxfHh38PPz2b2uJn",
+          "title": "Equipment Rental",
+          "costPrice": 639,
+          "sellingPrice": 792,
+          "date": "2025-04-04T11:25:24.000Z"
+        },
+        {
+          "id": "5fEVHcIWAVe_J7quNRqZY",
+          "title": "Permits & Fees",
+          "costPrice": 276,
+          "sellingPrice": 370,
+          "date": "2025-04-04T11:25:24.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "poEJSlGKCYoAduESTtGGi",
+      "title": "Velocity Motors - Annual Maintenance",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-04-09T13:07:25.000Z",
+      "createdAt": "2025-04-09T13:07:25.000Z",
+      "updatedAt": "2025-04-09T13:07:25.000Z",
+      "products": [
+        {
+          "id": "WG9Q5A7yIwQQjJtJuf1fv",
+          "title": "Software License",
+          "costPrice": 314,
+          "sellingPrice": 396,
+          "date": "2025-04-09T13:07:25.000Z"
+        },
+        {
+          "id": "sEYUhuaG9_Ke83X7vQR5f",
+          "title": "Raw Materials",
+          "costPrice": 2036,
+          "sellingPrice": 2647,
+          "date": "2025-04-09T13:07:25.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "D3mZMDao6Ez-ibrUESgZt",
+      "title": "BluePeak Studio - Spring Campaign",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-04-27T15:13:07.000Z",
+      "createdAt": "2025-04-27T15:13:07.000Z",
+      "updatedAt": "2025-04-27T15:13:07.000Z",
+      "products": [
+        {
+          "id": "8nTqJ7ZmX84tVnXc6vS_V",
+          "title": "Main d'oeuvre",
+          "costPrice": 3980,
+          "sellingPrice": 4935,
+          "date": "2025-04-27T15:13:07.000Z"
+        },
+        {
+          "id": "it0x8zDY9UUxw4nrKDCIo",
+          "title": "Transport",
+          "costPrice": 1491,
+          "sellingPrice": 1938,
+          "date": "2025-04-27T15:13:07.000Z"
+        },
+        {
+          "id": "WBqZFrzvdkEx-fcuUr7ld",
+          "title": "Equipment Rental",
+          "costPrice": 736,
+          "sellingPrice": 1052,
+          "date": "2025-04-27T15:13:07.000Z"
+        },
+        {
+          "id": "PN75UWCZkl0KA91ZcA7Aw",
+          "title": "Equipment Rental",
+          "costPrice": 1137,
+          "sellingPrice": 1592,
+          "date": "2025-04-27T15:13:07.000Z"
+        },
+        {
+          "id": "WTl7p1RTD0r0OjP4MxNSO",
+          "title": "Equipment Rental",
+          "costPrice": 537,
+          "sellingPrice": 736,
+          "date": "2025-04-27T15:13:07.000Z"
+        },
+        {
+          "id": "71OIjcehcm4IeqTcGUUu_",
+          "title": "Permits & Fees",
+          "costPrice": 275,
+          "sellingPrice": 358,
+          "date": "2025-04-27T15:13:07.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "1M9A6Dxi0sv_ki1LbubjX",
+      "title": "Oceanic Shipping - Annual Maintenance",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Completed",
+      "date": "2025-05-03T15:18:48.000Z",
+      "createdAt": "2025-05-03T15:18:48.000Z",
+      "updatedAt": "2025-05-03T15:18:48.000Z",
+      "products": [
+        {
+          "id": "73J54vmYczsYcjNP5hqKe",
+          "title": "Consulting Fee",
+          "costPrice": 1462,
+          "sellingPrice": 1784,
+          "date": "2025-05-03T15:18:48.000Z"
+        },
+        {
+          "id": "vKJVHkYY0p7kJJMAroPz_",
+          "title": "Permits & Fees",
+          "costPrice": 252,
+          "sellingPrice": 297,
+          "date": "2025-05-03T15:18:48.000Z"
+        },
+        {
+          "id": "v9i6Cu2lVbcVAaKlONbfb",
+          "title": "Permits & Fees",
+          "costPrice": 155,
+          "sellingPrice": 209,
+          "date": "2025-05-03T15:18:48.000Z"
+        },
+        {
+          "id": "nQzWDdtqjhne68_qDZYhG",
+          "title": "Raw Materials",
+          "costPrice": 2144,
+          "sellingPrice": 2916,
+          "date": "2025-05-03T15:18:48.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "KM5c74YAGTrzC3EZPZ14S",
+      "title": "BluePeak Studio - Expansion",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-05-26T15:50:18.000Z",
+      "createdAt": "2025-05-26T15:50:18.000Z",
+      "updatedAt": "2025-05-26T15:50:18.000Z",
+      "products": [
+        {
+          "id": "XxoStSV7n868DDP4xzWAC",
+          "title": "Transport",
+          "costPrice": 1433,
+          "sellingPrice": 1949,
+          "date": "2025-05-26T15:50:18.000Z"
+        },
+        {
+          "id": "NdjJqaewyfyLF2lsVBX9C",
+          "title": "Permits & Fees",
+          "costPrice": 381,
+          "sellingPrice": 495,
+          "date": "2025-05-26T15:50:18.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "Rrql3UMaCd1gS66CzCqO4",
+      "title": "TechFlow Solutions - Security Audit",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Completed",
+      "date": "2025-05-27T10:02:21.000Z",
+      "createdAt": "2025-05-27T10:02:21.000Z",
+      "updatedAt": "2025-05-27T10:02:21.000Z",
+      "products": [
+        {
+          "id": "1vN-O6W5_5yM86VT-BBZM",
+          "title": "Equipment Rental",
+          "costPrice": 986,
+          "sellingPrice": 1311,
+          "date": "2025-05-27T10:02:21.000Z"
+        },
+        {
+          "id": "IXuwJMqCkoIGOwj6b1jYL",
+          "title": "Equipment Rental",
+          "costPrice": 1140,
+          "sellingPrice": 1379,
+          "date": "2025-05-27T10:02:21.000Z"
+        },
+        {
+          "id": "GCNdGs7fSQZrp2VyDAkop",
+          "title": "Raw Materials",
+          "costPrice": 1954,
+          "sellingPrice": 2814,
+          "date": "2025-05-27T10:02:21.000Z"
+        },
+        {
+          "id": "Xgvjzb7OycVgX2O5diaJZ",
+          "title": "Equipment Rental",
+          "costPrice": 1075,
+          "sellingPrice": 1312,
+          "date": "2025-05-27T10:02:21.000Z"
+        },
+        {
+          "id": "_uvkMlbTfC3UDUvljl_Xa",
+          "title": "Equipment Rental",
+          "costPrice": 991,
+          "sellingPrice": 1199,
+          "date": "2025-05-27T10:02:21.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "j0FO9ZLvmJ-5HpvEXwjSm",
+      "title": "Creative Minds Agency - Annual Maintenance",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Completed",
+      "date": "2025-05-04T06:25:46.000Z",
+      "createdAt": "2025-05-04T06:25:46.000Z",
+      "updatedAt": "2025-05-04T06:25:46.000Z",
+      "products": [
+        {
+          "id": "ZJs5opOWDjIYYp0DQEXh0",
+          "title": "Transport",
+          "costPrice": 391,
+          "sellingPrice": 500,
+          "date": "2025-05-04T06:25:46.000Z"
+        },
+        {
+          "id": "g84T4DCdLULdnJ15ZbR0p",
+          "title": "Transport",
+          "costPrice": 1103,
+          "sellingPrice": 1489,
+          "date": "2025-05-04T06:25:46.000Z"
+        },
+        {
+          "id": "fJsWVj3PXHsBGWcfezMT5",
+          "title": "Permits & Fees",
+          "costPrice": 399,
+          "sellingPrice": 463,
+          "date": "2025-05-04T06:25:46.000Z"
+        },
+        {
+          "id": "qQ1qIoE5_VVydd_FGyBka",
+          "title": "Raw Materials",
+          "costPrice": 1282,
+          "sellingPrice": 1628,
+          "date": "2025-05-04T06:25:46.000Z"
+        },
+        {
+          "id": "rbVXcuMAZPRBtvXTVvOwM",
+          "title": "Permits & Fees",
+          "costPrice": 112,
+          "sellingPrice": 151,
+          "date": "2025-05-04T06:25:46.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "nHlxoZhdjIPW7kO92bjX-",
+      "title": "Quantum Labs - Brand Overhaul",
+      "clientId": "trWHwLK8oEHmBdLOYdKGS",
+      "status": "Completed",
+      "date": "2025-05-14T08:21:59.000Z",
+      "createdAt": "2025-05-14T08:21:59.000Z",
+      "updatedAt": "2025-05-14T08:21:59.000Z",
+      "products": [
+        {
+          "id": "SDVgEB0Y6joVaZigKszcF",
+          "title": "Permits & Fees",
+          "costPrice": 259,
+          "sellingPrice": 344,
+          "date": "2025-05-14T08:21:59.000Z"
+        },
+        {
+          "id": "H5yDeKYDT_yA-d4CumMfN",
+          "title": "Raw Materials",
+          "costPrice": 2876,
+          "sellingPrice": 3537,
+          "date": "2025-05-14T08:21:59.000Z"
+        },
+        {
+          "id": "bRNb_bf7A9F7i40iV2A2B",
+          "title": "Software License",
+          "costPrice": 175,
+          "sellingPrice": 205,
+          "date": "2025-05-14T08:21:59.000Z"
+        },
+        {
+          "id": "RFrOO3vK6AJJJcXYU1mOh",
+          "title": "Consulting Fee",
+          "costPrice": 3795,
+          "sellingPrice": 4706,
+          "date": "2025-05-14T08:21:59.000Z"
+        },
+        {
+          "id": "WE1ci0sDd4YbHz5x_OEAu",
+          "title": "Transport",
+          "costPrice": 952,
+          "sellingPrice": 1333,
+          "date": "2025-05-14T08:21:59.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "1brbWrHCl0CkXT7Tdh_Ph",
+      "title": "Starlight Events - Consulting Phase",
+      "clientId": "660z2WHqhASPxvmIq05G4",
+      "status": "Completed",
+      "date": "2025-05-07T09:01:27.000Z",
+      "createdAt": "2025-05-07T09:01:27.000Z",
+      "updatedAt": "2025-05-07T09:01:27.000Z",
+      "products": [
+        {
+          "id": "cSQP0rRCMl1t4P7GkNDjZ",
+          "title": "Main d'oeuvre",
+          "costPrice": 4164,
+          "sellingPrice": 5955,
+          "date": "2025-05-07T09:01:27.000Z"
+        },
+        {
+          "id": "si0UaZAmXyDFSdrfe9b_n",
+          "title": "Permits & Fees",
+          "costPrice": 218,
+          "sellingPrice": 273,
+          "date": "2025-05-07T09:01:27.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "2RfSKQvqUk4ElatMCysvc",
+      "title": "Horizon Architecture - Consulting Phase",
+      "clientId": "PbVCcFEO9PQp901b4eK4R",
+      "status": "Completed",
+      "date": "2025-05-15T10:37:05.000Z",
+      "createdAt": "2025-05-15T10:37:05.000Z",
+      "updatedAt": "2025-05-15T10:37:05.000Z",
+      "products": [
+        {
+          "id": "b6krAJNNhWRUcspsEWAAo",
+          "title": "Raw Materials",
+          "costPrice": 2502,
+          "sellingPrice": 3052,
+          "date": "2025-05-15T10:37:05.000Z"
+        },
+        {
+          "id": "xUH_TaowyCzE2W8V0xgcZ",
+          "title": "Main d'oeuvre",
+          "costPrice": 3759,
+          "sellingPrice": 4323,
+          "date": "2025-05-15T10:37:05.000Z"
+        },
+        {
+          "id": "l5T9uGDHbXDB7fix31Tnk",
+          "title": "Equipment Rental",
+          "costPrice": 637,
+          "sellingPrice": 828,
+          "date": "2025-05-15T10:37:05.000Z"
+        },
+        {
+          "id": "pXGK6Z8UgiYEX2mXOq7-e",
+          "title": "Equipment Rental",
+          "costPrice": 444,
+          "sellingPrice": 551,
+          "date": "2025-05-15T10:37:05.000Z"
+        },
+        {
+          "id": "uVPpLfXq6JcUgs_LDAV-a",
+          "title": "Consulting Fee",
+          "costPrice": 1307,
+          "sellingPrice": 1856,
+          "date": "2025-05-15T10:37:05.000Z"
+        },
+        {
+          "id": "En-FnuYNXo0v4oC1GYxWI",
+          "title": "Equipment Rental",
+          "costPrice": 497,
+          "sellingPrice": 646,
+          "date": "2025-05-15T10:37:05.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "QdL2bvsFWibZkkwUhhQXd",
+      "title": "Horizon Architecture - Brand Overhaul",
+      "clientId": "PbVCcFEO9PQp901b4eK4R",
+      "status": "Completed",
+      "date": "2025-05-10T09:34:57.000Z",
+      "createdAt": "2025-05-10T09:34:57.000Z",
+      "updatedAt": "2025-05-10T09:34:57.000Z",
+      "products": [
+        {
+          "id": "-ngz4vJaNRa2YYL_BL7N3",
+          "title": "Permits & Fees",
+          "costPrice": 382,
+          "sellingPrice": 474,
+          "date": "2025-05-10T09:34:57.000Z"
+        },
+        {
+          "id": "WE8KKcRlxPsJT6tDMTg7n",
+          "title": "Transport",
+          "costPrice": 975,
+          "sellingPrice": 1414,
+          "date": "2025-05-10T09:34:57.000Z"
+        },
+        {
+          "id": "3vz6NWU-FKprB76KUTxz_",
+          "title": "Main d'oeuvre",
+          "costPrice": 2553,
+          "sellingPrice": 3676,
+          "date": "2025-05-10T09:34:57.000Z"
+        },
+        {
+          "id": "EhMmSTERp41EtEpmkF3eg",
+          "title": "Raw Materials",
+          "costPrice": 1776,
+          "sellingPrice": 2042,
+          "date": "2025-05-10T09:34:57.000Z"
+        },
+        {
+          "id": "NBo8Dhi4kLM7ZrX7hYWbm",
+          "title": "Permits & Fees",
+          "costPrice": 242,
+          "sellingPrice": 298,
+          "date": "2025-05-10T09:34:57.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "T9S9dLlsbr1oLtuRu1-ln",
+      "title": "EcoStruct Builders - Q1 Logistics",
+      "clientId": "RtGyso2yYSpKyHe0Ulysi",
+      "status": "Completed",
+      "date": "2025-05-05T07:48:23.000Z",
+      "createdAt": "2025-05-05T07:48:23.000Z",
+      "updatedAt": "2025-05-05T07:48:23.000Z",
+      "products": [
+        {
+          "id": "KiSFhWjNKb7B_DQX_H-rm",
+          "title": "Consulting Fee",
+          "costPrice": 3037,
+          "sellingPrice": 4070,
+          "date": "2025-05-05T07:48:23.000Z"
+        },
+        {
+          "id": "71W7G25y-FsXWZ-uR2-oe",
+          "title": "Equipment Rental",
+          "costPrice": 546,
+          "sellingPrice": 726,
+          "date": "2025-05-05T07:48:23.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "w8vEOYMgArPJeREPQzkIZ",
+      "title": "Redwood Legal - Q1 Logistics",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Completed",
+      "date": "2025-05-04T12:09:34.000Z",
+      "createdAt": "2025-05-04T12:09:34.000Z",
+      "updatedAt": "2025-05-04T12:09:34.000Z",
+      "products": [
+        {
+          "id": "WafSckocwtkhUlRgDflQj",
+          "title": "Software License",
+          "costPrice": 320,
+          "sellingPrice": 387,
+          "date": "2025-05-04T12:09:34.000Z"
+        },
+        {
+          "id": "05KGsWQOUT7qz5K4c50vh",
+          "title": "Transport",
+          "costPrice": 732,
+          "sellingPrice": 1017,
+          "date": "2025-05-04T12:09:34.000Z"
+        },
+        {
+          "id": "NWJwBBD1i9bl1gQxfWcq7",
+          "title": "Permits & Fees",
+          "costPrice": 211,
+          "sellingPrice": 293,
+          "date": "2025-05-04T12:09:34.000Z"
+        },
+        {
+          "id": "LVKhnTCl08FP_c6AkVB9o",
+          "title": "Software License",
+          "costPrice": 479,
+          "sellingPrice": 666,
+          "date": "2025-05-04T12:09:34.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "8EqALr9ib3lofVKsSUzAf",
+      "title": "Starlight Events - Renovation",
+      "clientId": "660z2WHqhASPxvmIq05G4",
+      "status": "Completed",
+      "date": "2025-05-05T16:39:20.000Z",
+      "createdAt": "2025-05-05T16:39:20.000Z",
+      "updatedAt": "2025-05-05T16:39:20.000Z",
+      "products": [
+        {
+          "id": "FVg-4L9ZjNtXj8WMx_ZDK",
+          "title": "Consulting Fee",
+          "costPrice": 3632,
+          "sellingPrice": 4976,
+          "date": "2025-05-05T16:39:20.000Z"
+        },
+        {
+          "id": "65Ei0CvNnj2tSwDLhzV4T",
+          "title": "Transport",
+          "costPrice": 664,
+          "sellingPrice": 810,
+          "date": "2025-05-05T16:39:20.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "a03bjMf_fjwMKjwyBfu_8",
+      "title": "Oceanic Shipping - Security Audit",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Completed",
+      "date": "2025-06-16T08:16:56.000Z",
+      "createdAt": "2025-06-16T08:16:56.000Z",
+      "updatedAt": "2025-06-16T08:16:56.000Z",
+      "products": [
+        {
+          "id": "PP02E6eQ_IyKeHEBzS3cR",
+          "title": "Permits & Fees",
+          "costPrice": 331,
+          "sellingPrice": 394,
+          "date": "2025-06-16T08:16:56.000Z"
+        },
+        {
+          "id": "uRv42lHLkUtb_QEqYfEnf",
+          "title": "Transport",
+          "costPrice": 1038,
+          "sellingPrice": 1308,
+          "date": "2025-06-16T08:16:56.000Z"
+        },
+        {
+          "id": "u_e4VKfsnjfXwJ4ylRDwp",
+          "title": "Software License",
+          "costPrice": 91,
+          "sellingPrice": 126,
+          "date": "2025-06-16T08:16:56.000Z"
+        },
+        {
+          "id": "FMmjtUgjDYbOlUDcJgtLu",
+          "title": "Transport",
+          "costPrice": 459,
+          "sellingPrice": 638,
+          "date": "2025-06-16T08:16:56.000Z"
+        },
+        {
+          "id": "oR4zs4xOEvHM9i3I5jn8o",
+          "title": "Main d'oeuvre",
+          "costPrice": 3147,
+          "sellingPrice": 4374,
+          "date": "2025-06-16T08:16:56.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "eJLtj9C8EYolrSVcHtw1g",
+      "title": "Velocity Motors - Annual Maintenance",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-06-02T06:07:42.000Z",
+      "createdAt": "2025-06-02T06:07:42.000Z",
+      "updatedAt": "2025-06-02T06:07:42.000Z",
+      "products": [
+        {
+          "id": "pkYcIwyYvJ0Qh-XrDcYtG",
+          "title": "Permits & Fees",
+          "costPrice": 285,
+          "sellingPrice": 390,
+          "date": "2025-06-02T06:07:42.000Z"
+        },
+        {
+          "id": "PeYMI_AQzNOGSL-KuXMHl",
+          "title": "Software License",
+          "costPrice": 74,
+          "sellingPrice": 90,
+          "date": "2025-06-02T06:07:42.000Z"
+        },
+        {
+          "id": "BKrPR7sFTqNqM5gpc48yJ",
+          "title": "Raw Materials",
+          "costPrice": 798,
+          "sellingPrice": 1133,
+          "date": "2025-06-02T06:07:42.000Z"
+        },
+        {
+          "id": "9NZ258NGJWCFtEh3ts6FA",
+          "title": "Software License",
+          "costPrice": 309,
+          "sellingPrice": 405,
+          "date": "2025-06-02T06:07:42.000Z"
+        },
+        {
+          "id": "R_mFsA5tCCSlIDGo9yZvP",
+          "title": "Equipment Rental",
+          "costPrice": 492,
+          "sellingPrice": 654,
+          "date": "2025-06-02T06:07:42.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "MznCYC4Hd8xrXBKBufKF_",
+      "title": "Horizon Architecture - Server Upgrade",
+      "clientId": "PbVCcFEO9PQp901b4eK4R",
+      "status": "Completed",
+      "date": "2025-06-07T15:26:28.000Z",
+      "createdAt": "2025-06-07T15:26:28.000Z",
+      "updatedAt": "2025-06-07T15:26:28.000Z",
+      "products": [
+        {
+          "id": "oFx1y7c72cQTcLE3IGDJ_",
+          "title": "Raw Materials",
+          "costPrice": 366,
+          "sellingPrice": 436,
+          "date": "2025-06-07T15:26:28.000Z"
+        },
+        {
+          "id": "xNH8dcCv7JkjjVuRsg7TW",
+          "title": "Raw Materials",
+          "costPrice": 2008,
+          "sellingPrice": 2651,
+          "date": "2025-06-07T15:26:28.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "ghYpCQehn5i9JCAkYkGo1",
+      "title": "Apex Logistics - Consulting Phase",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-06-01T07:06:56.000Z",
+      "createdAt": "2025-06-01T07:06:56.000Z",
+      "updatedAt": "2025-06-01T07:06:56.000Z",
+      "products": [
+        {
+          "id": "EKJX4O5TvObOJXaSQ-mSw",
+          "title": "Main d'oeuvre",
+          "costPrice": 1372,
+          "sellingPrice": 1688,
+          "date": "2025-06-01T07:06:56.000Z"
+        },
+        {
+          "id": "6WmVU2tiYRUpKcCssoREa",
+          "title": "Raw Materials",
+          "costPrice": 1270,
+          "sellingPrice": 1689,
+          "date": "2025-06-01T07:06:56.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "HXr84yVjYr_n-MjB09Xwo",
+      "title": "Velocity Motors - Expansion",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-06-27T12:43:31.000Z",
+      "createdAt": "2025-06-27T12:43:31.000Z",
+      "updatedAt": "2025-06-27T12:43:31.000Z",
+      "products": [
+        {
+          "id": "nY9bQWmRQDvymxB_lQuxb",
+          "title": "Main d'oeuvre",
+          "costPrice": 2623,
+          "sellingPrice": 3646,
+          "date": "2025-06-27T12:43:31.000Z"
+        },
+        {
+          "id": "y9KmmsWlWDzyb5eIu5VC-",
+          "title": "Software License",
+          "costPrice": 207,
+          "sellingPrice": 292,
+          "date": "2025-06-27T12:43:31.000Z"
+        },
+        {
+          "id": "24Qt594LNVVPuX3Wsaq1H",
+          "title": "Consulting Fee",
+          "costPrice": 1146,
+          "sellingPrice": 1570,
+          "date": "2025-06-27T12:43:31.000Z"
+        },
+        {
+          "id": "nxdb5MANY9CbL1Njjyjc_",
+          "title": "Permits & Fees",
+          "costPrice": 259,
+          "sellingPrice": 342,
+          "date": "2025-06-27T12:43:31.000Z"
+        },
+        {
+          "id": "i5t405pM_aWlXowFaxD2V",
+          "title": "Equipment Rental",
+          "costPrice": 302,
+          "sellingPrice": 426,
+          "date": "2025-06-27T12:43:31.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "OH8ubGN-7gOHbjBJMQ9F9",
+      "title": "Velocity Motors - Renovation",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-06-07T14:19:56.000Z",
+      "createdAt": "2025-06-07T14:19:56.000Z",
+      "updatedAt": "2025-06-07T14:19:56.000Z",
+      "products": [
+        {
+          "id": "nf4ZKUpIyuy5PL6ho1liI",
+          "title": "Consulting Fee",
+          "costPrice": 3395,
+          "sellingPrice": 4278,
+          "date": "2025-06-07T14:19:56.000Z"
+        },
+        {
+          "id": "SDmDC8cOQKlAQaHrR0A-d",
+          "title": "Transport",
+          "costPrice": 805,
+          "sellingPrice": 998,
+          "date": "2025-06-07T14:19:56.000Z"
+        },
+        {
+          "id": "D3uw8fKpt31jDsDKgmIC0",
+          "title": "Transport",
+          "costPrice": 1022,
+          "sellingPrice": 1267,
+          "date": "2025-06-07T14:19:56.000Z"
+        },
+        {
+          "id": "TJpO0bYWb1GgZfc3zBszY",
+          "title": "Equipment Rental",
+          "costPrice": 478,
+          "sellingPrice": 617,
+          "date": "2025-06-07T14:19:56.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "_NvJ-ZMpzkPBHHOq4uo7R",
+      "title": "BluePeak Studio - Renovation",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-06-13T16:10:36.000Z",
+      "createdAt": "2025-06-13T16:10:36.000Z",
+      "updatedAt": "2025-06-13T16:10:36.000Z",
+      "products": [
+        {
+          "id": "eUG3kDZvW4y4CVD4_p8Dz",
+          "title": "Permits & Fees",
+          "costPrice": 326,
+          "sellingPrice": 381,
+          "date": "2025-06-13T16:10:36.000Z"
+        },
+        {
+          "id": "mEzs6QDwDZeX9s84Kf6AI",
+          "title": "Main d'oeuvre",
+          "costPrice": 1817,
+          "sellingPrice": 2471,
+          "date": "2025-06-13T16:10:36.000Z"
+        },
+        {
+          "id": "WJzRanQCOgPyqaTFFl9ac",
+          "title": "Main d'oeuvre",
+          "costPrice": 3238,
+          "sellingPrice": 4436,
+          "date": "2025-06-13T16:10:36.000Z"
+        },
+        {
+          "id": "Q-47zHQVLnBCotWlzaYO7",
+          "title": "Equipment Rental",
+          "costPrice": 353,
+          "sellingPrice": 406,
+          "date": "2025-06-13T16:10:36.000Z"
+        },
+        {
+          "id": "-_pB8ZSnEEOB2E-qaZhag",
+          "title": "Main d'oeuvre",
+          "costPrice": 1414,
+          "sellingPrice": 1711,
+          "date": "2025-06-13T16:10:36.000Z"
+        },
+        {
+          "id": "fMpgevkbFLzNUW-OS4kYJ",
+          "title": "Software License",
+          "costPrice": 146,
+          "sellingPrice": 212,
+          "date": "2025-06-13T16:10:36.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "eAbU4o8ZTb9DCn7mdzetx",
+      "title": "Urban Garden Co. - Spring Campaign",
+      "clientId": "u1-AXJ3Lgm3V4WWt3BPvz",
+      "status": "Completed",
+      "date": "2025-06-26T10:39:39.000Z",
+      "createdAt": "2025-06-26T10:39:39.000Z",
+      "updatedAt": "2025-06-26T10:39:39.000Z",
+      "products": [
+        {
+          "id": "imlBKgQqCmjXQfLT6_KKE",
+          "title": "Raw Materials",
+          "costPrice": 1673,
+          "sellingPrice": 2175,
+          "date": "2025-06-26T10:39:39.000Z"
+        },
+        {
+          "id": "J6iIq3EFZfJpS79rEu97d",
+          "title": "Raw Materials",
+          "costPrice": 2152,
+          "sellingPrice": 3034,
+          "date": "2025-06-26T10:39:39.000Z"
+        },
+        {
+          "id": "fQqSBpVGLGMevW7Vbyjk4",
+          "title": "Equipment Rental",
+          "costPrice": 819,
+          "sellingPrice": 1106,
+          "date": "2025-06-26T10:39:39.000Z"
+        },
+        {
+          "id": "SteElVdXYrs4XCpFj_tax",
+          "title": "Raw Materials",
+          "costPrice": 1892,
+          "sellingPrice": 2308,
+          "date": "2025-06-26T10:39:39.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "4vZd7M4rQFjDLz0M_2vwm",
+      "title": "TechFlow Solutions - Server Upgrade",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Completed",
+      "date": "2025-06-27T10:27:54.000Z",
+      "createdAt": "2025-06-27T10:27:54.000Z",
+      "updatedAt": "2025-06-27T10:27:54.000Z",
+      "products": [
+        {
+          "id": "lbEqM6046FclrCkfaDyTu",
+          "title": "Main d'oeuvre",
+          "costPrice": 2833,
+          "sellingPrice": 3541,
+          "date": "2025-06-27T10:27:54.000Z"
+        },
+        {
+          "id": "jLKOmdRnqaN_FVZmbytfV",
+          "title": "Transport",
+          "costPrice": 1424,
+          "sellingPrice": 1979,
+          "date": "2025-06-27T10:27:54.000Z"
+        },
+        {
+          "id": "tXC1bP1yUtwD_C4k-jnb4",
+          "title": "Permits & Fees",
+          "costPrice": 245,
+          "sellingPrice": 309,
+          "date": "2025-06-27T10:27:54.000Z"
+        },
+        {
+          "id": "sWH62d0pA4hKHjkj3vKxY",
+          "title": "Permits & Fees",
+          "costPrice": 204,
+          "sellingPrice": 245,
+          "date": "2025-06-27T10:27:54.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "utCTjI6Eu8NlYzPLs4ceg",
+      "title": "Gore Tex - Security Audit",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-06-16T16:36:39.000Z",
+      "createdAt": "2025-06-16T16:36:39.000Z",
+      "updatedAt": "2025-06-16T16:36:39.000Z",
+      "products": [
+        {
+          "id": "FcXhed-CJOyHA88ZQizhm",
+          "title": "Main d'oeuvre",
+          "costPrice": 4514,
+          "sellingPrice": 6365,
+          "date": "2025-06-16T16:36:39.000Z"
+        },
+        {
+          "id": "H_4fgVvQBHfmk3sUFrxu5",
+          "title": "Raw Materials",
+          "costPrice": 2773,
+          "sellingPrice": 3189,
+          "date": "2025-06-16T16:36:39.000Z"
+        },
+        {
+          "id": "WyazhmeTuHCdlLYqRrqmc",
+          "title": "Equipment Rental",
+          "costPrice": 1153,
+          "sellingPrice": 1453,
+          "date": "2025-06-16T16:36:39.000Z"
+        },
+        {
+          "id": "lSHr5uV5XHDBn6rxc3IFD",
+          "title": "Main d'oeuvre",
+          "costPrice": 1183,
+          "sellingPrice": 1644,
+          "date": "2025-06-16T16:36:39.000Z"
+        },
+        {
+          "id": "NJW4BbW19NYTZTYT8Gy6u",
+          "title": "Raw Materials",
+          "costPrice": 374,
+          "sellingPrice": 542,
+          "date": "2025-06-16T16:36:39.000Z"
+        },
+        {
+          "id": "Yi0XkJkmevBgWQciYgxsO",
+          "title": "Transport",
+          "costPrice": 939,
+          "sellingPrice": 1136,
+          "date": "2025-06-16T16:36:39.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "U-MMh8GId8vIDiBbvb7bK",
+      "title": "Starlight Events - Q1 Logistics",
+      "clientId": "660z2WHqhASPxvmIq05G4",
+      "status": "Completed",
+      "date": "2025-07-07T15:54:15.000Z",
+      "createdAt": "2025-07-07T15:54:15.000Z",
+      "updatedAt": "2025-07-07T15:54:15.000Z",
+      "products": [
+        {
+          "id": "Zm6wVT1rJlBPh7oMPZTP8",
+          "title": "Equipment Rental",
+          "costPrice": 682,
+          "sellingPrice": 887,
+          "date": "2025-07-07T15:54:15.000Z"
+        },
+        {
+          "id": "4BXX15VKUGWmxIuVQ1rHM",
+          "title": "Software License",
+          "costPrice": 412,
+          "sellingPrice": 531,
+          "date": "2025-07-07T15:54:15.000Z"
+        },
+        {
+          "id": "W2vGfJmeHJSZ-nupxjpus",
+          "title": "Software License",
+          "costPrice": 341,
+          "sellingPrice": 402,
+          "date": "2025-07-07T15:54:15.000Z"
+        },
+        {
+          "id": "bydNVUMlXRN64MBHRRJr1",
+          "title": "Main d'oeuvre",
+          "costPrice": 966,
+          "sellingPrice": 1169,
+          "date": "2025-07-07T15:54:15.000Z"
+        },
+        {
+          "id": "QNaYY6LoduoWVJDkTtPGz",
+          "title": "Software License",
+          "costPrice": 173,
+          "sellingPrice": 230,
+          "date": "2025-07-07T15:54:15.000Z"
+        },
+        {
+          "id": "s6xoeHXEzRhFTbkolU0C4",
+          "title": "Software License",
+          "costPrice": 323,
+          "sellingPrice": 397,
+          "date": "2025-07-07T15:54:15.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "Yt9ubcZGJU6Yt5FMPdAI8",
+      "title": "Redwood Legal - Lobby Redesign",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Completed",
+      "date": "2025-07-03T11:49:54.000Z",
+      "createdAt": "2025-07-03T11:49:54.000Z",
+      "updatedAt": "2025-07-03T11:49:54.000Z",
+      "products": [
+        {
+          "id": "x8zxHNLbfPjY3vNcwiSBP",
+          "title": "Equipment Rental",
+          "costPrice": 466,
+          "sellingPrice": 606,
+          "date": "2025-07-03T11:49:54.000Z"
+        },
+        {
+          "id": "gC6kX2hBHj0Vl0dMSoSKq",
+          "title": "Permits & Fees",
+          "costPrice": 119,
+          "sellingPrice": 138,
+          "date": "2025-07-03T11:49:54.000Z"
+        },
+        {
+          "id": "r65GTFLsnKLq0oQ6xZYES",
+          "title": "Equipment Rental",
+          "costPrice": 919,
+          "sellingPrice": 1305,
+          "date": "2025-07-03T11:49:54.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "KpaSkpJioSiL9EbjSJ_c3",
+      "title": "Gore Tex - Brand Overhaul",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-07-24T15:20:34.000Z",
+      "createdAt": "2025-07-24T15:20:34.000Z",
+      "updatedAt": "2025-07-24T15:20:34.000Z",
+      "products": [
+        {
+          "id": "D6yISIBiYToqf5dTHnlZE",
+          "title": "Transport",
+          "costPrice": 856,
+          "sellingPrice": 1207,
+          "date": "2025-07-24T15:20:34.000Z"
+        },
+        {
+          "id": "zOV4PGm1SqOi7urilZQy-",
+          "title": "Software License",
+          "costPrice": 92,
+          "sellingPrice": 118,
+          "date": "2025-07-24T15:20:34.000Z"
+        },
+        {
+          "id": "_yWYdCMfeFpVvgZ8FjPMM",
+          "title": "Equipment Rental",
+          "costPrice": 1117,
+          "sellingPrice": 1519,
+          "date": "2025-07-24T15:20:34.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "hwfFrTZkY1olVQzKGjPaJ",
+      "title": "Creative Minds Agency - Security Audit",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Completed",
+      "date": "2025-07-05T16:37:06.000Z",
+      "createdAt": "2025-07-05T16:37:06.000Z",
+      "updatedAt": "2025-07-05T16:37:06.000Z",
+      "products": [
+        {
+          "id": "BEGyhF0GcDutzSinc3IxR",
+          "title": "Raw Materials",
+          "costPrice": 2058,
+          "sellingPrice": 2922,
+          "date": "2025-07-05T16:37:06.000Z"
+        },
+        {
+          "id": "WKRZ6DW3s1tU6Hq_oEaUl",
+          "title": "Main d'oeuvre",
+          "costPrice": 3017,
+          "sellingPrice": 3801,
+          "date": "2025-07-05T16:37:06.000Z"
+        },
+        {
+          "id": "Ib5D3N0cyHgXOoU-7sYQK",
+          "title": "Raw Materials",
+          "costPrice": 697,
+          "sellingPrice": 997,
+          "date": "2025-07-05T16:37:06.000Z"
+        },
+        {
+          "id": "_DlhxtDF6JlTT-cyOV_rJ",
+          "title": "Consulting Fee",
+          "costPrice": 2803,
+          "sellingPrice": 3560,
+          "date": "2025-07-05T16:37:06.000Z"
+        },
+        {
+          "id": "4I5gd2bY8rQ2QseuuhOoS",
+          "title": "Permits & Fees",
+          "costPrice": 388,
+          "sellingPrice": 528,
+          "date": "2025-07-05T16:37:06.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "tlUrPRZoZMKfysGoWSH0Y",
+      "title": "Gore Tex - Renovation",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-07-16T11:17:17.000Z",
+      "createdAt": "2025-07-16T11:17:17.000Z",
+      "updatedAt": "2025-07-16T11:17:17.000Z",
+      "products": [
+        {
+          "id": "3Yao8-_TYl5TbesQGwrZc",
+          "title": "Consulting Fee",
+          "costPrice": 1929,
+          "sellingPrice": 2778,
+          "date": "2025-07-16T11:17:17.000Z"
+        },
+        {
+          "id": "86AqbUSZTnjiOucdGtTZk",
+          "title": "Equipment Rental",
+          "costPrice": 730,
+          "sellingPrice": 898,
+          "date": "2025-07-16T11:17:17.000Z"
+        },
+        {
+          "id": "sk9mxCoRItTNNXvJl_5Zl",
+          "title": "Raw Materials",
+          "costPrice": 2887,
+          "sellingPrice": 3436,
+          "date": "2025-07-16T11:17:17.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "IavrF2nre4BTq3BtvGhyg",
+      "title": "TechFlow Solutions - Lobby Redesign",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Completed",
+      "date": "2025-07-22T11:10:13.000Z",
+      "createdAt": "2025-07-22T11:10:13.000Z",
+      "updatedAt": "2025-07-22T11:10:13.000Z",
+      "products": [
+        {
+          "id": "_sa8Fqr-VRfz6U-Z6H6Da",
+          "title": "Transport",
+          "costPrice": 369,
+          "sellingPrice": 494,
+          "date": "2025-07-22T11:10:13.000Z"
+        },
+        {
+          "id": "AMDUTKwcbl0qJyoOdHqPe",
+          "title": "Raw Materials",
+          "costPrice": 2218,
+          "sellingPrice": 3083,
+          "date": "2025-07-22T11:10:13.000Z"
+        },
+        {
+          "id": "Nn3UfT5FaJC3ZWunKK9jW",
+          "title": "Software License",
+          "costPrice": 251,
+          "sellingPrice": 339,
+          "date": "2025-07-22T11:10:13.000Z"
+        },
+        {
+          "id": "ec8pi1-OcVkdhNMVUWuE-",
+          "title": "Software License",
+          "costPrice": 211,
+          "sellingPrice": 245,
+          "date": "2025-07-22T11:10:13.000Z"
+        },
+        {
+          "id": "XTq7p-zS9Dv48PyKv2QcV",
+          "title": "Raw Materials",
+          "costPrice": 314,
+          "sellingPrice": 452,
+          "date": "2025-07-22T11:10:13.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "XOaHIsS-Q3jqS9RKTQgUR",
+      "title": "EcoStruct Builders - Brand Overhaul",
+      "clientId": "RtGyso2yYSpKyHe0Ulysi",
+      "status": "Completed",
+      "date": "2025-07-20T14:48:09.000Z",
+      "createdAt": "2025-07-20T14:48:09.000Z",
+      "updatedAt": "2025-07-20T14:48:09.000Z",
+      "products": [
+        {
+          "id": "iWsu5Znaaj9C73NMFGOGQ",
+          "title": "Raw Materials",
+          "costPrice": 1161,
+          "sellingPrice": 1660,
+          "date": "2025-07-20T14:48:09.000Z"
+        },
+        {
+          "id": "of92hL86d_BbEeI3ZD5WY",
+          "title": "Permits & Fees",
+          "costPrice": 288,
+          "sellingPrice": 366,
+          "date": "2025-07-20T14:48:09.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "azK5gcbXz8YwdvZqzL_5Z",
+      "title": "Redwood Legal - Expansion",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Completed",
+      "date": "2025-07-15T10:13:35.000Z",
+      "createdAt": "2025-07-15T10:13:35.000Z",
+      "updatedAt": "2025-07-15T10:13:35.000Z",
+      "products": [
+        {
+          "id": "YeLGEgmX23UvG_7Hn7IIt",
+          "title": "Main d'oeuvre",
+          "costPrice": 2755,
+          "sellingPrice": 3223,
+          "date": "2025-07-15T10:13:35.000Z"
+        },
+        {
+          "id": "qyUyeUKtsf6Flefcm454P",
+          "title": "Software License",
+          "costPrice": 408,
+          "sellingPrice": 506,
+          "date": "2025-07-15T10:13:35.000Z"
+        },
+        {
+          "id": "Kq6aJ7p9ilU2VL3M8sphg",
+          "title": "Software License",
+          "costPrice": 367,
+          "sellingPrice": 448,
+          "date": "2025-07-15T10:13:35.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "wQdVsXDpPNFef30xh4Nyw",
+      "title": "Urban Garden Co. - Security Audit",
+      "clientId": "u1-AXJ3Lgm3V4WWt3BPvz",
+      "status": "Completed",
+      "date": "2025-07-11T10:18:28.000Z",
+      "createdAt": "2025-07-11T10:18:28.000Z",
+      "updatedAt": "2025-07-11T10:18:28.000Z",
+      "products": [
+        {
+          "id": "6mNsJuiAr4amDoO3RyLCv",
+          "title": "Permits & Fees",
+          "costPrice": 280,
+          "sellingPrice": 358,
+          "date": "2025-07-11T10:18:28.000Z"
+        },
+        {
+          "id": "K05bi1pa9duAALf_lOhLO",
+          "title": "Equipment Rental",
+          "costPrice": 531,
+          "sellingPrice": 727,
+          "date": "2025-07-11T10:18:28.000Z"
+        },
+        {
+          "id": "XCwislZzOBxrwk1hDYRLy",
+          "title": "Main d'oeuvre",
+          "costPrice": 3036,
+          "sellingPrice": 4068,
+          "date": "2025-07-11T10:18:28.000Z"
+        },
+        {
+          "id": "_57tBrPeuhu7Atskh6n9F",
+          "title": "Software License",
+          "costPrice": 438,
+          "sellingPrice": 569,
+          "date": "2025-07-11T10:18:28.000Z"
+        },
+        {
+          "id": "UYVCYbkt_GNlSol0Khr6o",
+          "title": "Transport",
+          "costPrice": 1407,
+          "sellingPrice": 1702,
+          "date": "2025-07-11T10:18:28.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "K7WTfZ_s6X-jTADyJ4PXp",
+      "title": "Apex Logistics - Q1 Logistics",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-07-13T13:53:49.000Z",
+      "createdAt": "2025-07-13T13:53:49.000Z",
+      "updatedAt": "2025-07-13T13:53:49.000Z",
+      "products": [
+        {
+          "id": "4WlIky6Z5oitWZr4O5JTW",
+          "title": "Transport",
+          "costPrice": 1285,
+          "sellingPrice": 1632,
+          "date": "2025-07-13T13:53:49.000Z"
+        },
+        {
+          "id": "yWjKdJwYTRp3Yi19iGCsK",
+          "title": "Consulting Fee",
+          "costPrice": 2090,
+          "sellingPrice": 2487,
+          "date": "2025-07-13T13:53:49.000Z"
+        },
+        {
+          "id": "rSsAlOdOmeQI1HYfqFMxu",
+          "title": "Equipment Rental",
+          "costPrice": 962,
+          "sellingPrice": 1193,
+          "date": "2025-07-13T13:53:49.000Z"
+        },
+        {
+          "id": "NpDvKqOsSHUc8dp31u625",
+          "title": "Transport",
+          "costPrice": 222,
+          "sellingPrice": 300,
+          "date": "2025-07-13T13:53:49.000Z"
+        },
+        {
+          "id": "zR9sWJ2__6iiPvB4KkkLG",
+          "title": "Raw Materials",
+          "costPrice": 766,
+          "sellingPrice": 980,
+          "date": "2025-07-13T13:53:49.000Z"
+        },
+        {
+          "id": "lKcbKoTh37GZvLdKB6z2l",
+          "title": "Equipment Rental",
+          "costPrice": 323,
+          "sellingPrice": 462,
+          "date": "2025-07-13T13:53:49.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "7yiyJpV5ORbkjKBVIMeo3",
+      "title": "Starlight Events - Security Audit",
+      "clientId": "660z2WHqhASPxvmIq05G4",
+      "status": "Completed",
+      "date": "2025-08-24T09:10:41.000Z",
+      "createdAt": "2025-08-24T09:10:41.000Z",
+      "updatedAt": "2025-08-24T09:10:41.000Z",
+      "products": [
+        {
+          "id": "L6EcTNF4LU9h3nJDg2tRx",
+          "title": "Software License",
+          "costPrice": 360,
+          "sellingPrice": 497,
+          "date": "2025-08-24T09:10:41.000Z"
+        },
+        {
+          "id": "U8nKrj-SxMIzp0_C0lsR9",
+          "title": "Equipment Rental",
+          "costPrice": 1130,
+          "sellingPrice": 1480,
+          "date": "2025-08-24T09:10:41.000Z"
+        },
+        {
+          "id": "8Y26wc2BZRyB10RF94SkT",
+          "title": "Main d'oeuvre",
+          "costPrice": 1726,
+          "sellingPrice": 2140,
+          "date": "2025-08-24T09:10:41.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "pSoMiAru2TzOdo67TGytL",
+      "title": "Creative Minds Agency - Lobby Redesign",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Completed",
+      "date": "2025-08-08T14:13:10.000Z",
+      "createdAt": "2025-08-08T14:13:10.000Z",
+      "updatedAt": "2025-08-08T14:13:10.000Z",
+      "products": [
+        {
+          "id": "7c1zdCCi1QvxmnxqmaAyz",
+          "title": "Main d'oeuvre",
+          "costPrice": 1900,
+          "sellingPrice": 2698,
+          "date": "2025-08-08T14:13:10.000Z"
+        },
+        {
+          "id": "u_aYh_LeyIPqNB3FQNHIC",
+          "title": "Main d'oeuvre",
+          "costPrice": 4051,
+          "sellingPrice": 5104,
+          "date": "2025-08-08T14:13:10.000Z"
+        },
+        {
+          "id": "YYRSMooTcKTH5kxu1Tzxu",
+          "title": "Equipment Rental",
+          "costPrice": 655,
+          "sellingPrice": 819,
+          "date": "2025-08-08T14:13:10.000Z"
+        },
+        {
+          "id": "o8yVtqk8JtSdyXKS1f9q8",
+          "title": "Raw Materials",
+          "costPrice": 2713,
+          "sellingPrice": 3880,
+          "date": "2025-08-08T14:13:10.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "LTRRfzQE0a5pcndJaMnYh",
+      "title": "BluePeak Studio - Spring Campaign",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-08-09T09:56:57.000Z",
+      "createdAt": "2025-08-09T09:56:57.000Z",
+      "updatedAt": "2025-08-09T09:56:57.000Z",
+      "products": [
+        {
+          "id": "3iXCgrAhfB4_LVyS3IO05",
+          "title": "Transport",
+          "costPrice": 947,
+          "sellingPrice": 1250,
+          "date": "2025-08-09T09:56:57.000Z"
+        },
+        {
+          "id": "TBhe4keRMt_ezTDVy68Wd",
+          "title": "Permits & Fees",
+          "costPrice": 349,
+          "sellingPrice": 492,
+          "date": "2025-08-09T09:56:57.000Z"
+        },
+        {
+          "id": "902fy9FOKfqo4Z2gt3klM",
+          "title": "Equipment Rental",
+          "costPrice": 610,
+          "sellingPrice": 842,
+          "date": "2025-08-09T09:56:57.000Z"
+        },
+        {
+          "id": "pOiN2rdaKW1wqzVNSKQzk",
+          "title": "Consulting Fee",
+          "costPrice": 2286,
+          "sellingPrice": 3178,
+          "date": "2025-08-09T09:56:57.000Z"
+        },
+        {
+          "id": "FOZnSUfP1gF7NLRd0cuRp",
+          "title": "Consulting Fee",
+          "costPrice": 1093,
+          "sellingPrice": 1454,
+          "date": "2025-08-09T09:56:57.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "QiQoLYJHZEqE2Oz3T3o5R",
+      "title": "Velocity Motors - Expansion",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-08-24T13:00:00.000Z",
+      "createdAt": "2025-08-24T13:00:00.000Z",
+      "updatedAt": "2025-08-24T13:00:00.000Z",
+      "products": [
+        {
+          "id": "-YUb-P2OYduFAOobXL2yY",
+          "title": "Main d'oeuvre",
+          "costPrice": 2914,
+          "sellingPrice": 3759,
+          "date": "2025-08-24T13:00:00.000Z"
+        },
+        {
+          "id": "muJN6sE08S6voQxcFKIuq",
+          "title": "Equipment Rental",
+          "costPrice": 1116,
+          "sellingPrice": 1585,
+          "date": "2025-08-24T13:00:00.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "byg35i5qNKOAdhUZmvhgZ",
+      "title": "EcoStruct Builders - Renovation",
+      "clientId": "RtGyso2yYSpKyHe0Ulysi",
+      "status": "Completed",
+      "date": "2025-08-09T10:15:22.000Z",
+      "createdAt": "2025-08-09T10:15:22.000Z",
+      "updatedAt": "2025-08-09T10:15:22.000Z",
+      "products": [
+        {
+          "id": "9yW0PkPtXv3Kdej6t-_19",
+          "title": "Permits & Fees",
+          "costPrice": 104,
+          "sellingPrice": 131,
+          "date": "2025-08-09T10:15:22.000Z"
+        },
+        {
+          "id": "Ir9CZ7hCiE25XNVBs5wFx",
+          "title": "Permits & Fees",
+          "costPrice": 174,
+          "sellingPrice": 228,
+          "date": "2025-08-09T10:15:22.000Z"
+        },
+        {
+          "id": "L0mBNEq6dgz8xN1c6Dytb",
+          "title": "Main d'oeuvre",
+          "costPrice": 2920,
+          "sellingPrice": 4000,
+          "date": "2025-08-09T10:15:22.000Z"
+        },
+        {
+          "id": "Axufgex4UTV0YP5n-3mRQ",
+          "title": "Transport",
+          "costPrice": 156,
+          "sellingPrice": 179,
+          "date": "2025-08-09T10:15:22.000Z"
+        },
+        {
+          "id": "PHvfsGyujolw6IdMpHPed",
+          "title": "Raw Materials",
+          "costPrice": 1398,
+          "sellingPrice": 1915,
+          "date": "2025-08-09T10:15:22.000Z"
+        },
+        {
+          "id": "hhc6MeW_UYPR9ZUyF8h7u",
+          "title": "Main d'oeuvre",
+          "costPrice": 4733,
+          "sellingPrice": 6437,
+          "date": "2025-08-09T10:15:22.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "wphVxZ3VtA94SKaicIrf7",
+      "title": "Nordic Café - Security Audit",
+      "clientId": "XVuaihXggZrGJ0ucQYTDS",
+      "status": "Completed",
+      "date": "2025-08-15T12:08:58.000Z",
+      "createdAt": "2025-08-15T12:08:58.000Z",
+      "updatedAt": "2025-08-15T12:08:58.000Z",
+      "products": [
+        {
+          "id": "ZIu_k9H2loG5_Y7REfXX5",
+          "title": "Equipment Rental",
+          "costPrice": 518,
+          "sellingPrice": 622,
+          "date": "2025-08-15T12:08:58.000Z"
+        },
+        {
+          "id": "9KPQF0TIZZ24ODhbEKwso",
+          "title": "Main d'oeuvre",
+          "costPrice": 2660,
+          "sellingPrice": 3165,
+          "date": "2025-08-15T12:08:58.000Z"
+        },
+        {
+          "id": "QTduFRAMW0ngEiD52hnS7",
+          "title": "Main d'oeuvre",
+          "costPrice": 2814,
+          "sellingPrice": 3658,
+          "date": "2025-08-15T12:08:58.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "AUH8m_nra4Iy8kL4VEPpe",
+      "title": "Creative Minds Agency - Server Upgrade",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Completed",
+      "date": "2025-08-15T06:47:50.000Z",
+      "createdAt": "2025-08-15T06:47:50.000Z",
+      "updatedAt": "2025-08-15T06:47:50.000Z",
+      "products": [
+        {
+          "id": "DZg15k5tr2eqsRyDwZLek",
+          "title": "Permits & Fees",
+          "costPrice": 259,
+          "sellingPrice": 365,
+          "date": "2025-08-15T06:47:50.000Z"
+        },
+        {
+          "id": "ayqwlMo6PXmJTWBBOhNmc",
+          "title": "Transport",
+          "costPrice": 917,
+          "sellingPrice": 1275,
+          "date": "2025-08-15T06:47:50.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "EuS5JkLTvRLnI774mzW5E",
+      "title": "Oceanic Shipping - Security Audit",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Completed",
+      "date": "2025-08-18T08:43:27.000Z",
+      "createdAt": "2025-08-18T08:43:27.000Z",
+      "updatedAt": "2025-08-18T08:43:27.000Z",
+      "products": [
+        {
+          "id": "mTzt76zd6g5QOPFGhHFNN",
+          "title": "Software License",
+          "costPrice": 429,
+          "sellingPrice": 519,
+          "date": "2025-08-18T08:43:27.000Z"
+        },
+        {
+          "id": "t9yew5E77g-A0oMPvmOfs",
+          "title": "Transport",
+          "costPrice": 1212,
+          "sellingPrice": 1673,
+          "date": "2025-08-18T08:43:27.000Z"
+        },
+        {
+          "id": "csmFyfJ-AqDOK7LGfy9NK",
+          "title": "Main d'oeuvre",
+          "costPrice": 1462,
+          "sellingPrice": 1828,
+          "date": "2025-08-18T08:43:27.000Z"
+        },
+        {
+          "id": "mbkpsDK-gMJ8_lPc8P2Oq",
+          "title": "Permits & Fees",
+          "costPrice": 107,
+          "sellingPrice": 147,
+          "date": "2025-08-18T08:43:27.000Z"
+        },
+        {
+          "id": "3HNaq827Q01ABTDRXeII-",
+          "title": "Consulting Fee",
+          "costPrice": 3694,
+          "sellingPrice": 4470,
+          "date": "2025-08-18T08:43:27.000Z"
+        },
+        {
+          "id": "I-_yf-Zs5_Asy-cGRXY8S",
+          "title": "Software License",
+          "costPrice": 186,
+          "sellingPrice": 225,
+          "date": "2025-08-18T08:43:27.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "30ypzvVQAYZ01HlCLKStZ",
+      "title": "EcoStruct Builders - Consulting Phase",
+      "clientId": "RtGyso2yYSpKyHe0Ulysi",
+      "status": "Completed",
+      "date": "2025-08-24T11:36:07.000Z",
+      "createdAt": "2025-08-24T11:36:07.000Z",
+      "updatedAt": "2025-08-24T11:36:07.000Z",
+      "products": [
+        {
+          "id": "fKJ-XkXQPEe2vgmGfTj_J",
+          "title": "Software License",
+          "costPrice": 323,
+          "sellingPrice": 394,
+          "date": "2025-08-24T11:36:07.000Z"
+        },
+        {
+          "id": "wIJx3B8kvPvG5l_ySGoFa",
+          "title": "Transport",
+          "costPrice": 725,
+          "sellingPrice": 863,
+          "date": "2025-08-24T11:36:07.000Z"
+        },
+        {
+          "id": "Z_3u6_AY8ZlshB1zdBW95",
+          "title": "Permits & Fees",
+          "costPrice": 354,
+          "sellingPrice": 411,
+          "date": "2025-08-24T11:36:07.000Z"
+        },
+        {
+          "id": "PLim9AMg8we9tI6bYCIC3",
+          "title": "Transport",
+          "costPrice": 359,
+          "sellingPrice": 506,
+          "date": "2025-08-24T11:36:07.000Z"
+        },
+        {
+          "id": "61902XXVI28EDF3GsdnPq",
+          "title": "Raw Materials",
+          "costPrice": 1936,
+          "sellingPrice": 2614,
+          "date": "2025-08-24T11:36:07.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "tt1Jgsf5AuDRhUqHWWHU6",
+      "title": "Oceanic Shipping - Spring Campaign",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Completed",
+      "date": "2025-08-04T11:42:09.000Z",
+      "createdAt": "2025-08-04T11:42:09.000Z",
+      "updatedAt": "2025-08-04T11:42:09.000Z",
+      "products": [
+        {
+          "id": "ceZPf7X1wCMieUcVMk-ZV",
+          "title": "Transport",
+          "costPrice": 272,
+          "sellingPrice": 351,
+          "date": "2025-08-04T11:42:09.000Z"
+        },
+        {
+          "id": "9vAIS_TXIGUXroS1TmMcL",
+          "title": "Raw Materials",
+          "costPrice": 225,
+          "sellingPrice": 288,
+          "date": "2025-08-04T11:42:09.000Z"
+        },
+        {
+          "id": "YGuXSiL-1DOyMyQNokrQH",
+          "title": "Software License",
+          "costPrice": 309,
+          "sellingPrice": 417,
+          "date": "2025-08-04T11:42:09.000Z"
+        },
+        {
+          "id": "aqgnbGyK-_do_q2uCvy49",
+          "title": "Equipment Rental",
+          "costPrice": 380,
+          "sellingPrice": 479,
+          "date": "2025-08-04T11:42:09.000Z"
+        },
+        {
+          "id": "KavqH1qKnVho5lYdxSrNg",
+          "title": "Consulting Fee",
+          "costPrice": 1624,
+          "sellingPrice": 2176,
+          "date": "2025-08-04T11:42:09.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "ciUaXaDdA59zUQ_m-ZSzF",
+      "title": "Gore Tex - Server Upgrade",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-08-03T15:34:33.000Z",
+      "createdAt": "2025-08-03T15:34:33.000Z",
+      "updatedAt": "2025-08-03T15:34:33.000Z",
+      "products": [
+        {
+          "id": "HDi_ph3dvrAAL7To57OZl",
+          "title": "Transport",
+          "costPrice": 1069,
+          "sellingPrice": 1358,
+          "date": "2025-08-03T15:34:33.000Z"
+        },
+        {
+          "id": "giccsBRtFLiW6K31jqJCx",
+          "title": "Software License",
+          "costPrice": 274,
+          "sellingPrice": 315,
+          "date": "2025-08-03T15:34:33.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "8iBmAr6YxRxNGoi2jEGuk",
+      "title": "BluePeak Studio - Renovation",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-08-12T10:49:09.000Z",
+      "createdAt": "2025-08-12T10:49:09.000Z",
+      "updatedAt": "2025-08-12T10:49:09.000Z",
+      "products": [
+        {
+          "id": "YdkHc6gag7ZvQ_gp45Fdk",
+          "title": "Main d'oeuvre",
+          "costPrice": 2445,
+          "sellingPrice": 3399,
+          "date": "2025-08-12T10:49:09.000Z"
+        },
+        {
+          "id": "gSZZkvZAxJZm_DTPXeZqy",
+          "title": "Software License",
+          "costPrice": 228,
+          "sellingPrice": 285,
+          "date": "2025-08-12T10:49:09.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "g4fhr2Rh60iL4EY9omXhX",
+      "title": "Apex Logistics - Annual Maintenance",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-08-09T14:18:19.000Z",
+      "createdAt": "2025-08-09T14:18:19.000Z",
+      "updatedAt": "2025-08-09T14:18:19.000Z",
+      "products": [
+        {
+          "id": "jU_g54oj-I4cQrwCmY5lQ",
+          "title": "Permits & Fees",
+          "costPrice": 281,
+          "sellingPrice": 323,
+          "date": "2025-08-09T14:18:19.000Z"
+        },
+        {
+          "id": "X-W4VCKkeB4OfEQ6x9eEo",
+          "title": "Raw Materials",
+          "costPrice": 2255,
+          "sellingPrice": 2729,
+          "date": "2025-08-09T14:18:19.000Z"
+        },
+        {
+          "id": "cneWpz1McfUYrp0WYk940",
+          "title": "Main d'oeuvre",
+          "costPrice": 3857,
+          "sellingPrice": 5168,
+          "date": "2025-08-09T14:18:19.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "zwJlZKHuugVjn7we1xS-g",
+      "title": "Summit Financial - Security Audit",
+      "clientId": "_slWnOQdVhF28xtb0j98B",
+      "status": "Completed",
+      "date": "2025-08-28T13:33:39.000Z",
+      "createdAt": "2025-08-28T13:33:39.000Z",
+      "updatedAt": "2025-08-28T13:33:39.000Z",
+      "products": [
+        {
+          "id": "iSAFQjipWjGFfHPCX5jgo",
+          "title": "Consulting Fee",
+          "costPrice": 1242,
+          "sellingPrice": 1677,
+          "date": "2025-08-28T13:33:39.000Z"
+        },
+        {
+          "id": "8920wZlmX2BFkOqQOyRnu",
+          "title": "Transport",
+          "costPrice": 1468,
+          "sellingPrice": 1894,
+          "date": "2025-08-28T13:33:39.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "s9E4N1BxCSdAkR35YWV4p",
+      "title": "TechFlow Solutions - Spring Campaign",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Completed",
+      "date": "2025-08-06T08:10:01.000Z",
+      "createdAt": "2025-08-06T08:10:01.000Z",
+      "updatedAt": "2025-08-06T08:10:01.000Z",
+      "products": [
+        {
+          "id": "3qBObFp4TXP6a-uLpyTIg",
+          "title": "Permits & Fees",
+          "costPrice": 360,
+          "sellingPrice": 475,
+          "date": "2025-08-06T08:10:01.000Z"
+        },
+        {
+          "id": "6pGRasgcud5hsvE7LGQVO",
+          "title": "Raw Materials",
+          "costPrice": 436,
+          "sellingPrice": 610,
+          "date": "2025-08-06T08:10:01.000Z"
+        },
+        {
+          "id": "MDP91U9DFfGQgdQ3v4Xv4",
+          "title": "Consulting Fee",
+          "costPrice": 3105,
+          "sellingPrice": 4378,
+          "date": "2025-08-06T08:10:01.000Z"
+        },
+        {
+          "id": "H9QE5FRmVp9LsAIMoMd7p",
+          "title": "Permits & Fees",
+          "costPrice": 288,
+          "sellingPrice": 334,
+          "date": "2025-08-06T08:10:01.000Z"
+        },
+        {
+          "id": "m4GksJpmcSqAyECePebcw",
+          "title": "Main d'oeuvre",
+          "costPrice": 1862,
+          "sellingPrice": 2383,
+          "date": "2025-08-06T08:10:01.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "TnhL5heaTHE8Mp3bY8VyJ",
+      "title": "Horizon Architecture - Renovation",
+      "clientId": "PbVCcFEO9PQp901b4eK4R",
+      "status": "Completed",
+      "date": "2025-08-27T10:09:50.000Z",
+      "createdAt": "2025-08-27T10:09:50.000Z",
+      "updatedAt": "2025-08-27T10:09:50.000Z",
+      "products": [
+        {
+          "id": "YeH0FZxDCjR6t3a-LjA3M",
+          "title": "Transport",
+          "costPrice": 1341,
+          "sellingPrice": 1596,
+          "date": "2025-08-27T10:09:50.000Z"
+        },
+        {
+          "id": "_GNlEAWdZVAlvHWz63aqS",
+          "title": "Software License",
+          "costPrice": 458,
+          "sellingPrice": 623,
+          "date": "2025-08-27T10:09:50.000Z"
+        },
+        {
+          "id": "nIOzE5G8wKRzN-JzwjLCa",
+          "title": "Equipment Rental",
+          "costPrice": 1152,
+          "sellingPrice": 1613,
+          "date": "2025-08-27T10:09:50.000Z"
+        },
+        {
+          "id": "iWImQQVrH_wQkqszpSBVS",
+          "title": "Main d'oeuvre",
+          "costPrice": 1444,
+          "sellingPrice": 2094,
+          "date": "2025-08-27T10:09:50.000Z"
+        },
+        {
+          "id": "ZESjqk5DJggOr3m-KCpU7",
+          "title": "Equipment Rental",
+          "costPrice": 658,
+          "sellingPrice": 776,
+          "date": "2025-08-27T10:09:50.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "kWlS4m6HeyVBAHXYPAgeH",
+      "title": "TechFlow Solutions - Renovation",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Completed",
+      "date": "2025-08-25T08:49:29.000Z",
+      "createdAt": "2025-08-25T08:49:29.000Z",
+      "updatedAt": "2025-08-25T08:49:29.000Z",
+      "products": [
+        {
+          "id": "urYPXV-xR1cswLlJH1kFp",
+          "title": "Software License",
+          "costPrice": 124,
+          "sellingPrice": 159,
+          "date": "2025-08-25T08:49:29.000Z"
+        },
+        {
+          "id": "YPVivBzjO1IYex0Ob7l45",
+          "title": "Transport",
+          "costPrice": 1455,
+          "sellingPrice": 1804,
+          "date": "2025-08-25T08:49:29.000Z"
+        },
+        {
+          "id": "Gk3nT2-wG6Cpv_uGrbwLm",
+          "title": "Main d'oeuvre",
+          "costPrice": 3805,
+          "sellingPrice": 4947,
+          "date": "2025-08-25T08:49:29.000Z"
+        },
+        {
+          "id": "0tpTlUYh6qS1TaGWe5fpv",
+          "title": "Main d'oeuvre",
+          "costPrice": 857,
+          "sellingPrice": 1011,
+          "date": "2025-08-25T08:49:29.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "mUyBxVSKkg2ziCInSTReB",
+      "title": "Quantum Labs - Server Upgrade",
+      "clientId": "trWHwLK8oEHmBdLOYdKGS",
+      "status": "Completed",
+      "date": "2025-08-09T14:36:45.000Z",
+      "createdAt": "2025-08-09T14:36:45.000Z",
+      "updatedAt": "2025-08-09T14:36:45.000Z",
+      "products": [
+        {
+          "id": "lsQS6lcJtMgIlaxpWtiwj",
+          "title": "Transport",
+          "costPrice": 1248,
+          "sellingPrice": 1697,
+          "date": "2025-08-09T14:36:45.000Z"
+        },
+        {
+          "id": "ghILbuPCijmB7JnAhfPqj",
+          "title": "Raw Materials",
+          "costPrice": 1608,
+          "sellingPrice": 2042,
+          "date": "2025-08-09T14:36:45.000Z"
+        },
+        {
+          "id": "Bq8l4S2-0_fLUcrTwjUVK",
+          "title": "Transport",
+          "costPrice": 1304,
+          "sellingPrice": 1682,
+          "date": "2025-08-09T14:36:45.000Z"
+        },
+        {
+          "id": "zJxsqeD0QwiRQ1sYMi7f-",
+          "title": "Main d'oeuvre",
+          "costPrice": 1451,
+          "sellingPrice": 1901,
+          "date": "2025-08-09T14:36:45.000Z"
+        },
+        {
+          "id": "jT56XmCVD_9XIhjcxKbWu",
+          "title": "Equipment Rental",
+          "costPrice": 348,
+          "sellingPrice": 435,
+          "date": "2025-08-09T14:36:45.000Z"
+        },
+        {
+          "id": "UMAQdk6cXT6Sk6gvWZNLn",
+          "title": "Main d'oeuvre",
+          "costPrice": 2945,
+          "sellingPrice": 4241,
+          "date": "2025-08-09T14:36:45.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "8MK8LWrzAESNKwF0zNvp0",
+      "title": "Gore Tex - Annual Maintenance",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-09-04T14:34:48.000Z",
+      "createdAt": "2025-09-04T14:34:48.000Z",
+      "updatedAt": "2025-09-04T14:34:48.000Z",
+      "products": [
+        {
+          "id": "DXfnK7MGWgF3CVZ8ZN1An",
+          "title": "Consulting Fee",
+          "costPrice": 2901,
+          "sellingPrice": 3742,
+          "date": "2025-09-04T14:34:48.000Z"
+        },
+        {
+          "id": "HtKCLGVYOviyYh_xjKEhz",
+          "title": "Main d'oeuvre",
+          "costPrice": 2098,
+          "sellingPrice": 2539,
+          "date": "2025-09-04T14:34:48.000Z"
+        },
+        {
+          "id": "KlyQEWiHrAEmPcbfW3wvU",
+          "title": "Main d'oeuvre",
+          "costPrice": 1672,
+          "sellingPrice": 2257,
+          "date": "2025-09-04T14:34:48.000Z"
+        },
+        {
+          "id": "OwmfTOxnw7Yr_iGNjETgT",
+          "title": "Consulting Fee",
+          "costPrice": 1378,
+          "sellingPrice": 1764,
+          "date": "2025-09-04T14:34:48.000Z"
+        },
+        {
+          "id": "17syIXrM9bh9pfMjDZm7l",
+          "title": "Raw Materials",
+          "costPrice": 932,
+          "sellingPrice": 1090,
+          "date": "2025-09-04T14:34:48.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "-MLe6pcTvLctsW554kzGk",
+      "title": "Redwood Legal - Spring Campaign",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Completed",
+      "date": "2025-09-11T10:53:57.000Z",
+      "createdAt": "2025-09-11T10:53:57.000Z",
+      "updatedAt": "2025-09-11T10:53:57.000Z",
+      "products": [
+        {
+          "id": "04t06tptq8YurmHsZv1u9",
+          "title": "Consulting Fee",
+          "costPrice": 1637,
+          "sellingPrice": 2194,
+          "date": "2025-09-11T10:53:57.000Z"
+        },
+        {
+          "id": "lRjGZJ_9tsY7naRivzmKT",
+          "title": "Transport",
+          "costPrice": 1213,
+          "sellingPrice": 1686,
+          "date": "2025-09-11T10:53:57.000Z"
+        },
+        {
+          "id": "eLF7o6nhALFOxWmI5g7hm",
+          "title": "Equipment Rental",
+          "costPrice": 738,
+          "sellingPrice": 930,
+          "date": "2025-09-11T10:53:57.000Z"
+        },
+        {
+          "id": "nkkc0BhY1AY0t4QbDKiaT",
+          "title": "Consulting Fee",
+          "costPrice": 3776,
+          "sellingPrice": 4569,
+          "date": "2025-09-11T10:53:57.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "Big6aJEUOWZnyfQyeMolm",
+      "title": "Urban Garden Co. - Renovation",
+      "clientId": "u1-AXJ3Lgm3V4WWt3BPvz",
+      "status": "Completed",
+      "date": "2025-09-28T09:37:01.000Z",
+      "createdAt": "2025-09-28T09:37:01.000Z",
+      "updatedAt": "2025-09-28T09:37:01.000Z",
+      "products": [
+        {
+          "id": "wooR9D7d7KExC3yhUA9YM",
+          "title": "Permits & Fees",
+          "costPrice": 320,
+          "sellingPrice": 426,
+          "date": "2025-09-28T09:37:01.000Z"
+        },
+        {
+          "id": "LzXZdZRyUeOcqL2N-BTL7",
+          "title": "Equipment Rental",
+          "costPrice": 735,
+          "sellingPrice": 911,
+          "date": "2025-09-28T09:37:01.000Z"
+        },
+        {
+          "id": "lBsIc7fRIVe_Adih8SGg8",
+          "title": "Consulting Fee",
+          "costPrice": 2045,
+          "sellingPrice": 2638,
+          "date": "2025-09-28T09:37:01.000Z"
+        },
+        {
+          "id": "_TJtAxSbwGtZZNiKrM13N",
+          "title": "Software License",
+          "costPrice": 93,
+          "sellingPrice": 135,
+          "date": "2025-09-28T09:37:01.000Z"
+        },
+        {
+          "id": "-stMRCbZCXN9f4Lx6rAnl",
+          "title": "Consulting Fee",
+          "costPrice": 2219,
+          "sellingPrice": 3129,
+          "date": "2025-09-28T09:37:01.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "RGrODwMcnVjGOSXVWO5Me",
+      "title": "Creative Minds Agency - Q1 Logistics",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Completed",
+      "date": "2025-09-07T10:50:27.000Z",
+      "createdAt": "2025-09-07T10:50:27.000Z",
+      "updatedAt": "2025-09-07T10:50:27.000Z",
+      "products": [
+        {
+          "id": "DGsgaJpCEHuQTJSij72Yn",
+          "title": "Equipment Rental",
+          "costPrice": 1184,
+          "sellingPrice": 1433,
+          "date": "2025-09-07T10:50:27.000Z"
+        },
+        {
+          "id": "p6cvuZTJHkXX5Sso_cSfa",
+          "title": "Raw Materials",
+          "costPrice": 1405,
+          "sellingPrice": 1798,
+          "date": "2025-09-07T10:50:27.000Z"
+        },
+        {
+          "id": "NvSb8EFe0JKEvpWT7AGtV",
+          "title": "Raw Materials",
+          "costPrice": 552,
+          "sellingPrice": 712,
+          "date": "2025-09-07T10:50:27.000Z"
+        },
+        {
+          "id": "8DxpCNvOR02ODihOq-tDk",
+          "title": "Raw Materials",
+          "costPrice": 1420,
+          "sellingPrice": 1775,
+          "date": "2025-09-07T10:50:27.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "GiYOomDqPVYO-Uem4ZmME",
+      "title": "BluePeak Studio - Security Audit",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-09-02T16:11:25.000Z",
+      "createdAt": "2025-09-02T16:11:25.000Z",
+      "updatedAt": "2025-09-02T16:11:25.000Z",
+      "products": [
+        {
+          "id": "wSB_bWFdPNDNvHDSZsUaw",
+          "title": "Software License",
+          "costPrice": 311,
+          "sellingPrice": 398,
+          "date": "2025-09-02T16:11:25.000Z"
+        },
+        {
+          "id": "nGS1XWsfmGhHiF7HfiS9w",
+          "title": "Permits & Fees",
+          "costPrice": 329,
+          "sellingPrice": 428,
+          "date": "2025-09-02T16:11:25.000Z"
+        },
+        {
+          "id": "pOLZyXKWDsysjOoJ26iDi",
+          "title": "Equipment Rental",
+          "costPrice": 401,
+          "sellingPrice": 485,
+          "date": "2025-09-02T16:11:25.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "-E6vUVAfCeUy4-5RmerDf",
+      "title": "Summit Financial - Brand Overhaul",
+      "clientId": "_slWnOQdVhF28xtb0j98B",
+      "status": "Completed",
+      "date": "2025-09-01T14:31:33.000Z",
+      "createdAt": "2025-09-01T14:31:33.000Z",
+      "updatedAt": "2025-09-01T14:31:33.000Z",
+      "products": [
+        {
+          "id": "-nXrWMISAMW8BPxwlV7sv",
+          "title": "Equipment Rental",
+          "costPrice": 827,
+          "sellingPrice": 1183,
+          "date": "2025-09-01T14:31:33.000Z"
+        },
+        {
+          "id": "_Mh6_mIW2VmtrqYlS8dAd",
+          "title": "Permits & Fees",
+          "costPrice": 362,
+          "sellingPrice": 467,
+          "date": "2025-09-01T14:31:33.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "QTG79tRbw3kIzR-UBEsfz",
+      "title": "EcoStruct Builders - Lobby Redesign",
+      "clientId": "RtGyso2yYSpKyHe0Ulysi",
+      "status": "Completed",
+      "date": "2025-09-03T13:16:24.000Z",
+      "createdAt": "2025-09-03T13:16:24.000Z",
+      "updatedAt": "2025-09-03T13:16:24.000Z",
+      "products": [
+        {
+          "id": "DHn63KNonG-OP6KPy6MHP",
+          "title": "Consulting Fee",
+          "costPrice": 3400,
+          "sellingPrice": 4012,
+          "date": "2025-09-03T13:16:24.000Z"
+        },
+        {
+          "id": "fY_h0sHhu6ytmSj0ATdvr",
+          "title": "Software License",
+          "costPrice": 116,
+          "sellingPrice": 151,
+          "date": "2025-09-03T13:16:24.000Z"
+        },
+        {
+          "id": "LdBx1JWleIQBtXJ8Ksv1m",
+          "title": "Equipment Rental",
+          "costPrice": 1129,
+          "sellingPrice": 1603,
+          "date": "2025-09-03T13:16:24.000Z"
+        },
+        {
+          "id": "NehSb6iE00BFKbbYXU6XF",
+          "title": "Transport",
+          "costPrice": 538,
+          "sellingPrice": 780,
+          "date": "2025-09-03T13:16:24.000Z"
+        },
+        {
+          "id": "d8fdeKbJrxWIzHsBNchC8",
+          "title": "Equipment Rental",
+          "costPrice": 684,
+          "sellingPrice": 896,
+          "date": "2025-09-03T13:16:24.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "ZHZy92KGxDb_0uGw90UAN",
+      "title": "BluePeak Studio - Lobby Redesign",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-09-03T11:49:53.000Z",
+      "createdAt": "2025-09-03T11:49:53.000Z",
+      "updatedAt": "2025-09-03T11:49:53.000Z",
+      "products": [
+        {
+          "id": "3lX84Y6dNk8luA7RcIrjV",
+          "title": "Permits & Fees",
+          "costPrice": 193,
+          "sellingPrice": 245,
+          "date": "2025-09-03T11:49:53.000Z"
+        },
+        {
+          "id": "NaOMLr8jgl7qQ_ppxi06u",
+          "title": "Raw Materials",
+          "costPrice": 2927,
+          "sellingPrice": 3454,
+          "date": "2025-09-03T11:49:53.000Z"
+        },
+        {
+          "id": "9TcqMTEVTCAGPecJLzDjj",
+          "title": "Equipment Rental",
+          "costPrice": 361,
+          "sellingPrice": 498,
+          "date": "2025-09-03T11:49:53.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "diUvkuhifuB09wD2PlvoX",
+      "title": "BluePeak Studio - Annual Maintenance",
+      "clientId": "L6RPanHEcyvKIBpldwEqB",
+      "status": "Completed",
+      "date": "2025-09-12T06:42:13.000Z",
+      "createdAt": "2025-09-12T06:42:13.000Z",
+      "updatedAt": "2025-09-12T06:42:13.000Z",
+      "products": [
+        {
+          "id": "x6F8PdnrQXGChDGeGvCiC",
+          "title": "Equipment Rental",
+          "costPrice": 954,
+          "sellingPrice": 1288,
+          "date": "2025-09-12T06:42:13.000Z"
+        },
+        {
+          "id": "Db0sBpuDGQivuwbGbBQQH",
+          "title": "Equipment Rental",
+          "costPrice": 1057,
+          "sellingPrice": 1311,
+          "date": "2025-09-12T06:42:13.000Z"
+        },
+        {
+          "id": "4CJL_4AbY_FvF9981t1rj",
+          "title": "Transport",
+          "costPrice": 836,
+          "sellingPrice": 1162,
+          "date": "2025-09-12T06:42:13.000Z"
+        },
+        {
+          "id": "fcFuKyiN8ZFQetDWNZDc9",
+          "title": "Software License",
+          "costPrice": 464,
+          "sellingPrice": 575,
+          "date": "2025-09-12T06:42:13.000Z"
+        },
+        {
+          "id": "ykbXUBJUlB2ROqDPCQFVR",
+          "title": "Consulting Fee",
+          "costPrice": 3953,
+          "sellingPrice": 4665,
+          "date": "2025-09-12T06:42:13.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "ENfUm8dPnNRPUBZbKqVht",
+      "title": "Urban Garden Co. - Consulting Phase",
+      "clientId": "u1-AXJ3Lgm3V4WWt3BPvz",
+      "status": "Completed",
+      "date": "2025-10-14T06:46:51.000Z",
+      "createdAt": "2025-10-14T06:46:51.000Z",
+      "updatedAt": "2025-10-14T06:46:51.000Z",
+      "products": [
+        {
+          "id": "1fKK_JUDAXMo5O-6ZLoKM",
+          "title": "Consulting Fee",
+          "costPrice": 1057,
+          "sellingPrice": 1448,
+          "date": "2025-10-14T06:46:51.000Z"
+        },
+        {
+          "id": "WUuLlsm9-Ln7dncUbL_0m",
+          "title": "Software License",
+          "costPrice": 218,
+          "sellingPrice": 299,
+          "date": "2025-10-14T06:46:51.000Z"
+        },
+        {
+          "id": "fh05lOL_2nnrBSzt0FTlU",
+          "title": "Equipment Rental",
+          "costPrice": 474,
+          "sellingPrice": 645,
+          "date": "2025-10-14T06:46:51.000Z"
+        },
+        {
+          "id": "nhylfLoTccWomHeQrkMps",
+          "title": "Raw Materials",
+          "costPrice": 1183,
+          "sellingPrice": 1526,
+          "date": "2025-10-14T06:46:51.000Z"
+        },
+        {
+          "id": "De1dkBUGgouBZuh5fGGxg",
+          "title": "Transport",
+          "costPrice": 1143,
+          "sellingPrice": 1612,
+          "date": "2025-10-14T06:46:51.000Z"
+        },
+        {
+          "id": "2mLRreiELbQe2iFrJrmxi",
+          "title": "Transport",
+          "costPrice": 612,
+          "sellingPrice": 820,
+          "date": "2025-10-14T06:46:51.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "cJOCfKB6A0nstXckyNSy5",
+      "title": "Gore Tex - Server Upgrade",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-10-19T08:48:41.000Z",
+      "createdAt": "2025-10-19T08:48:41.000Z",
+      "updatedAt": "2025-10-19T08:48:41.000Z",
+      "products": [
+        {
+          "id": "4vZN0-ADZJMNSs7DFD9oy",
+          "title": "Consulting Fee",
+          "costPrice": 3087,
+          "sellingPrice": 3643,
+          "date": "2025-10-19T08:48:41.000Z"
+        },
+        {
+          "id": "ECRgxx1gNSv3-8eArKUAg",
+          "title": "Software License",
+          "costPrice": 176,
+          "sellingPrice": 224,
+          "date": "2025-10-19T08:48:41.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "W4vqd8J9iOULn6uI5KxBN",
+      "title": "Oceanic Shipping - Spring Campaign",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Completed",
+      "date": "2025-10-24T15:19:45.000Z",
+      "createdAt": "2025-10-24T15:19:45.000Z",
+      "updatedAt": "2025-10-24T15:19:45.000Z",
+      "products": [
+        {
+          "id": "8Je2I840JMP6xp0VU4sXu",
+          "title": "Raw Materials",
+          "costPrice": 1761,
+          "sellingPrice": 2201,
+          "date": "2025-10-24T15:19:45.000Z"
+        },
+        {
+          "id": "finfyyVfSFGmSr_XTUXCN",
+          "title": "Permits & Fees",
+          "costPrice": 232,
+          "sellingPrice": 306,
+          "date": "2025-10-24T15:19:45.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "J-WI3-CGnPizL8bNeQpnJ",
+      "title": "Gore Tex - Annual Maintenance",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Completed",
+      "date": "2025-10-28T07:45:33.000Z",
+      "createdAt": "2025-10-28T07:45:33.000Z",
+      "updatedAt": "2025-10-28T07:45:33.000Z",
+      "products": [
+        {
+          "id": "ci2G90SnVxPYsAmcR8vs_",
+          "title": "Transport",
+          "costPrice": 446,
+          "sellingPrice": 535,
+          "date": "2025-10-28T07:45:33.000Z"
+        },
+        {
+          "id": "eUDYO_8dwydnIw4DAD29N",
+          "title": "Consulting Fee",
+          "costPrice": 1518,
+          "sellingPrice": 1928,
+          "date": "2025-10-28T07:45:33.000Z"
+        },
+        {
+          "id": "qwjyyeiRu4T1KTHq6xzZv",
+          "title": "Raw Materials",
+          "costPrice": 1701,
+          "sellingPrice": 2279,
+          "date": "2025-10-28T07:45:33.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "Y2Ldr4epLjgN67VeJNw7f",
+      "title": "Apex Logistics - Consulting Phase",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Completed",
+      "date": "2025-10-19T11:11:40.000Z",
+      "createdAt": "2025-10-19T11:11:40.000Z",
+      "updatedAt": "2025-10-19T11:11:40.000Z",
+      "products": [
+        {
+          "id": "oQvdetMb6WBcOKi4Q4YRy",
+          "title": "Main d'oeuvre",
+          "costPrice": 4394,
+          "sellingPrice": 5624,
+          "date": "2025-10-19T11:11:40.000Z"
+        },
+        {
+          "id": "cSeUW0AUDjmEgDLp98O4i",
+          "title": "Software License",
+          "costPrice": 240,
+          "sellingPrice": 283,
+          "date": "2025-10-19T11:11:40.000Z"
+        },
+        {
+          "id": "huOAlolzihGcIXU9Zgn42",
+          "title": "Transport",
+          "costPrice": 398,
+          "sellingPrice": 557,
+          "date": "2025-10-19T11:11:40.000Z"
+        },
+        {
+          "id": "qjS_QbEzqu37NMlH2nsOE",
+          "title": "Software License",
+          "costPrice": 230,
+          "sellingPrice": 304,
+          "date": "2025-10-19T11:11:40.000Z"
+        },
+        {
+          "id": "itdcma911tZUfEf5da-Tv",
+          "title": "Consulting Fee",
+          "costPrice": 1537,
+          "sellingPrice": 1967,
+          "date": "2025-10-19T11:11:40.000Z"
+        },
+        {
+          "id": "65dbAVqd58Dnp3dbTde-z",
+          "title": "Software License",
+          "costPrice": 419,
+          "sellingPrice": 587,
+          "date": "2025-10-19T11:11:40.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "y9hn8k02jPfUY9uZneosW",
+      "title": "Oceanic Shipping - Expansion",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Completed",
+      "date": "2025-10-06T12:54:12.000Z",
+      "createdAt": "2025-10-06T12:54:12.000Z",
+      "updatedAt": "2025-10-06T12:54:12.000Z",
+      "products": [
+        {
+          "id": "N3t_CuykH9h0XbrpGhcv1",
+          "title": "Permits & Fees",
+          "costPrice": 392,
+          "sellingPrice": 455,
+          "date": "2025-10-06T12:54:12.000Z"
+        },
+        {
+          "id": "oP6Q19oP-nOsR8uBETvmD",
+          "title": "Permits & Fees",
+          "costPrice": 168,
+          "sellingPrice": 215,
+          "date": "2025-10-06T12:54:12.000Z"
+        },
+        {
+          "id": "DbT91l-U2k-Ua8v3sxjjh",
+          "title": "Consulting Fee",
+          "costPrice": 3249,
+          "sellingPrice": 4614,
+          "date": "2025-10-06T12:54:12.000Z"
+        },
+        {
+          "id": "L8-hCau8lDgKqUn57cE7e",
+          "title": "Transport",
+          "costPrice": 968,
+          "sellingPrice": 1162,
+          "date": "2025-10-06T12:54:12.000Z"
+        },
+        {
+          "id": "P2z_WtEMFXj3wZuFUoG22",
+          "title": "Permits & Fees",
+          "costPrice": 118,
+          "sellingPrice": 140,
+          "date": "2025-10-06T12:54:12.000Z"
+        },
+        {
+          "id": "XAdSFXPxG4oOuR9feq02L",
+          "title": "Software License",
+          "costPrice": 98,
+          "sellingPrice": 132,
+          "date": "2025-10-06T12:54:12.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "b1VovQeTglkSSR2rHlBh-",
+      "title": "EcoStruct Builders - Lobby Redesign",
+      "clientId": "RtGyso2yYSpKyHe0Ulysi",
+      "status": "Completed",
+      "date": "2025-10-02T15:09:50.000Z",
+      "createdAt": "2025-10-02T15:09:50.000Z",
+      "updatedAt": "2025-10-02T15:09:50.000Z",
+      "products": [
+        {
+          "id": "iGTGen0XJmvPs0MV1YKTt",
+          "title": "Equipment Rental",
+          "costPrice": 657,
+          "sellingPrice": 782,
+          "date": "2025-10-02T15:09:50.000Z"
+        },
+        {
+          "id": "RRdJwTa78qRQwEJGRUUyf",
+          "title": "Raw Materials",
+          "costPrice": 736,
+          "sellingPrice": 1008,
+          "date": "2025-10-02T15:09:50.000Z"
+        },
+        {
+          "id": "WWTADIMJwLM87sgPS6vnf",
+          "title": "Raw Materials",
+          "costPrice": 2504,
+          "sellingPrice": 2905,
+          "date": "2025-10-02T15:09:50.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "9REFNRseRIthFX3cdBYKT",
+      "title": "Redwood Legal - Consulting Phase",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Completed",
+      "date": "2025-10-15T13:37:05.000Z",
+      "createdAt": "2025-10-15T13:37:05.000Z",
+      "updatedAt": "2025-10-15T13:37:05.000Z",
+      "products": [
+        {
+          "id": "xiqf4PkXkeyNEiPNSssWH",
+          "title": "Main d'oeuvre",
+          "costPrice": 4483,
+          "sellingPrice": 6187,
+          "date": "2025-10-15T13:37:05.000Z"
+        },
+        {
+          "id": "uGlaRKDhSv1fuGzydlNgg",
+          "title": "Software License",
+          "costPrice": 370,
+          "sellingPrice": 477,
+          "date": "2025-10-15T13:37:05.000Z"
+        },
+        {
+          "id": "U2p-i5CJadXTXCLgU8pJC",
+          "title": "Consulting Fee",
+          "costPrice": 1115,
+          "sellingPrice": 1494,
+          "date": "2025-10-15T13:37:05.000Z"
+        },
+        {
+          "id": "PVR8EMMfE9ZNViRZ-coaq",
+          "title": "Main d'oeuvre",
+          "costPrice": 1955,
+          "sellingPrice": 2346,
+          "date": "2025-10-15T13:37:05.000Z"
+        },
+        {
+          "id": "B3VmNYokoI_FJCIFgIgt_",
+          "title": "Permits & Fees",
+          "costPrice": 330,
+          "sellingPrice": 426,
+          "date": "2025-10-15T13:37:05.000Z"
+        },
+        {
+          "id": "MNQTaWuFZT5hzMZDWm6kn",
+          "title": "Software License",
+          "costPrice": 363,
+          "sellingPrice": 483,
+          "date": "2025-10-15T13:37:05.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "WkYD_mlK9flBvW2ItCzx6",
+      "title": "Velocity Motors - Security Audit",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Completed",
+      "date": "2025-10-11T07:17:09.000Z",
+      "createdAt": "2025-10-11T07:17:09.000Z",
+      "updatedAt": "2025-10-11T07:17:09.000Z",
+      "products": [
+        {
+          "id": "DabiqFbz2T3-Xg6IRQDS1",
+          "title": "Transport",
+          "costPrice": 473,
+          "sellingPrice": 639,
+          "date": "2025-10-11T07:17:09.000Z"
+        },
+        {
+          "id": "4N9DI8Xho9VS29tfDwI1i",
+          "title": "Equipment Rental",
+          "costPrice": 347,
+          "sellingPrice": 423,
+          "date": "2025-10-11T07:17:09.000Z"
+        },
+        {
+          "id": "-pUbqX9MF6QdFqkTxh4Wx",
+          "title": "Main d'oeuvre",
+          "costPrice": 533,
+          "sellingPrice": 741,
+          "date": "2025-10-11T07:17:09.000Z"
+        },
+        {
+          "id": "Qik4F8I9MTZYJ6lezEnPW",
+          "title": "Software License",
+          "costPrice": 366,
+          "sellingPrice": 516,
+          "date": "2025-10-11T07:17:09.000Z"
+        },
+        {
+          "id": "GNnZv_qVGXd74tbQj0aZo",
+          "title": "Raw Materials",
+          "costPrice": 1842,
+          "sellingPrice": 2358,
+          "date": "2025-10-11T07:17:09.000Z"
+        },
+        {
+          "id": "fbMdXe-BoEKOquiNAKhlW",
+          "title": "Main d'oeuvre",
+          "costPrice": 4380,
+          "sellingPrice": 5913,
+          "date": "2025-10-11T07:17:09.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "oXzCBKdhH010JfsGMqIhB",
+      "title": "Creative Minds Agency - Brand Overhaul",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Completed",
+      "date": "2025-10-14T10:00:05.000Z",
+      "createdAt": "2025-10-14T10:00:05.000Z",
+      "updatedAt": "2025-10-14T10:00:05.000Z",
+      "products": [
+        {
+          "id": "ukUQKkZiWQx8iSM3ezaKD",
+          "title": "Permits & Fees",
+          "costPrice": 123,
+          "sellingPrice": 167,
+          "date": "2025-10-14T10:00:05.000Z"
+        },
+        {
+          "id": "Wm0U_6vtIgmvcqqjcPbw8",
+          "title": "Permits & Fees",
+          "costPrice": 329,
+          "sellingPrice": 418,
+          "date": "2025-10-14T10:00:05.000Z"
+        },
+        {
+          "id": "8_kuY-pT1yjSE7BRdfvSL",
+          "title": "Consulting Fee",
+          "costPrice": 1343,
+          "sellingPrice": 1679,
+          "date": "2025-10-14T10:00:05.000Z"
+        },
+        {
+          "id": "jXUH3dtWCZIPc-f5dxg-D",
+          "title": "Consulting Fee",
+          "costPrice": 2129,
+          "sellingPrice": 2555,
+          "date": "2025-10-14T10:00:05.000Z"
+        },
+        {
+          "id": "z-GOvpxH0385MT3264Ipv",
+          "title": "Transport",
+          "costPrice": 1239,
+          "sellingPrice": 1586,
+          "date": "2025-10-14T10:00:05.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "sxJXaNvM5Y7LnshKRUjTd",
+      "title": "Quantum Labs - Spring Campaign",
+      "clientId": "trWHwLK8oEHmBdLOYdKGS",
+      "status": "Completed",
+      "date": "2025-10-01T14:01:55.000Z",
+      "createdAt": "2025-10-01T14:01:55.000Z",
+      "updatedAt": "2025-10-01T14:01:55.000Z",
+      "products": [
+        {
+          "id": "vuf6oegCfgm0q9cB9DmWX",
+          "title": "Consulting Fee",
+          "costPrice": 1443,
+          "sellingPrice": 1861,
+          "date": "2025-10-01T14:01:55.000Z"
+        },
+        {
+          "id": "xc6lHhORo4rGuT2x8OnBK",
+          "title": "Raw Materials",
+          "costPrice": 2440,
+          "sellingPrice": 2952,
+          "date": "2025-10-01T14:01:55.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "c4lLmJwhKQVzRTZ-BUeJz",
+      "title": "TechFlow Solutions - Renovation",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Completed",
+      "date": "2025-10-05T06:31:23.000Z",
+      "createdAt": "2025-10-05T06:31:23.000Z",
+      "updatedAt": "2025-10-05T06:31:23.000Z",
+      "products": [
+        {
+          "id": "9w438Zb_Ll9fmT9hgKPNA",
+          "title": "Main d'oeuvre",
+          "costPrice": 1331,
+          "sellingPrice": 1930,
+          "date": "2025-10-05T06:31:23.000Z"
+        },
+        {
+          "id": "sq1kirxMUQsf0Q7w9XtM9",
+          "title": "Main d'oeuvre",
+          "costPrice": 1885,
+          "sellingPrice": 2677,
+          "date": "2025-10-05T06:31:23.000Z"
+        },
+        {
+          "id": "PnclVY7VeldG2BsmzgPyf",
+          "title": "Transport",
+          "costPrice": 1107,
+          "sellingPrice": 1395,
+          "date": "2025-10-05T06:31:23.000Z"
+        },
+        {
+          "id": "MLV5bNa1AuvtUC0RNof3C",
+          "title": "Transport",
+          "costPrice": 486,
+          "sellingPrice": 573,
+          "date": "2025-10-05T06:31:23.000Z"
+        },
+        {
+          "id": "nEuziGTWi6wQFHhe8Cgdm",
+          "title": "Software License",
+          "costPrice": 215,
+          "sellingPrice": 269,
+          "date": "2025-10-05T06:31:23.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "pGlApb5d4eZ2T4AvJcatZ",
+      "title": "Urban Garden Co. - Server Upgrade",
+      "clientId": "u1-AXJ3Lgm3V4WWt3BPvz",
+      "status": "Completed",
+      "date": "2025-10-21T06:10:54.000Z",
+      "createdAt": "2025-10-21T06:10:54.000Z",
+      "updatedAt": "2025-10-21T06:10:54.000Z",
+      "products": [
+        {
+          "id": "zcc2ybZw7mjx2nA9-SXIm",
+          "title": "Permits & Fees",
+          "costPrice": 387,
+          "sellingPrice": 495,
+          "date": "2025-10-21T06:10:54.000Z"
+        },
+        {
+          "id": "fMRWPEjYhU4CAd07Jp_Wa",
+          "title": "Permits & Fees",
+          "costPrice": 176,
+          "sellingPrice": 236,
+          "date": "2025-10-21T06:10:54.000Z"
+        },
+        {
+          "id": "SyVsle6rvnTQenXQp0e4j",
+          "title": "Main d'oeuvre",
+          "costPrice": 1820,
+          "sellingPrice": 2603,
+          "date": "2025-10-21T06:10:54.000Z"
+        },
+        {
+          "id": "JOI1-WSVd_PWIwKr0AxL9",
+          "title": "Raw Materials",
+          "costPrice": 2637,
+          "sellingPrice": 3613,
+          "date": "2025-10-21T06:10:54.000Z"
+        },
+        {
+          "id": "pcnbQY7dCvveTlwkyiBVc",
+          "title": "Software License",
+          "costPrice": 102,
+          "sellingPrice": 121,
+          "date": "2025-10-21T06:10:54.000Z"
+        },
+        {
+          "id": "zMJ8-ByLLY8c0u-048zCJ",
+          "title": "Equipment Rental",
+          "costPrice": 828,
+          "sellingPrice": 977,
+          "date": "2025-10-21T06:10:54.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "y8ZOT9OFWwksJdGop1ung",
+      "title": "Oceanic Shipping - Spring Campaign",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Completed",
+      "date": "2025-10-10T08:51:01.000Z",
+      "createdAt": "2025-10-10T08:51:01.000Z",
+      "updatedAt": "2025-10-10T08:51:01.000Z",
+      "products": [
+        {
+          "id": "Qccc0qt_mmXkiTf2OLOiJ",
+          "title": "Transport",
+          "costPrice": 326,
+          "sellingPrice": 375,
+          "date": "2025-10-10T08:51:01.000Z"
+        },
+        {
+          "id": "S8zCbZTv4KVBX4BzAgcjT",
+          "title": "Software License",
+          "costPrice": 232,
+          "sellingPrice": 290,
+          "date": "2025-10-10T08:51:01.000Z"
+        },
+        {
+          "id": "oy7gGRqhOhkNgLy1Ag0g-",
+          "title": "Permits & Fees",
+          "costPrice": 230,
+          "sellingPrice": 327,
+          "date": "2025-10-10T08:51:01.000Z"
+        },
+        {
+          "id": "C_RbEM85iRZcERiod24_F",
+          "title": "Transport",
+          "costPrice": 260,
+          "sellingPrice": 328,
+          "date": "2025-10-10T08:51:01.000Z"
+        },
+        {
+          "id": "Io8kzVspQZyKt2cPeQ5XT",
+          "title": "Consulting Fee",
+          "costPrice": 3003,
+          "sellingPrice": 3784,
+          "date": "2025-10-10T08:51:01.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "VMqoKxue2NNQFXwyiSU7B",
+      "title": "Creative Minds Agency - Server Upgrade",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Completed",
+      "date": "2025-10-08T12:32:18.000Z",
+      "createdAt": "2025-10-08T12:32:18.000Z",
+      "updatedAt": "2025-10-08T12:32:18.000Z",
+      "products": [
+        {
+          "id": "2cAi7QufhXmqtTAPAi_pl",
+          "title": "Transport",
+          "costPrice": 1054,
+          "sellingPrice": 1296,
+          "date": "2025-10-08T12:32:18.000Z"
+        },
+        {
+          "id": "XsoFfyHc8MrGDWYsO_Pkx",
+          "title": "Software License",
+          "costPrice": 357,
+          "sellingPrice": 503,
+          "date": "2025-10-08T12:32:18.000Z"
+        },
+        {
+          "id": "oCxAa6-dsxn5nLT95XxPV",
+          "title": "Equipment Rental",
+          "costPrice": 657,
+          "sellingPrice": 788,
+          "date": "2025-10-08T12:32:18.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "cC1VEq9JAW-iNK6e0Kwjw",
+      "title": "Urban Garden Co. - Q1 Logistics",
+      "clientId": "u1-AXJ3Lgm3V4WWt3BPvz",
+      "status": "Completed",
+      "date": "2025-10-15T13:10:52.000Z",
+      "createdAt": "2025-10-15T13:10:52.000Z",
+      "updatedAt": "2025-10-15T13:10:52.000Z",
+      "products": [
+        {
+          "id": "bmqiCEqkzVoo5YEiARed_",
+          "title": "Raw Materials",
+          "costPrice": 414,
+          "sellingPrice": 575,
+          "date": "2025-10-15T13:10:52.000Z"
+        },
+        {
+          "id": "1svrX921ksOjTyOOadKXU",
+          "title": "Main d'oeuvre",
+          "costPrice": 1300,
+          "sellingPrice": 1820,
+          "date": "2025-10-15T13:10:52.000Z"
+        },
+        {
+          "id": "MS4cg8NCw38TCnA_ZCjkT",
+          "title": "Permits & Fees",
+          "costPrice": 166,
+          "sellingPrice": 236,
+          "date": "2025-10-15T13:10:52.000Z"
+        },
+        {
+          "id": "dZoznftVotFg61vhKy9rL",
+          "title": "Permits & Fees",
+          "costPrice": 165,
+          "sellingPrice": 211,
+          "date": "2025-10-15T13:10:52.000Z"
+        },
+        {
+          "id": "czbdbCgRSyPIgHgHAWhYh",
+          "title": "Permits & Fees",
+          "costPrice": 243,
+          "sellingPrice": 284,
+          "date": "2025-10-15T13:10:52.000Z"
+        },
+        {
+          "id": "6qjTCJO5YjM4hYS_aH0Bl",
+          "title": "Software License",
+          "costPrice": 421,
+          "sellingPrice": 610,
+          "date": "2025-10-15T13:10:52.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "OeeEwiaBEpdsoD6M7GzB3",
+      "title": "Summit Financial - Brand Overhaul",
+      "clientId": "_slWnOQdVhF28xtb0j98B",
+      "status": "Completed",
+      "date": "2025-10-01T12:33:02.000Z",
+      "createdAt": "2025-10-01T12:33:02.000Z",
+      "updatedAt": "2025-10-01T12:33:02.000Z",
+      "products": [
+        {
+          "id": "fnAuO7-_I7WFWa-CVPUBv",
+          "title": "Software License",
+          "costPrice": 278,
+          "sellingPrice": 320,
+          "date": "2025-10-01T12:33:02.000Z"
+        },
+        {
+          "id": "QAqaZvELWt8uYFmlRE2yx",
+          "title": "Raw Materials",
+          "costPrice": 1646,
+          "sellingPrice": 2321,
+          "date": "2025-10-01T12:33:02.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "sf9bFTcQxNosFkToAODp4",
+      "title": "Nordic Café - Annual Maintenance",
+      "clientId": "XVuaihXggZrGJ0ucQYTDS",
+      "status": "Active",
+      "date": "2025-11-02T11:06:53.000Z",
+      "createdAt": "2025-11-02T11:06:53.000Z",
+      "updatedAt": "2025-11-02T11:06:53.000Z",
+      "products": [
+        {
+          "id": "0XBp9h5MXr6_lfDTveOjb",
+          "title": "Consulting Fee",
+          "costPrice": 2833,
+          "sellingPrice": 3853,
+          "date": "2025-11-02T11:06:53.000Z"
+        },
+        {
+          "id": "oWoObnYN2J4hylQqAV3Ge",
+          "title": "Equipment Rental",
+          "costPrice": 1001,
+          "sellingPrice": 1321,
+          "date": "2025-11-02T11:06:53.000Z"
+        },
+        {
+          "id": "0R48crbML0IqEp0WFr24b",
+          "title": "Main d'oeuvre",
+          "costPrice": 3364,
+          "sellingPrice": 4676,
+          "date": "2025-11-02T11:06:53.000Z"
+        },
+        {
+          "id": "ddHWPEnipD22zfGKw_056",
+          "title": "Transport",
+          "costPrice": 638,
+          "sellingPrice": 766,
+          "date": "2025-11-02T11:06:53.000Z"
+        },
+        {
+          "id": "v2ZrPMLqBCn1pqnb6V2-T",
+          "title": "Permits & Fees",
+          "costPrice": 287,
+          "sellingPrice": 370,
+          "date": "2025-11-02T11:06:53.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "1oLC3NsEa5q2UHkloo2vU",
+      "title": "Redwood Legal - Security Audit",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Active",
+      "date": "2025-11-26T17:46:36.000Z",
+      "createdAt": "2025-11-26T17:46:36.000Z",
+      "updatedAt": "2025-11-26T17:46:36.000Z",
+      "products": [
+        {
+          "id": "_xf-aiMAGf_IOIGk_bkyC",
+          "title": "Consulting Fee",
+          "costPrice": 1906,
+          "sellingPrice": 2573,
+          "date": "2025-11-26T17:46:36.000Z"
+        },
+        {
+          "id": "lS1V3RK3Oc1SFtPAtkrjF",
+          "title": "Raw Materials",
+          "costPrice": 564,
+          "sellingPrice": 654,
+          "date": "2025-11-26T17:46:36.000Z"
+        },
+        {
+          "id": "xOxLMeFxf-1QtIXa74Z9U",
+          "title": "Software License",
+          "costPrice": 71,
+          "sellingPrice": 100,
+          "date": "2025-11-26T17:46:36.000Z"
+        },
+        {
+          "id": "MCJYKhpkzUXD3aO5HR4gU",
+          "title": "Consulting Fee",
+          "costPrice": 3237,
+          "sellingPrice": 3917,
+          "date": "2025-11-26T17:46:36.000Z"
+        },
+        {
+          "id": "hKYhPpylUJ8rm5PgqiYFM",
+          "title": "Raw Materials",
+          "costPrice": 2274,
+          "sellingPrice": 2911,
+          "date": "2025-11-26T17:46:36.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "g7CxDMbakOutv2FfoCUEh",
+      "title": "Gore Tex - Renovation",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Active",
+      "date": "2025-11-01T16:48:15.000Z",
+      "createdAt": "2025-11-01T16:48:15.000Z",
+      "updatedAt": "2025-11-01T16:48:15.000Z",
+      "products": [
+        {
+          "id": "3p6Mmwt1ouVQ_JGuAbrpy",
+          "title": "Raw Materials",
+          "costPrice": 1518,
+          "sellingPrice": 2019,
+          "date": "2025-11-01T16:48:15.000Z"
+        },
+        {
+          "id": "qLpHzUKH_PgZSohS47r0M",
+          "title": "Software License",
+          "costPrice": 119,
+          "sellingPrice": 165,
+          "date": "2025-11-01T16:48:15.000Z"
+        },
+        {
+          "id": "jKmv2PL6TFYMxRj8xgtbC",
+          "title": "Raw Materials",
+          "costPrice": 1336,
+          "sellingPrice": 1643,
+          "date": "2025-11-01T16:48:15.000Z"
+        },
+        {
+          "id": "WL2R1QyP7SN9Uh9YTUp3I",
+          "title": "Main d'oeuvre",
+          "costPrice": 4058,
+          "sellingPrice": 4829,
+          "date": "2025-11-01T16:48:15.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "KWfFm22Q0Tt4NZNLKgrsB",
+      "title": "Velocity Motors - Renovation",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Active",
+      "date": "2025-11-02T15:45:14.000Z",
+      "createdAt": "2025-11-02T15:45:14.000Z",
+      "updatedAt": "2025-11-02T15:45:14.000Z",
+      "products": [
+        {
+          "id": "zRvD_fjSIJ8TmZI2ACr_P",
+          "title": "Transport",
+          "costPrice": 1039,
+          "sellingPrice": 1403,
+          "date": "2025-11-02T15:45:14.000Z"
+        },
+        {
+          "id": "tgtpXIYLsarCt_t1bknpv",
+          "title": "Software License",
+          "costPrice": 365,
+          "sellingPrice": 529,
+          "date": "2025-11-02T15:45:14.000Z"
+        },
+        {
+          "id": "1u6C2BgxAszqi1xnFDXBT",
+          "title": "Equipment Rental",
+          "costPrice": 385,
+          "sellingPrice": 481,
+          "date": "2025-11-02T15:45:14.000Z"
+        },
+        {
+          "id": "2Lhary-Z2soBaddVAhrmw",
+          "title": "Permits & Fees",
+          "costPrice": 343,
+          "sellingPrice": 398,
+          "date": "2025-11-02T15:45:14.000Z"
+        },
+        {
+          "id": "nVaRUYr81vebMnnpcOJv_",
+          "title": "Software License",
+          "costPrice": 319,
+          "sellingPrice": 424,
+          "date": "2025-11-02T15:45:14.000Z"
+        },
+        {
+          "id": "iO5VtCoQKnDVdPJwdUZkf",
+          "title": "Permits & Fees",
+          "costPrice": 265,
+          "sellingPrice": 368,
+          "date": "2025-11-02T15:45:14.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "D8Qw2XsxPWe9Oev_8QUoQ",
+      "title": "Oceanic Shipping - Renovation",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Active",
+      "date": "2025-11-23T16:28:03.000Z",
+      "createdAt": "2025-11-23T16:28:03.000Z",
+      "updatedAt": "2025-11-23T16:28:03.000Z",
+      "products": [
+        {
+          "id": "WEAcG1_hvVNt2Q3bYgI-h",
+          "title": "Software License",
+          "costPrice": 173,
+          "sellingPrice": 215,
+          "date": "2025-11-23T16:28:03.000Z"
+        },
+        {
+          "id": "l4QCIvbh8B6RKeNWPxYGM",
+          "title": "Software License",
+          "costPrice": 262,
+          "sellingPrice": 335,
+          "date": "2025-11-23T16:28:03.000Z"
+        },
+        {
+          "id": "w-EhmoIvsgFX2mnAOMyE3",
+          "title": "Permits & Fees",
+          "costPrice": 273,
+          "sellingPrice": 322,
+          "date": "2025-11-23T16:28:03.000Z"
+        },
+        {
+          "id": "IuU1UngoV1wh17NjaY4F-",
+          "title": "Main d'oeuvre",
+          "costPrice": 2513,
+          "sellingPrice": 3443,
+          "date": "2025-11-23T16:28:03.000Z"
+        },
+        {
+          "id": "mDCtCATqF6y_IGh0bVW7_",
+          "title": "Main d'oeuvre",
+          "costPrice": 843,
+          "sellingPrice": 1104,
+          "date": "2025-11-23T16:28:03.000Z"
+        },
+        {
+          "id": "68lmnSppw18GHLAOmhAtm",
+          "title": "Software License",
+          "costPrice": 467,
+          "sellingPrice": 663,
+          "date": "2025-11-23T16:28:03.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "wDqA5xVptUoCx9mAw9khk",
+      "title": "TechFlow Solutions - Lobby Redesign",
+      "clientId": "jDXcVkdF6mEKPOAuDoFd0",
+      "status": "Active",
+      "date": "2025-11-18T12:57:42.000Z",
+      "createdAt": "2025-11-18T12:57:42.000Z",
+      "updatedAt": "2025-11-18T12:57:42.000Z",
+      "products": [
+        {
+          "id": "5Ps-mpPsjA9iDHOsUsMDD",
+          "title": "Software License",
+          "costPrice": 322,
+          "sellingPrice": 412,
+          "date": "2025-11-18T12:57:42.000Z"
+        },
+        {
+          "id": "ycmPkLRoPnkLo0uYzhrdQ",
+          "title": "Consulting Fee",
+          "costPrice": 3284,
+          "sellingPrice": 4105,
+          "date": "2025-11-18T12:57:42.000Z"
+        },
+        {
+          "id": "UCfBu3Ru4vudoExcuFJ7t",
+          "title": "Equipment Rental",
+          "costPrice": 957,
+          "sellingPrice": 1263,
+          "date": "2025-11-18T12:57:42.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "9BriCXFsA_dW5FH66Jyob",
+      "title": "Quantum Labs - Renovation",
+      "clientId": "trWHwLK8oEHmBdLOYdKGS",
+      "status": "Active",
+      "date": "2025-11-01T12:09:15.000Z",
+      "createdAt": "2025-11-01T12:09:15.000Z",
+      "updatedAt": "2025-11-01T12:09:15.000Z",
+      "products": [
+        {
+          "id": "R5m0PnOIy9df09FYoE4kT",
+          "title": "Permits & Fees",
+          "costPrice": 248,
+          "sellingPrice": 350,
+          "date": "2025-11-01T12:09:15.000Z"
+        },
+        {
+          "id": "VKDTs20dtflB-Bxp83LnK",
+          "title": "Permits & Fees",
+          "costPrice": 196,
+          "sellingPrice": 274,
+          "date": "2025-11-01T12:09:15.000Z"
+        },
+        {
+          "id": "Y8yLbup-iWBE_zX5t4T2K",
+          "title": "Main d'oeuvre",
+          "costPrice": 914,
+          "sellingPrice": 1079,
+          "date": "2025-11-01T12:09:15.000Z"
+        },
+        {
+          "id": "OFXESTusgDgSc8nVWyDff",
+          "title": "Raw Materials",
+          "costPrice": 1343,
+          "sellingPrice": 1558,
+          "date": "2025-11-01T12:09:15.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "G8jp02iibxY2LcZ4xMghe",
+      "title": "Oceanic Shipping - Server Upgrade",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Active",
+      "date": "2025-11-09T09:52:42.000Z",
+      "createdAt": "2025-11-09T09:52:42.000Z",
+      "updatedAt": "2025-11-09T09:52:42.000Z",
+      "products": [
+        {
+          "id": "keGGJJ9Rf1422EcT46Ztn",
+          "title": "Equipment Rental",
+          "costPrice": 1179,
+          "sellingPrice": 1674,
+          "date": "2025-11-09T09:52:42.000Z"
+        },
+        {
+          "id": "Ddg9QWfXF0WnFKC-4GZjJ",
+          "title": "Permits & Fees",
+          "costPrice": 276,
+          "sellingPrice": 370,
+          "date": "2025-11-09T09:52:42.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "JxPJeELWxb6ogDyTp3-uE",
+      "title": "EcoStruct Builders - Expansion",
+      "clientId": "RtGyso2yYSpKyHe0Ulysi",
+      "status": "Active",
+      "date": "2025-11-15T16:54:02.000Z",
+      "createdAt": "2025-11-15T16:54:02.000Z",
+      "updatedAt": "2025-11-15T16:54:02.000Z",
+      "products": [
+        {
+          "id": "JO4wVbIXbc7r7It9t4Oz3",
+          "title": "Raw Materials",
+          "costPrice": 994,
+          "sellingPrice": 1203,
+          "date": "2025-11-15T16:54:02.000Z"
+        },
+        {
+          "id": "8DpsKASxTMv7DCRCEGFmN",
+          "title": "Main d'oeuvre",
+          "costPrice": 2537,
+          "sellingPrice": 3425,
+          "date": "2025-11-15T16:54:02.000Z"
+        },
+        {
+          "id": "yGAjJ9ZoIuSmVBJNYopsM",
+          "title": "Consulting Fee",
+          "costPrice": 3790,
+          "sellingPrice": 5192,
+          "date": "2025-11-15T16:54:02.000Z"
+        },
+        {
+          "id": "6xlQW8pfQAr-iabfVybMu",
+          "title": "Main d'oeuvre",
+          "costPrice": 501,
+          "sellingPrice": 601,
+          "date": "2025-11-15T16:54:02.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "4YZIDodM-LnPms40ih_ID",
+      "title": "Starlight Events - Consulting Phase",
+      "clientId": "660z2WHqhASPxvmIq05G4",
+      "status": "Draft",
+      "date": "2025-12-20T13:28:32.000Z",
+      "createdAt": "2025-12-20T13:28:32.000Z",
+      "updatedAt": "2025-12-20T13:28:32.000Z",
+      "products": [
+        {
+          "id": "9RLMf22kti3ddgXMPPwbB",
+          "title": "Raw Materials",
+          "costPrice": 219,
+          "sellingPrice": 304,
+          "date": "2025-12-20T13:28:32.000Z"
+        },
+        {
+          "id": "KLpzdmeviAMsi8D1o2WHP",
+          "title": "Equipment Rental",
+          "costPrice": 611,
+          "sellingPrice": 855,
+          "date": "2025-12-20T13:28:32.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "eQqnNYgDNjxGA3pn0y6OQ",
+      "title": "Apex Logistics - Renovation",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Draft",
+      "date": "2025-12-03T16:37:39.000Z",
+      "createdAt": "2025-12-03T16:37:39.000Z",
+      "updatedAt": "2025-12-03T16:37:39.000Z",
+      "products": [
+        {
+          "id": "YRVE8C4I_hNgJ5X7Nkx3j",
+          "title": "Raw Materials",
+          "costPrice": 2390,
+          "sellingPrice": 3131,
+          "date": "2025-12-03T16:37:39.000Z"
+        },
+        {
+          "id": "rDL6W1UpaJ3eL8VDmjS_C",
+          "title": "Consulting Fee",
+          "costPrice": 1212,
+          "sellingPrice": 1697,
+          "date": "2025-12-03T16:37:39.000Z"
+        },
+        {
+          "id": "ZjCRMCofvlS2mvy5rzHLM",
+          "title": "Equipment Rental",
+          "costPrice": 460,
+          "sellingPrice": 589,
+          "date": "2025-12-03T16:37:39.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "ZM1uvGN1pIYwovQpqNSLM",
+      "title": "Velocity Motors - Renovation",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Draft",
+      "date": "2025-12-16T09:50:15.000Z",
+      "createdAt": "2025-12-16T09:50:15.000Z",
+      "updatedAt": "2025-12-16T09:50:15.000Z",
+      "products": [
+        {
+          "id": "6a_YYC_x_I_i0zD2qtdnX",
+          "title": "Permits & Fees",
+          "costPrice": 390,
+          "sellingPrice": 538,
+          "date": "2025-12-16T09:50:15.000Z"
+        },
+        {
+          "id": "NoBlcZNdbFLj8L6L4Bx2k",
+          "title": "Main d'oeuvre",
+          "costPrice": 2363,
+          "sellingPrice": 2906,
+          "date": "2025-12-16T09:50:15.000Z"
+        },
+        {
+          "id": "tvCR1AFNegxHU-Kyinko1",
+          "title": "Software License",
+          "costPrice": 110,
+          "sellingPrice": 149,
+          "date": "2025-12-16T09:50:15.000Z"
+        },
+        {
+          "id": "RJCVQFLSxyV6jx3wpiwNk",
+          "title": "Raw Materials",
+          "costPrice": 1835,
+          "sellingPrice": 2551,
+          "date": "2025-12-16T09:50:15.000Z"
+        },
+        {
+          "id": "RFoVSwiT9bEONtM0Ust0P",
+          "title": "Permits & Fees",
+          "costPrice": 399,
+          "sellingPrice": 539,
+          "date": "2025-12-16T09:50:15.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "qzb25YOMxowl_00Fq8-fZ",
+      "title": "Redwood Legal - Q1 Logistics",
+      "clientId": "twq182MxhANz0vQ6j4a_h",
+      "status": "Draft",
+      "date": "2025-12-08T14:21:41.000Z",
+      "createdAt": "2025-12-08T14:21:41.000Z",
+      "updatedAt": "2025-12-08T14:21:41.000Z",
+      "products": [
+        {
+          "id": "V8okLhfcu5jnQakeb3ZEo",
+          "title": "Permits & Fees",
+          "costPrice": 320,
+          "sellingPrice": 422,
+          "date": "2025-12-08T14:21:41.000Z"
+        },
+        {
+          "id": "uSlChoN8dDidG-1ajDqtq",
+          "title": "Permits & Fees",
+          "costPrice": 108,
+          "sellingPrice": 153,
+          "date": "2025-12-08T14:21:41.000Z"
+        },
+        {
+          "id": "ils1rF_GdBkCDmcktSq8c",
+          "title": "Main d'oeuvre",
+          "costPrice": 2595,
+          "sellingPrice": 3088,
+          "date": "2025-12-08T14:21:41.000Z"
+        },
+        {
+          "id": "sITerdW8arCsm6dUkyKI2",
+          "title": "Main d'oeuvre",
+          "costPrice": 1367,
+          "sellingPrice": 1736,
+          "date": "2025-12-08T14:21:41.000Z"
+        },
+        {
+          "id": "XjkA7DwkRdjwU0C0s2bKV",
+          "title": "Transport",
+          "costPrice": 1321,
+          "sellingPrice": 1770,
+          "date": "2025-12-08T14:21:41.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "t3Kt0puQfvn-jBvY10YAu",
+      "title": "Velocity Motors - Q1 Logistics",
+      "clientId": "-L5wF1YXYvErkhB4RIZqO",
+      "status": "Draft",
+      "date": "2025-12-01T12:35:38.000Z",
+      "createdAt": "2025-12-01T12:35:38.000Z",
+      "updatedAt": "2025-12-01T12:35:38.000Z",
+      "products": [
+        {
+          "id": "YGJrqPwqVEZj2jzyPkfm_",
+          "title": "Permits & Fees",
+          "costPrice": 235,
+          "sellingPrice": 338,
+          "date": "2025-12-01T12:35:38.000Z"
+        },
+        {
+          "id": "YuZXZ1R2ksqnUT4X3Sm_x",
+          "title": "Permits & Fees",
+          "costPrice": 328,
+          "sellingPrice": 433,
+          "date": "2025-12-01T12:35:38.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "K6GTdSi6kXFHkJa6zisRG",
+      "title": "Starlight Events - Brand Overhaul",
+      "clientId": "660z2WHqhASPxvmIq05G4",
+      "status": "Draft",
+      "date": "2025-12-28T09:49:52.000Z",
+      "createdAt": "2025-12-28T09:49:52.000Z",
+      "updatedAt": "2025-12-28T09:49:52.000Z",
+      "products": [
+        {
+          "id": "dFr49BSPICDW1Gk4XIl4n",
+          "title": "Consulting Fee",
+          "costPrice": 3974,
+          "sellingPrice": 4848,
+          "date": "2025-12-28T09:49:52.000Z"
+        },
+        {
+          "id": "wWtTmgj2s0S84b37qKx6v",
+          "title": "Raw Materials",
+          "costPrice": 2794,
+          "sellingPrice": 4051,
+          "date": "2025-12-28T09:49:52.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "WQZQLiXl04Ld-paL-YoF2",
+      "title": "Apex Logistics - Server Upgrade",
+      "clientId": "Rp4fy5VNzNSs2iSuaaM1B",
+      "status": "Draft",
+      "date": "2025-12-23T11:49:41.000Z",
+      "createdAt": "2025-12-23T11:49:41.000Z",
+      "updatedAt": "2025-12-23T11:49:41.000Z",
+      "products": [
+        {
+          "id": "lGwAX9TMBHFhcJUXDdhAO",
+          "title": "Software License",
+          "costPrice": 182,
+          "sellingPrice": 248,
+          "date": "2025-12-23T11:49:41.000Z"
+        },
+        {
+          "id": "CSfIDZZ4bGc1b_gZPgNaL",
+          "title": "Software License",
+          "costPrice": 500,
+          "sellingPrice": 725,
+          "date": "2025-12-23T11:49:41.000Z"
+        },
+        {
+          "id": "38HS6zEiLhs2KaQCPIqNT",
+          "title": "Main d'oeuvre",
+          "costPrice": 1113,
+          "sellingPrice": 1469,
+          "date": "2025-12-23T11:49:41.000Z"
+        },
+        {
+          "id": "yCZFZ8sPKR0V829IW84bb",
+          "title": "Software License",
+          "costPrice": 466,
+          "sellingPrice": 610,
+          "date": "2025-12-23T11:49:41.000Z"
+        },
+        {
+          "id": "eEB36xQxSHcYWZyqsspnX",
+          "title": "Main d'oeuvre",
+          "costPrice": 4766,
+          "sellingPrice": 6100,
+          "date": "2025-12-23T11:49:41.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "pmAZlS6DtEgY435Jx5M56",
+      "title": "Quantum Labs - Security Audit",
+      "clientId": "trWHwLK8oEHmBdLOYdKGS",
+      "status": "Draft",
+      "date": "2025-12-19T09:29:35.000Z",
+      "createdAt": "2025-12-19T09:29:35.000Z",
+      "updatedAt": "2025-12-19T09:29:35.000Z",
+      "products": [
+        {
+          "id": "JW_ISxLUUOCUWHwr0Ekuo",
+          "title": "Consulting Fee",
+          "costPrice": 1820,
+          "sellingPrice": 2512,
+          "date": "2025-12-19T09:29:35.000Z"
+        },
+        {
+          "id": "ZupWs5wJpu1wZloP-NlRo",
+          "title": "Permits & Fees",
+          "costPrice": 130,
+          "sellingPrice": 178,
+          "date": "2025-12-19T09:29:35.000Z"
+        },
+        {
+          "id": "wn22DUFPHYVP6Li8eUfIQ",
+          "title": "Equipment Rental",
+          "costPrice": 809,
+          "sellingPrice": 1108,
+          "date": "2025-12-19T09:29:35.000Z"
+        },
+        {
+          "id": "1iqdAXOW8dJC1RHO6cr4t",
+          "title": "Software License",
+          "costPrice": 423,
+          "sellingPrice": 516,
+          "date": "2025-12-19T09:29:35.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "sURF70CcT1A54wgRbr3uV",
+      "title": "Oceanic Shipping - Expansion",
+      "clientId": "Jd_5uxRG-vFqmyUI1p-_n",
+      "status": "Draft",
+      "date": "2025-12-20T11:35:03.000Z",
+      "createdAt": "2025-12-20T11:35:03.000Z",
+      "updatedAt": "2025-12-20T11:35:03.000Z",
+      "products": [
+        {
+          "id": "GHuHZpAwysZb7YswKWr2k",
+          "title": "Consulting Fee",
+          "costPrice": 3003,
+          "sellingPrice": 4024,
+          "date": "2025-12-20T11:35:03.000Z"
+        },
+        {
+          "id": "wEjXwBEUxwEzfUUNGNcOe",
+          "title": "Transport",
+          "costPrice": 1022,
+          "sellingPrice": 1451,
+          "date": "2025-12-20T11:35:03.000Z"
+        },
+        {
+          "id": "QTWha064SeeTNXgVAJoAb",
+          "title": "Equipment Rental",
+          "costPrice": 850,
+          "sellingPrice": 1156,
+          "date": "2025-12-20T11:35:03.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "07nAZHO9Q6wRIQOmHbrKG",
+      "title": "Gore Tex - Security Audit",
+      "clientId": "KuR-iZNX9-v0kIijic8ck",
+      "status": "Draft",
+      "date": "2025-12-25T07:42:38.000Z",
+      "createdAt": "2025-12-25T07:42:38.000Z",
+      "updatedAt": "2025-12-25T07:42:38.000Z",
+      "products": [
+        {
+          "id": "6uRd35GpXqxKSLWKq2ZN3",
+          "title": "Main d'oeuvre",
+          "costPrice": 4808,
+          "sellingPrice": 6827,
+          "date": "2025-12-25T07:42:38.000Z"
+        },
+        {
+          "id": "3w6dHkTE0bVcJWeIb9Nb4",
+          "title": "Software License",
+          "costPrice": 389,
+          "sellingPrice": 451,
+          "date": "2025-12-25T07:42:38.000Z"
+        },
+        {
+          "id": "fvMs04LkU5gH4ZQ1hqMWH",
+          "title": "Equipment Rental",
+          "costPrice": 459,
+          "sellingPrice": 633,
+          "date": "2025-12-25T07:42:38.000Z"
+        },
+        {
+          "id": "EXQq2dxsPSLFPmVFbHaDA",
+          "title": "Consulting Fee",
+          "costPrice": 3575,
+          "sellingPrice": 4505,
+          "date": "2025-12-25T07:42:38.000Z"
+        },
+        {
+          "id": "DxfOr57HD4k21i9Rx0vEN",
+          "title": "Permits & Fees",
+          "costPrice": 217,
+          "sellingPrice": 297,
+          "date": "2025-12-25T07:42:38.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "gei5LcJqkWtwS0tayXoau",
+      "title": "Creative Minds Agency - Expansion",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Draft",
+      "date": "2025-12-01T12:32:06.000Z",
+      "createdAt": "2025-12-01T12:32:06.000Z",
+      "updatedAt": "2025-12-01T12:32:06.000Z",
+      "products": [
+        {
+          "id": "ji3Rglmhz8L9GW15TV-ja",
+          "title": "Raw Materials",
+          "costPrice": 2247,
+          "sellingPrice": 2741,
+          "date": "2025-12-01T12:32:06.000Z"
+        },
+        {
+          "id": "kfDJUYFwCwZPj2HAxmWhK",
+          "title": "Main d'oeuvre",
+          "costPrice": 1838,
+          "sellingPrice": 2628,
+          "date": "2025-12-01T12:32:06.000Z"
+        },
+        {
+          "id": "HXGQTpjnBZIQdokZF9zZA",
+          "title": "Raw Materials",
+          "costPrice": 1552,
+          "sellingPrice": 2095,
+          "date": "2025-12-01T12:32:06.000Z"
+        },
+        {
+          "id": "GRLS_yQVHYNANGToG7RkS",
+          "title": "Consulting Fee",
+          "costPrice": 1504,
+          "sellingPrice": 1835,
+          "date": "2025-12-01T12:32:06.000Z"
+        },
+        {
+          "id": "VyJywjAgND3PbF_VTkB8A",
+          "title": "Software License",
+          "costPrice": 239,
+          "sellingPrice": 320,
+          "date": "2025-12-01T12:32:06.000Z"
+        }
+      ],
+      "image": null
+    },
+    {
+      "id": "fJrQOL_pulEos1j_WXYcI",
+      "title": "Creative Minds Agency - Security Audit",
+      "clientId": "YIcffCxPxyPYONmHa7Awj",
+      "status": "Draft",
+      "date": "2025-12-23T17:11:48.000Z",
+      "createdAt": "2025-12-23T17:11:48.000Z",
+      "updatedAt": "2025-12-23T17:11:48.000Z",
+      "products": [
+        {
+          "id": "t1XclZ1v08pR1DvlG4itF",
+          "title": "Software License",
+          "costPrice": 188,
+          "sellingPrice": 243,
+          "date": "2025-12-23T17:11:48.000Z"
+        },
+        {
+          "id": "oLQ63MJ0rDreMTeiVJg0M",
+          "title": "Software License",
+          "costPrice": 371,
+          "sellingPrice": 508,
+          "date": "2025-12-23T17:11:48.000Z"
+        }
+      ],
+      "image": null
+    }
+  ]
+}

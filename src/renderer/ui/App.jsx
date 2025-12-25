@@ -16,6 +16,7 @@ import {
 } from "@mantine/core";
 import { notifications } from "@mantine/notifications";
 import { motion, AnimatePresence } from "framer-motion";
+import logo from "../../assets/logo.jpg";
 import {
   IconLayoutDashboard,
   IconBriefcase2,
@@ -151,15 +152,16 @@ export function App() {
                 width: 38,
                 height: 38,
                 borderRadius: 12,
-                background:
-                  "linear-gradient(135deg, rgba(99, 102, 241, 0.9), rgba(16, 185, 129, 0.7))",
+                backgroundImage: `url(${logo})`,
+                backgroundSize: "cover",
+                backgroundPosition: "center",
                 boxShadow:
                   "0 14px 40px rgba(99, 102, 241, 0.20), 0 12px 30px rgba(16, 185, 129, 0.12)",
               }}
             />
             <Stack gap={2}>
               <Title order={3} style={{ letterSpacing: -0.5 }}>
-                MarginMaster
+                Marginino
               </Title>
             </Stack>
           </Group>

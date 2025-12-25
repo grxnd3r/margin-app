@@ -20,7 +20,7 @@ async function createWindow() {
     minHeight: 700,
     backgroundColor: "#0B1220",
     show: false,
-    title: "MarginMaster",
+    title: "Marginino",
     webPreferences: {
       contextIsolation: true,
       nodeIntegration: false,

@@ -1,6 +1,7 @@
 import React, { useMemo, useState } from "react";
 import {
   Card,
+  Checkbox,
   Group,
   MultiSelect,
   SegmentedControl,
@@ -74,6 +75,9 @@ export function Dashboard() {
   const [year, setYear] = useState(String(dayjs().year()));
   const [clientIds, setClientIds] = useState([]);
   const [marginMode, setMarginMode] = useState("value"); // value | percent
+  const [isCumulative, setIsCumulative] = useState(false);
+  const [showRevenue, setShowRevenue] = useState(true);
+  const [showProfit, setShowProfit] = useState(true);
 
   const clientOptions = useMemo(() => {
     return (state.clients || [])
@@ -132,7 +136,7 @@ export function Dashboard() {
     }
 
     const sorted = [...grouped.values()].sort((a, b) => a.key.localeCompare(b.key));
-    const chart = sorted.map((x) => ({
+    const chartRaw = sorted.map((x) => ({
       name:
         range.granularity === "day"
           ? dayjs(x.key).format("D MMM")
@@ -141,6 +145,23 @@ export function Dashboard() {
       profit: Math.round(x.profit * 100) / 100,
       marginPct: x.revenue > 0 ? (x.profit / x.revenue) * 100 : 0,
     }));
+
+    let chart = chartRaw;
+    if (isCumulative) {
+      let rev = 0;
+      let prof = 0;
+      chart = chartRaw.map((x) => {
+        rev += x.revenue || 0;
+        prof += x.profit || 0;
+        const marginPct = rev > 0 ? (prof / rev) * 100 : 0;
+        return {
+          ...x,
+          revenue: Math.round(rev * 100) / 100,
+          profit: Math.round(prof * 100) / 100,
+          marginPct,
+        };
+      });
+    }
 
     const period =
       timeMode === "thisMonth"
@@ -157,13 +178,16 @@ export function Dashboard() {
       chartData: chart,
       periodLabel: period,
     };
-  }, [state.projects, state.clients, timeMode, year, clientIds]);
+  }, [state.projects, state.clients, timeMode, year, clientIds, isCumulative]);
 
   const clientLabel = useMemo(() => {
     if (!clientIds?.length) return "Tous les clients";
     if (clientIds.length === 1) return clientsById.get(clientIds[0])?.name || "1 client";
     return `${clientIds.length} clients`;
   }, [clientIds, clientsById]);
+
+  const showLeftAxis = showRevenue || (showProfit && marginMode !== "percent");
+  const showRightAxis = showProfit && marginMode === "percent";
 
   return (
     <Stack gap="lg">
@@ -218,6 +242,25 @@ export function Dashboard() {
             onChange={(e) => setMarginMode(e.currentTarget.checked ? "percent" : "value")}
             label={marginMode === "percent" ? "Marge (%)" : "Bénéfice (€)"}
           />
+
+          <Switch
+            checked={isCumulative}
+            onChange={(e) => setIsCumulative(e.currentTarget.checked)}
+            label={isCumulative ? "Cumulé" : "Non cumulé"}
+          />
+
+          <Group gap="sm">
+            <Checkbox
+              checked={showRevenue}
+              onChange={(e) => setShowRevenue(e.currentTarget.checked)}
+              label="Facturé"
+            />
+            <Checkbox
+              checked={showProfit}
+              onChange={(e) => setShowProfit(e.currentTarget.checked)}
+              label="Bénéfice"
+            />
+          </Group>
         </Group>
       </Group>
 
@@ -256,9 +299,9 @@ export function Dashboard() {
       >
         <Group justify="space-between" mb="sm">
           <Stack gap={2}>
-            <Text fw={700}>Revenue vs. {marginMode === "percent" ? "Marge %" : "Bénéfice"}</Text>
+            <Text fw={700}>Facturé vs. {marginMode === "percent" ? "Marge %" : "Bénéfice"}</Text>
             <Text size="sm" c="dimmed">
-              Évolution mensuelle des performances
+              {isCumulative ? "Cumulé sur la période" : "Évolution sur la période"}
             </Text>
           </Stack>
         </Group>
@@ -268,13 +311,15 @@ export function Dashboard() {
             <BarChart data={chartData}>
               <CartesianGrid stroke="rgba(255,255,255,0.08)" vertical={false} />
               <XAxis dataKey="name" stroke="rgba(255,255,255,0.45)" tick={{ fontSize: 12 }} />
-              <YAxis
-                yAxisId="left"
-                stroke="rgba(255,255,255,0.45)"
-                tick={{ fontSize: 12 }}
-                tickFormatter={(v) => (marginMode === "percent" ? EUR.format(v) : EUR.format(v))}
-              />
-              {marginMode === "percent" ? (
+              {showLeftAxis ? (
+                <YAxis
+                  yAxisId="left"
+                  stroke="rgba(255,255,255,0.45)"
+                  tick={{ fontSize: 12 }}
+                  tickFormatter={(v) => EUR.format(v)}
+                />
+              ) : null}
+              {showRightAxis ? (
                 <YAxis
                   yAxisId="right"
                   orientation="right"
@@ -291,26 +336,30 @@ export function Dashboard() {
                 }}
                 cursor={false}
                 formatter={(value, name, item) => {
-                  if (name === "revenue") return [EUR.format(value), "Revenue"];
+                  if (name === "revenue") return [EUR.format(value), "Facturé"];
                   if (name === "profit") return [EUR.format(value), "Profit"];
                   if (name === "marginPct") return [`${value.toFixed(1)}%`, "Margin %"];
                   return [value, name];
                 }}
               />
-              <Bar
-                yAxisId="left"
-                dataKey="revenue"
-                fill="rgba(99, 102, 241, 0.78)"
-                radius={[8, 8, 0, 0]}
-                activeBar={false}
-              />
-              <Bar
-                yAxisId={marginMode === "percent" ? "right" : "left"}
-                dataKey={marginMode === "percent" ? "marginPct" : "profit"}
-                fill="rgba(16, 185, 129, 0.76)"
-                radius={[8, 8, 0, 0]}
-                activeBar={false}
-              />
+              {showRevenue ? (
+                <Bar
+                  yAxisId="left"
+                  dataKey="revenue"
+                  fill="rgba(99, 102, 241, 0.78)"
+                  radius={[8, 8, 0, 0]}
+                  activeBar={false}
+                />
+              ) : null}
+              {showProfit ? (
+                <Bar
+                  yAxisId={marginMode === "percent" ? "right" : "left"}
+                  dataKey={marginMode === "percent" ? "marginPct" : "profit"}
+                  fill="rgba(16, 185, 129, 0.76)"
+                  radius={[8, 8, 0, 0]}
+                  activeBar={false}
+                />
+              ) : null}
             </BarChart>
           </ResponsiveContainer>
         </div>
