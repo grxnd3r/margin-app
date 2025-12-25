@@ -1,0 +1,18 @@
+:root {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 600px at 10% 0%, rgba(99, 102, 241, 0.20), transparent 55%),
+    radial-gradient(900px 550px at 90% 10%, rgba(16, 185, 129, 0.15), transparent 55%),
+    radial-gradient(900px 700px at 40% 120%, rgba(59, 130, 246, 0.12), transparent 60%),
+    #070B14;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
