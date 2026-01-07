@@ -3,6 +3,10 @@
   "productName": "MarginMaster",
   "version": "0.1.0",
   "description": "MarginMaster — a simple but fancy margin tracker for small business projects.",
+  "author": {
+    "name": "grxnd3r",
+    "email": "grxnd3r@example.com"
+  },
   "type": "module",
   "private": true,
   "repository": {
