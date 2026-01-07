@@ -5,13 +5,52 @@
   "description": "MarginMaster — a simple but fancy margin tracker for small business projects.",
   "type": "module",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grxnd3r/margin-app.git"
+  },
   "main": "src/main/main.js",
   "scripts": {
     "dev": "concurrently -k \"bun run dev:renderer\" \"bun run dev:electron\"",
-    "dev:renderer": "vite",
-    "dev:electron": "wait-on tcp:5173 && electron .",
-    "build": "vite build",
-    "preview": "vite preview"
+    "dev:renderer": "bun dev-server.js",
+    "dev:electron": "wait-on tcp:5173 && electron . --no-sandbox",
+    "build": "bun run build:renderer && electron-builder build --publish never",
+    "build:renderer": "bun build index.html --outdir dist/renderer --target browser",
+    "dist:mac": "bun run build:renderer && electron-builder --mac",
+    "dist:linux": "bun run build:renderer && electron-builder --linux",
+    "preview": "echo 'Use bun build for previewing if needed'"
+  },
+  "build": {
+    "appId": "com.marginmaster.app",
+    "productName": "MarginMaster",
+    "directories": {
+      "output": "dist/electron"
+    },
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "grxnd3r",
+        "repo": "margin-app"
+      }
+    ],
+    "files": [
+      "dist/renderer/**/*",
+      "src/main/**/*",
+      "src/preload/**/*",
+      "package.json",
+      "db.json"
+    ],
+    "mac": {
+      "target": "dmg",
+      "category": "public.app-category.business"
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb"
+      ],
+      "category": "Office"
+    }
   },
   "dependencies": {
     "@mantine/core": "^7.17.0",
@@ -29,12 +68,9 @@
     "recharts": "^2.15.4"
   },
   "devDependencies": {
-    "@tauri-apps/api": "^2.9.1",
-    "@tauri-apps/cli": "^2.9.6",
-    "@vitejs/plugin-react": "^4.6.0",
     "concurrently": "^9.2.1",
     "electron": "^35.2.2",
-    "vite": "^6.1.0",
+    "electron-builder": "^26.4.0",
     "wait-on": "^8.0.4"
   }
 }

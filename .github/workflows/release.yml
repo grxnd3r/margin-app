@@ -1,38 +1,39 @@
-name: Release
+name: Release Electron App
+
 on:
   push:
     tags:
-      - 'v*' # Trigger on tags like v1.0.0
+      - 'v*'
+  workflow_dispatch:
 
 jobs:
-  build-tauri:
-    permissions:
-      contents: write
+  build:
+    runs-on: ${{ matrix.os }}
     strategy:
-      fail-fast: false
       matrix:
-        platform: [macos-latest]
-    runs-on: ${{ matrix.platform }}
+        os: [macos-latest, ubuntu-latest]
+
     steps:
-      - uses: actions/checkout@v4
-      - name: Setup Bun
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install Bun
         uses: oven-sh/setup-bun@v1
         with:
           bun-version: latest
-      - name: Install dependencies (Ubuntu only)
-        if: matrix.platform == 'ubuntu-latest'
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libgtk-3-dev libwebkit2gtk-4.1-dev
-      - name: Install frontend dependencies
+
+      - name: Install dependencies
         run: bun install
-      - name: Build Tauri App
-        uses: tauri-apps/tauri-action@v0
+
+      - name: Build renderer
+        run: bun run build:renderer
+
+      - name: Build and Publish Electron App
+        run: |
+          if [ "${{ matrix.os }}" = "macos-latest" ]; then
+            bun x electron-builder --mac --publish always
+          else
+            bun x electron-builder --linux --publish always
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tagName: ${{ github.ref_name }}
-          releaseName: 'App v__VERSION__'
-          releaseBody: 'See the assets to download this version and install.'
-          releaseDraft: true
-          prerelease: false
