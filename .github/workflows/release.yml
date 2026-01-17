@@ -11,10 +11,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [macos-latest, ubuntu-latest]
+    runs-on: macos-latest
 
     steps:
       - name: Checkout code
@@ -32,11 +29,6 @@ jobs:
         run: bun run build:renderer
 
       - name: Build and Publish Electron App
-        run: |
-          if [ "${{ matrix.os }}" = "macos-latest" ]; then
-            bun x electron-builder --mac --publish always
-          else
-            bun x electron-builder --linux --publish always
-          fi
+        run: bun x electron-builder --mac --universal --publish always
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
