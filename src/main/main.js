@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 function isDev() {
-  return !app.isPackaged;
+  return !app.isPackaged && process.env.NODE_ENV !== 'production';
 }
 
 async function createWindow() {

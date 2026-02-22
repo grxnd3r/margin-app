@@ -10,6 +10,7 @@ import {
   SegmentedControl,
   SimpleGrid,
   Stack,
+  Table,
   Text,
   TextInput,
   Title,
@@ -20,6 +21,7 @@ import { Navigate, Route, Routes, useLocation, useNavigate, useParams } from "re
 import { motion, AnimatePresence } from "framer-motion";
 import {
   IconArrowLeft,
+  IconCheck,
   IconChevronRight,
   IconPlus,
   IconSearch,
@@ -169,74 +171,76 @@ function ProjectsListView() {
             </Stack>
           </Card>
         ) : (
-        <SimpleGrid cols={{ base: 1, sm: 2, md: 3, lg: 4 }} spacing="md">
-          <AnimatePresence initial={false}>
-            {rows.map((p, idx) => (
-              <motion.div
-                key={p.id}
-                initial={{ opacity: 0, y: 10 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: -6 }}
-                transition={{ duration: 0.18, delay: Math.min(idx * 0.012, 0.12) }}
-              >
-                <Card
-                  radius="lg"
-                  p="lg"
-                  onClick={() => navigate(`/projects/edit/${p.id}`)}
-                  className="mm-clickCard"
-                  style={{
-                    cursor: "pointer",
-                    background: "rgba(255,255,255,0.04)",
-                    border: "1px solid rgba(255,255,255,0.06)",
-                    height: "100%",
-                  }}
-                >
-                  <Stack gap="sm">
-                    <Group justify="space-between" align="flex-start" wrap="nowrap">
-                      <Group gap="sm" wrap="nowrap" style={{ minWidth: 0 }}>
-                        <SquareAvatar src={p.image} label={p.title} />
-                        <Stack gap={2} style={{ minWidth: 0 }}>
-                          <Text fw={800} size="md" style={{ letterSpacing: -0.2 }} lineClamp={2}>
-                            {p.title || "Untitled Project"}
-                          </Text>
-                          <Text c="dimmed" size="xs" lineClamp={1}>
-                            {p.clientName} · {dayjs(p.date || p.createdAt).format("D MMM YYYY")}
-                          </Text>
-                        </Stack>
+        <Card
+          radius="lg"
+          p={0}
+          style={{
+            background: "rgba(255,255,255,0.04)",
+            border: "1px solid rgba(255,255,255,0.06)",
+            overflow: "hidden",
+          }}
+        >
+          <Table highlightOnHover verticalSpacing="sm" horizontalSpacing="md">
+            <Table.Thead>
+              <Table.Tr style={{ borderBottom: "1px solid rgba(255,255,255,0.08)" }}>
+                <Table.Th>Client</Table.Th>
+                <Table.Th>Projet</Table.Th>
+                <Table.Th style={{ textAlign: "right" }}>Bénéfice</Table.Th>
+                <Table.Th style={{ textAlign: "right" }}>% Marge</Table.Th>
+              </Table.Tr>
+            </Table.Thead>
+            <Table.Tbody>
+              {rows.map((p) => {
+                const isCompleted = p.status === "Completed";
+                return (
+                  <Table.Tr
+                    key={p.id}
+                    onClick={() => navigate(`/projects/edit/${p.id}`)}
+                    style={{
+                      cursor: "pointer",
+                      background: isCompleted ? "rgba(32, 201, 151, 0.06)" : undefined,
+                    }}
+                  >
+                    <Table.Td>
+                      <Text size="sm" c={isCompleted ? "dimmed" : undefined}>
+                        {p.clientName}
+                      </Text>
+                    </Table.Td>
+                    <Table.Td>
+                      <Group gap="xs" wrap="nowrap">
+                        {isCompleted && (
+                          <IconCheck size={16} color="var(--mantine-color-teal-6)" />
+                        )}
+                        <Text
+                          size="sm"
+                          fw={600}
+                          c={isCompleted ? "dimmed" : undefined}
+                          lineClamp={1}
+                        >
+                          {p.title || "Untitled Project"}
+                        </Text>
                       </Group>
-                      <Badge color={statusColor(p.status)} variant="light" radius="sm">
-                        {p.status || "Draft"}
-                      </Badge>
-                    </Group>
-
-                    <Group gap="lg" justify="space-between">
-                      <Stack gap={0}>
-                        <Text size="xs" c="dimmed" fw={700}>
-                          Produits
-                        </Text>
-                        <Text fw={800}>{(p.products || []).length}</Text>
-                      </Stack>
-                      <Stack gap={0} style={{ textAlign: "right" }}>
-                        <Text size="xs" c="dimmed" fw={700}>
-                          Bénéfice
-                        </Text>
-                        <Text fw={800} c={p.totals.profit >= 0 ? "teal" : "red"}>
-                          {EUR.format(p.totals.profit)}
-                        </Text>
-                      </Stack>
-                      <Stack gap={0} style={{ textAlign: "right" }}>
-                        <Text size="xs" c="dimmed" fw={700}>
-                          Marge
-                        </Text>
-                        <Text fw={800}>{formatPct(p.totals.marginPct)}</Text>
-                      </Stack>
-                    </Group>
-                  </Stack>
-                </Card>
-              </motion.div>
-            ))}
-          </AnimatePresence>
-        </SimpleGrid>
+                    </Table.Td>
+                    <Table.Td style={{ textAlign: "right" }}>
+                      <Text
+                        size="sm"
+                        fw={700}
+                        c={isCompleted ? "dimmed" : p.totals.profit >= 0 ? "teal" : "red"}
+                      >
+                        {EUR.format(p.totals.profit)}
+                      </Text>
+                    </Table.Td>
+                    <Table.Td style={{ textAlign: "right" }}>
+                      <Text size="sm" fw={700} c={isCompleted ? "dimmed" : undefined}>
+                        {formatPct(p.totals.marginPct)}
+                      </Text>
+                    </Table.Td>
+                  </Table.Tr>
+                );
+              })}
+            </Table.Tbody>
+          </Table>
+        </Card>
       )}
     </Stack>
   );
